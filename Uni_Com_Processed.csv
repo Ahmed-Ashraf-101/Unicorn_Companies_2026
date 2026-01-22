@@ -1,0 +1,1327 @@
+company,valuation,date_joined,country,city,industry,select_investors,size
+OpenAI,500.0,2019-07-22,United States,San Francisco,Enterprise Tech,"Khosla Ventures, Thrive Capital, Sequoia Capital",Hectocorn
+ByteDance,480.0,2017-04-07,China,Beijing,Media & Entertainment,"Sequoia Capital China, SIG Asia Investments, Sina Weibo, SoftBank Group",Hectocorn
+SpaceX,400.0,2012-12-01,United States,Hawthorne,Industrials,"Founders Fund, Draper Fisher Jurvetson, Rothenberg Ventures",Hectocorn
+Anthropic,350.0,2023-02-03,United States,San Francisco,Enterprise Tech,Google,Hectocorn
+Databricks,100.0,2019-02-05,United States,San Francisco,Enterprise Tech,"Andreessen Horowitz, New Enterprise Associates, Battery Ventures",Hectocorn
+Revolut,75.0,2018-04-26,United Kingdom,London,Financial Services,"Index Ventures, DST Global, Ribbit Capital",Decacorn
+Stripe,70.0,2014-01-23,United States,San Francisco,Financial Services,"Khosla Ventures, LowercaseCapital, capitalG",Decacorn
+SHEIN,66.0,2018-07-03,Singapore,Singapore,Consumer & Retail,"Tiger Global Management, Sequoia Capital China, Shunwei Capital Partners",Decacorn
+xAI,50.0,2024-05-26,United States,Burlingame,Enterprise Tech,"Sequoia Capital, Andreessen Horowitz, VY Capital",Decacorn
+Ripple,40.0,2019-12-20,United States,San Francisco,Financial Services,"IDG Capital, Venture51, Lightspeed Venture Partners",Decacorn
+Figure,39.0,2024-02-23,United States,Sunnyvale,Industrials,"Intel Capital, Parkway VC, Amazon Industrial Innovation Fund",Decacorn
+Ramp,32.0,2021-03-29,United States,New York,Enterprise Tech,"D1 Capital Partners, Stripe, Coatue Management",Decacorn
+Canva,32.0,2018-01-08,Australia,Surry Hills,Enterprise Tech,"Sequoia Capital China, Blackbird Ventures, Matrix Partners",Decacorn
+Fanatics,31.0,2012-06-06,United States,Jacksonville,Consumer & Retail,"SoftBank Group, Andreessen Horowitz, Temasek Holdings",Decacorn
+Safe Superintelligence,30.0,2024-09-04,United States,San Francisco,Enterprise Tech,"Sequoia Capital, DST Global, Andreessen Horowitz",Decacorn
+Anysphere,29.3,2024-12-20,United States,San Francisco,Enterprise Tech,"Andreessen Horowitz, Thrive Capital, OpenAI Startup Fund",Decacorn
+Epic Games,22.5,2018-10-26,United States,Cary,Media & Entertainment,"Tencent Holdings, KKR, Smash Ventures",Decacorn
+Chime,25.0,2019-03-05,United States,San Francisco,Financial Services,"Forerunner Ventures, Crosslink Capital, Homebrew",Decacorn
+Chobani,20.0,2025-10-16,United States,New York,Consumer & Retail,unknown,Decacorn
+Perplexity,20.0,2024-04-23,United States,San Francisco,Enterprise Tech,"New Enterprise Associates, Institutional Venture Partners, NVentures",Decacorn
+Deel,17.5,2021-04-21,United States,San Francisco,Enterprise Tech,"Andreessen Horowitz, Spark Capital, Y Combinator",Decacorn
+Miro,17.5,2022-01-05,United States,San Francisco,Enterprise Tech,"Accel, AltaIR Capital, Technology Crossover Ventures",Decacorn
+Xiaohongshu,17.0,2016-03-31,China,Shanghai,Media & Entertainment,"GGV Capital, ZhenFund, Tencent",Decacorn
+Rippling,16.8,2020-08-04,United States,San Francisco,Enterprise Tech,"Initialized Capital, Y Combinator, Kleiner Perkins Caufield & Byers",Decacorn
+Yuanfudao,15.5,2017-05-31,China,Beijing,Consumer & Retail,"Tencent Holdings, Warbug Pincus, IDG Capital",Decacorn
+DJI Innovations,15.0,2015-01-23,China,Shenzhen,Industrials,"Accel Partners, Sequoia Capital",Decacorn
+Discord,15.0,2018-04-20,United States,San Francisco,Media & Entertainment,"Benchmark, Greylock Partners, Tencent Holdings",Decacorn
+Yuanqi Senlin,15.0,2020-03-01,China,Beijing,Consumer & Retail,"Sequoia Capital China, Longfor Capitalm, Gaorong Capital",Decacorn
+Trade Republic,14.65,2021-05-20,Germany,Berlin,Financial Services,"Founders Fund. Accel, Creandum",Decacorn
+Anduril,14.0,2019-09-11,United States,Irvine,Industrials,"Andreessen Horowitz, Founders Fund, Revolution Ventures",Decacorn
+Scale,13.8,2019-08-05,United States,San Francisco,Enterprise Tech,"Accel, Y Combinator, Index Ventures",Decacorn
+OpenSea,13.3,2021-07-20,United States,New York,Media & Entertainment,"Andreessen Horowitz, Thirty Five Ventures, Sound Ventures",Decacorn
+Mistral AI,13.25,2023-12-10,France,Paris,Enterprise Tech,"Lightspeed Venture Partners, General Catalyst, Andreessen Horowitz",Decacorn
+Celonis,13.0,2018-06-26,Germany,Munich,Enterprise Tech,"Accel, 83North",Decacorn
+Grammarly,13.0,2019-10-10,United States,San Francisco,Media & Entertainment,"General Catalyst, Institutional Venture Partners, Breyer Capital",Decacorn
+Devoted Health,12.9,2018-10-16,United States,Waltham,Healthcare & Life Sciences,"Andreessen Horowitz, F-Prime Capital, Venrock",Decacorn
+Faire,12.59,2019-10-30,United States,San Francisco,Consumer & Retail,"Khosla Ventures, Forerunner Ventures, Sequoia Capital",Decacorn
+Labs,12.5,2025-04-18,United States,Beverly Hills,Enterprise Tech,"JET Venture Capital, Sivad VC",Decacorn
+Brex,12.3,2018-10-05,United States,San Francisco,Enterprise Tech,"DST Global, Ribbit Capital, Greenoaks Capital Management",Decacorn
+JUUL Labs,12.0,2017-12-20,United States,San Francisco,Consumer & Retail,Tiger Global Management,Decacorn
+Bitmain Technologies,12.0,2018-07-06,China,Beijing,Enterprise Tech,"Coatue Management, Sequoia Capital China, IDG Capital",Decacorn
+GoodLeap,12.0,2021-10-13,United States,Roseville,Financial Services,"New Enterprise Associates, BDT Capital Partners, Davidson Kempner Capital Management",Decacorn
+Xingsheng Selected,12.0,2020-07-22,China,Changsha,Consumer & Retail,"KKR, Tencent Holdings, Sequoia Capital China",Decacorn
+Airtable,11.7,2018-11-15,United States,San Francisco,Enterprise Tech,"Caffeinated Capital, CRV, Founder Collective",Decacorn
+Whatnot,11.5,2021-09-16,United States,Marina del Rey,Consumer & Retail,"Y Combinator, Andreessen Horowitz, Wonder Ventures",Decacorn
+ZongMu Technology,11.4,2021-06-03,China,Shanghai,Industrials,"LTW Capital, Legend Capital, Qualcomm Ventures",Decacorn
+Oura,11.0,2022-04-05,Finland,Oulu,Healthcare & Life Sciences,"Forerunner Ventures, Lifeline Ventures, MSD Capital",Decacorn
+Bending Spoons,11.71,2024-02-15,Italy,Milan,Consumer & Retail,"Durable Capital Partners, Adjacent, Creator Partners",Decacorn
+Global Switch,11.1,2016-12-22,United Kingdom,London,Enterprise Tech,"Aviation Industry Corporation of China, Essence Financial, Jiangsu Sha Steel Group",Decacorn
+Checkout.com,11.0,2019-05-02,United Kingdom,London,Financial Services,"Tiger Global Management, Insight Partners, DST Global",Decacorn
+Bolt,11.0,2021-10-08,United States,San Francisco,Financial Services,"Activant Capital, Tribe Capital, General Atlantic",Decacorn
+Sierra,10.0,2024-10-28,United States,San Francisco,Enterprise Tech,"Benchmark, Sequoia Capital, Greenoaks",Decacorn
+Alchemy,10.2,2021-10-28,United States,San Francisco,Enterprise Tech,"DFJ Growth Fund, Coatue Management, Addition",Decacorn
+Bilt Rewards,10.75,2022-10-25,United States,New York,Financial Services,"Camber Creek, Kairos HQ, Fifth Wall Ventures",Decacorn
+Colossal,10.2,2023-01-31,United States,Austin,Healthcare & Life Sciences,"Animal Capital, Breyer Capital, In-Q-Tel",Decacorn
+Huolala,10.0,2019-02-21,China,Guangzhou,Industrials,"MindWorks Ventures, Shunwei Capital Partners, Xiang He Capital",Decacorn
+Thinking Machines Lab,10.0,2025-06-20,United States,San Francisco,Enterprise Tech,"Andreessen Horowitz, Accel",Decacorn
+Crusoe,10.0,2022-04-21,United States,Denver,Industrials,"Bain Capital Ventures, Founders Fund, Winklevoss Capital",Decacorn
+Gusto,10.0,2015-12-18,United States,San Francisco,Financial Services,"General Catalyst Partners, Google Ventures, Kleiner Perkins Caufield & Byers",Decacorn
+Chehaoduo,10.0,2016-03-12,China,Beijing,Consumer & Retail,"Sequoia Capital China, GX Capital",Decacorn
+Talkdesk,10.0,2018-10-03,United States,San Francisco,Enterprise Tech,"DJF, Salesforce Ventures, Storm Ventures",Decacorn
+Mercor,10.0,2025-01-27,United States,San Francisco,Enterprise Tech,"Felicis, Benchmark",Decacorn
+Notion,10.0,2020-04-01,United States,San Francisco,Enterprise Tech,"Index Ventures, Draft Ventures, Felicis Ventures",Decacorn
+Digital Currency Group,10.0,2021-11-01,United States,New York,Financial Services,"Ribbit Capital, capitalG, Softbank Group",Decacorn
+KuCoin,10.0,2022-05-10,Seychelles,Victoria,Financial Services,"IDG Capital, Matrix Partners China, Jump Crypto",Decacorn
+Cognition AI,9.8,2024-04-24,United States,San Francisco,Enterprise Tech,"Founders Fund, Khosla Ventures",Unicorn
+Neuralink,9.65,2021-07-30,United States,Freemont,Healthcare & Life Sciences,"Craft Ventures, Founders Fund, VY Capital",Unicorn
+HEYTEA,9.28,2019-07-01,China,Shenzhen,Consumer & Retail,"Sequoia Capital China, Tencent Investment, BA Capital",Unicorn
+N26,9.23,2019-01-10,Germany,Berlin,Financial Services,"Redalpine Venture Partners, Earlybird Venture Capital, Valar Ventures",Unicorn
+Navan,9.2,2018-11-08,United States,Palo Alto,Enterprise Tech,"Andreessen Horowitz, Lightspeed Venture Partners, Zeev Ventures",Unicorn
+VAST Data,9.1,2020-04-16,United States,New York,Enterprise Tech,"Norwest Venture Partners, Goldman Sachs, Dell Technologies Capital",Unicorn
+Polymarket,9.0,2025-10-07,United States,New York,Financial Services,"1789 Capital, Founders Fund",Unicorn
+Tanium,9.0,2015-03-31,United States,Kirkland,Enterprise Tech,"Andreessen Horowitz, Nor-Cal Invest, TPG Growth",Unicorn
+Niantic,9.0,2017-11-24,United States,San Francisco,Media & Entertainment,"Nintendo, Google, Pokemon Company International, Spark Capital",Unicorn
+OYO Rooms,9.0,2018-09-25,India,Gurugram,Consumer & Retail,"SoftBank Group, Sequoia Capital India, Lightspeed India Partners",Unicorn
+Rapyd,8.75,2019-12-03,United Kingdom,London,Financial Services,"Target Global, General Catalyst, Durable Capital Partners",Unicorn
+Chainalysis,8.6,2020-11-23,United States,New York,Financial Services,"Addition, Benhcmark, Accel",Unicorn
+Gopuff,8.5,2020-10-08,United States,Philadelphia,Consumer & Retail,"Accel, SoftBank Group, Anthos Capital",Unicorn
+Personio,8.5,2021-01-19,Germany,Munich,Enterprise Tech,"Global Founders Capital, Nortzone Ventures, Picus Capital",Unicorn
+SumUp,8.5,2019-07-16,United Kingdom,London,Financial Services,"American Express Ventures, Goldman Sachs, Bain Capital Credit",Unicorn
+Bolt,8.4,2018-05-29,Estonia,Tallinn,Industrials,"Didi Chuxing, Diamler, TMT Investments",Unicorn
+Tipalti,8.3,2020-10-06,United States,San Mateo,Enterprise Tech,"01 Advisors, Zeev Ventures, Group 11",Unicorn
+Dream11,8.0,2019-04-09,India,Mumbai,Media & Entertainment,"Kaalari Capital, Tencent Holdings, Steadview Capital",Unicorn
+Reflection AI,8.0,2025-10-09,United States,New York,Enterprise Tech,"1789 Capital, Charles River Ventures, Sequoia Capital",Unicorn
+Airwallex,8.0,2019-03-25,Australia,Melbourne,Financial Services,"DST Global, Sequoia Capital China, Tencent Holdings",Unicorn
+Fireblocks,8.0,2021-07-27,United States,New York,Financial Services,"Tenaya Capital, Coatue Management, Stripes Group",Unicorn
+Flexport,8.0,2018-04-30,United States,San Francisco,Industrials,"Bloomberg Beta, Founders Fund, First Round Capital",Unicorn
+FalconX,8.0,2021-08-10,United States,San Mateo,Financial Services,"Tiger Global Management, American Express Ventures, B Capital Group",Unicorn
+Caris,7.83,2021-05-12,United States,Irving,Healthcare & Life Sciences,"Sixth Street Partners, OrbiMed Advisors, Highland Capital Management",Unicorn
+Dapper Labs,7.6,2021-03-30,Canada,Vancouver,Media & Entertainment,"Union Square Ventures, Venrock, Andreessen Horowitz",Unicorn
+Netskope,7.5,2018-11-13,United States,Santa Clara,Enterprise Tech,"Lightspeed Venture Partners, Social Capital, Accel",Unicorn
+Flock Safety,7.5,2021-07-13,United States,Atlanta,Consumer & Retail,"Matrix Partners, Initialized Capital, Tiger Global Management",Unicorn
+Razorpay,7.5,2020-10-11,India,Bengaluru,Financial Services,"Sequoia Capital India, Tiger Global Management, Matrix Partners India",Unicorn
+Automattic,7.5,2013-05-27,United States,San Francisco,Media & Entertainment,"Insight Venture Partners, Lowercase Capital, Polaris Partners",Unicorn
+Carta,7.4,2019-05-06,United States,San Francisco,Financial Services,"Menlo Ventures, Spark Capital, Union Square Ventures",Unicorn
+Snyk,7.4,2020-01-21,United States,Boston,Enterprise Tech,"BOLDstart Ventures, Google Ventures, Accel",Unicorn
+Gong,7.25,2020-08-12,United States,Palo Alto,Enterprise Tech,"Norwest Venture Partners, Next World Capital, Wing Venture Capital",Unicorn
+Upgrade,7.3,2018-02-12,United States,San Francisco,Financial Services,"Union Square Ventures, Ribbit Capital, VY Capital",Unicorn
+Zepto,7.0,2023-08-25,India,Mumbai,Consumer & Retail,"Nexus Venture Partners, Contrary, Global Founders Capital",Unicorn
+Blockchain.com,7.0,2021-02-17,United Kingdom,London,Financial Services,"Lightspeed Venture Partners, Google Ventures, Lakestar",Unicorn
+Toss,7.0,2018-12-09,South Korea,Seoul,Financial Services,"Bessemer Venture Partners, Qualcomm Ventures, Kleiner Perkins Caufield & Byers",Unicorn
+Wonder,7.0,2021-05-06,United States,New York,Consumer & Retail,"Accel, Forerunner Ventures",Unicorn
+We Doctor,7.0,2015-09-22,China,Hangzhou,Healthcare & Life Sciences,"Tencent, Morningside Group",Unicorn
+Ro,7.0,2020-07-27,United States,New York,Healthcare & Life Sciences,"Initialized Capital, General Catalyst, SignalFire",Unicorn
+ConsenSys,7.0,2021-11-17,United States,New York,Enterprise Tech,"Third Point, Electric Capital, Coinbase Ventures",Unicorn
+Groq,6.9,2021-04-14,United States,Mountain View,Enterprise Tech,"TDK Ventures, Social Capital, D1 Capital Partners",Unicorn
+Automation Anywhere,6.8,2018-07-02,United States,San Jose,Enterprise Tech,"General Atlantic, Goldman Sachs, New Enterprise Associates",Unicorn
+1Password,6.8,2021-07-08,Canada,Toronto,Enterprise Tech,"Slack Fund, Accel, Skip Capital",Unicorn
+PsiQuantum,7.0,2021-07-27,United States,Palo Alto,Enterprise Tech,"Playground Global, M12, BlackRock",Unicorn
+Lovable,6.6,2025-07-17,United States,Dover,Enterprise Tech,"Accel, Hummingbird Ventures",Unicorn
+Ziroom,6.6,2018-01-17,China,Beijing,Consumer & Retail,"Sequoia Capital China, Warburg Pincus, General Catalyst",Unicorn
+ElevenLabs,6.6,2024-01-22,United States,New York,Enterprise Tech,"Andreessen Horowitz, Credo Ventures, Sequoia Capital",Unicorn
+SVOLT,6.51,2020-06-08,China,Changzhou,Industrials,"IDG Capital, Bank Of China Group Investment,, SDIC CMC Investment Management",Unicorn
+National Stock Exchange of India,6.5,2020-07-01,India,Mumbai,Financial Services,"TA Associates, SoftBank Group, GS Growth",Unicorn
+Mollie,6.5,2020-09-08,Netherlands,Amsterdam,Financial Services,Technology Crossover Ventures,Unicorn
+Doctolib,6.4,2019-03-19,France,Paris,Healthcare & Life Sciences,"BPI France, Kerala Ventures, Accel",Unicorn
+CRED,6.4,2021-04-06,India,Bengaluru,Financial Services,"Tiger Global Management, DST Global, Sequoia Capital India",Unicorn
+Snorkel AI,6.35,2021-08-09,United States,Palo Alto,Enterprise Tech,"Greylock Partners, Google Ventures, BlackRock",Unicorn
+DataRobot,6.3,2019-07-29,United States,Boston,Enterprise Tech,"New Enterprise Associates, Accomplice, IA Ventures",Unicorn
+Black Unicorn Factory,6.1,2021-05-20,United States,Los Angeles,Enterprise Tech,Barter Ventures,Unicorn
+Plaid,6.1,2018-12-11,United States,San Francisco,Financial Services,"New Enterprise Associates, Spar Capital, Index Ventures",Unicorn
+Benchling,6.1,2021-04-14,United States,San Francisco,Healthcare & Life Sciences,"Thrive Capital, Benchmark, MenloVentures",Unicorn
+Redwood Materials,6.0,2021-07-28,United States,Carson City,Industrials,"Breakthrough Energy Ventures, Capricorn Investment Group, Valor Equity Partners",Unicorn
+OpenEvidence,6.0,2025-02-19,United States,Cambridge,Healthcare & Life Sciences,Sequoia Capital,Unicorn
+Grafana Labs,6.0,2021-03-25,United States,New York,Enterprise Tech,"Lightspeed Venture Partners, Lead Edge Capital, Coatue Management",Unicorn
+Cyera,9.0,2024-04-09,United States,New York,Enterprise Tech,"Accel, CyberStarts, Sequoia Capital",Unicorn
+Applied Intuition,6.0,2020-10-22,United States,Sunnyvale,Industrials,"Andreessen Horowitz, Lux Capital, General Catalyst",Unicorn
+Commure,6.0,2021-09-16,United States,San Francisco,Healthcare & Life Sciences,"General Catalyst, HCA Healthcare",Unicorn
+Nuro,6.0,2019-02-11,United States,Mountain View,Industrials,"SoftBank Group, Greylock Partners, Gaorong Capital",Unicorn
+iCapital,7.5,2021-07-27,United States,New York,Financial Services,"BlackRock, Blackstone, UBS",Unicorn
+6Sense,5.2,2021-03-30,United States,San Francisco,Enterprise Tech,"Venrock, Battery Ventures, Insight Partners",Unicorn
+Attentive,5.99,2020-09-23,United States,Hoboken,Enterprise Tech,"NextView Ventures, Eniac Ventures, Sequoia Capital",Unicorn
+Easyhome,5.78,2018-02-12,China,Beijing,Consumer & Retail,"Alibaba Group, Boyu Capital, Borui Capital",Unicorn
+Lianjia,5.77,2016-04-07,China,Beijing,Financial Services,"Tencent, Baidu, Huasheng Capital",Unicorn
+Workato,5.7,2021-01-12,United States,Mountain View,Enterprise Tech,"Battery Ventures, Storm Ventures, Redpoint Ventures",Unicorn
+Physical Intelligence,5.6,2024-11-04,United States,San Francisco,Enterprise Tech,"Khosla Ventures, Sequoia Capital, Lux Capital",Unicorn
+Vuori,5.5,2021-10-13,United States,Carlsbad,Consumer & Retail,"SoftBank Group, Norwest Venture Partners",Unicorn
+Back Market,5.7,2021-05-18,France,Paris,Consumer & Retail,"Aglae Ventures, Eurazeo, Daphni",Unicorn
+RELEX,5.7,2022-02-17,Finland,Helsinki,Consumer & Retail,"Blackstone, Technology Crossover Ventures, Summit Partners",Unicorn
+Verkada,5.8,2020-01-29,United States,San Mateo,Industrials,"next47, First Round Capital, Sequoia Capital",Unicorn
+The Boring Company,5.7,2022-04-20,United States,Pflugerville,Industrials,"VY Capital, 8VC, Craft Ventures",Unicorn
+Postman,5.6,2020-06-11,United States,San Francisco,Enterprise Tech,"Nexus Venture Partners, CRV, Insight Partners",Unicorn
+FiveTran,5.6,2020-06-30,United States,Oakland,Enterprise Tech,"Matrix Partners, Andreessen Horowitz, General Catalyst",Unicorn
+ContentSquare,5.6,2021-05-25,France,Paris,Enterprise Tech,"Highland Europe, Eurazeo, Canaan Partners",Unicorn
+Helsing,5.37,2023-09-14,Germany,Munchen,Enterprise Tech,unknown,Unicorn
+Odoo,5.3,2021-07-29,Belgium,Louvain-la-Neuve,Enterprise Tech,"Summit Partners, Noshaq, Sofinnova Partners",Unicorn
+Shield AI,5.3,2021-08-24,United States,San Diego,Industrials,"Andreessen Horowitz, Homebrew, Point72 Ventures",Unicorn
+Rappi,5.25,2018-08-31,Colombia,Bogota,Consumer & Retail,"DST Global, Andreessen Horowitz, Sequoia Capital, Redpoint e.ventures",Unicorn
+Collibra,5.25,2019-01-29,Belgium,Brussels,Enterprise Tech,"Index Ventures, Battery Ventures, ICONIQ Capital",Unicorn
+NinjaOne,5.0,2024-02-06,United States,Austin,Enterprise Tech,unknown,Unicorn
+Unconventional AI,4.5,2025-12-08,United States,San Francisco,Enterprise Tech,"Andreessen Horowitz, Lightspeed Venture Partners",Unicorn
+Quince,4.5,2025-07-29,United States,San Francisco,Enterprise Tech,"8VC, Notable Capital",Unicorn
+OneTrust,4.5,2019-07-11,United States,Atlanta,Enterprise Tech,Insight Partners,Unicorn
+Fuse Energy,5.0,2025-12-18,United Kingdom,London,Industrials,unknown,Unicorn
+QuintoAndar,5.1,2019-09-09,Brazil,Campinas,Financial Services,"Kaszek Ventures, General Atlantic, SoftBank Group",Unicorn
+Monzo,5.9,2018-10-31,United Kingdom,London,Financial Services,"Passion Capital, Thrive Capital, Orange Digital Ventures",Unicorn
+C6 Bank,5.05,2020-12-02,Brazil,Sao Paulo,Financial Services,Credit Suisse,Unicorn
+Supabase,5.0,2025-04-22,United States,San Francisco,Enterprise Tech,"Accel, Coatue, Craft Ventures",Unicorn
+Abnormal Security,5.1,2022-05-10,United States,San Francisco,Enterprise Tech,"Greylock Partners, Insight Partners,Menlo Ventures",Unicorn
+Mambu,5.5,2021-01-06,Netherlands,Amsterdam,Financial Services,"Runa Capital, Acton Capital Partners, Point Nine Capital",Unicorn
+Howden Group Holdings,5.0,2020-09-29,United Kingdom,London,Insurance,"General Atlantic, 3i Group, Huagai Capital",Unicorn
+Metropolis,5.0,2025-11-06,United States,Chicago,Consumer & Retail,unknown,Unicorn
+SambaNova Systems,5.0,2021-04-13,United States,Palo Alto,Enterprise Tech,"Walden International, Google Ventures, Intel Capital",Unicorn
+ZEPZ,5.0,2021-08-23,United Kingdom,London,Financial Services,"Accel, Technology Crossover Ventures, LeapFrog Investments",Unicorn
+OakNorth Bank,5.0,2017-10-12,United Kingdom,London,Financial Services,"Clermont Group, Coltrane Asset Management, Toscafund Asset Management",Unicorn
+Moon Active,5.0,2020-01-26,Israel,Tel Aviv,Media & Entertainment,"Insight Partners, Andalusian Capital Partners",Unicorn
+OfBusiness,5.0,2021-07-31,India,Gurgaon,Industrials,"Matrix Partners India, Falcon Edge Capital, SoftBank Group",Unicorn
+Cockroach Labs,5.0,2021-01-12,United States,New York,Enterprise Tech,"Google Ventures, Benchmark, FirstMark Capital",Unicorn
+Pine Labs,5.0,2020-01-24,India,Noida,Financial Services,"Sequoia Capital India, Temasek, PayPal Ventures",Unicorn
+Qonto,5.0,2022-01-11,France,Paris,Enterprise Tech,"Alven Capital, Valar Ventures, Tencent Holdings",Unicorn
+Icertis,5.0,2019-07-17,United States,Bellevue,Enterprise Tech,"Eight Roads Ventures, Greycroft, Ignition Partners",Unicorn
+Hopper,5.0,2021-03-24,Canada,Montreal,Consumer & Retail,"Capital One Growth Ventures, Citi Ventures, OMERS Ventures",Unicorn
+VerSe Innovation,5.0,2020-12-22,India,Bengaluru,Media & Entertainment,"Falcon Edge Capital, Omidyar Network, Sequoia Capital India",Unicorn
+Lenskart,7.9,2019-12-20,India,Faridabad,Consumer & Retail,"Chiratae Ventures, PremjiInvest, Softbank",Unicorn
+ShareChat,5.0,2021-04-08,India,Bengaluru,Media & Entertainment,"India Quotient, Elevation Capital, Lightspeed Venture Partners",Unicorn
+Coalition,5.0,2021-03-17,United States,San Francisco,Insurance,"Two Sigma Ventures, Flint Capital, Commerce Ventures",Unicorn
+Cerebral,4.8,2021-06-10,United States,San Francisco,Healthcare & Life Sciences,"Oak HC/FT Partners, Artis Ventures, WestCap Group",Unicorn
+Reify Health,4.8,2021-08-10,United States,Boston,Healthcare & Life Sciences,"Sierra Ventures, Battery Ventures, Asset Management Ventures",Unicorn
+Chipone,4.73,2021-12-16,China,Beijing,Industrials,"China Grand Prosperity Investment, Silk Road Huacheng, Oriza Equity Investment",Unicorn
+BetterUp,4.7,2021-02-25,United States,San Francisco,Enterprise Tech,"Threshold Ventures, Lightspeed Venture Partners, Crosslink Capital",Unicorn
+Pleo,4.7,2021-07-06,Denmark,Copenhagen,Enterprise Tech,"Creandum, Founders, Kinnevik",Unicorn
+SonarSource,4.7,2022-04-26,Switzerland,Geneva,Enterprise Tech,"Advent International,General Catalyst,Insight Partners",Unicorn
+Lyra Health,5.85,2020-08-25,United States,Burlingame,Healthcare & Life Sciences,"Greylock Partners, Venrock, Providence Ventures",Unicorn
+SandboxAQ,5.6,2024-12-18,United States,Palo Alto,Enterprise Tech,"Breyer Capital, Parkway VC, TIME Ventures",Unicorn
+Checkr,4.6,2019-09-19,United States,San Francisco,Enterprise Tech,"Y Combinator, Accel, T. Rowe Price",Unicorn
+Glean,4.6,2022-05-18,United States,Palo Alto,Enterprise Tech,"General Catalyst, Kleiner Perkins Caufield & Byers, Lightspeed Venture Partners",Unicorn
+Skims,5.0,2021-04-09,United States,Los Angeles,Consumer & Retail,"Thrive Capital, Alliance Consumer Growth, Imaginary Ventures",Unicorn
+Color,4.6,2021-01-04,United States,Burlingame,Healthcare & Life Sciences,"General Catalyst, Viking Global Investors, T. Rowe Price",Unicorn
+Lendable,4.58,2021-03-31,United Kingdom,London,Financial Services,"Ontario Teachers' Pension Plan, Goldman Sachs",Unicorn
+Vinted,5.4,2019-11-27,Lithuania,Vilnius,Consumer & Retail,"Accel, Insight Partners, Burda Principal Investments",Unicorn
+Helion Energy,5.43,2021-11-05,United States,Redmond,Industrials,"Mithril Capital Management, Y Combinator, Capricorn Investment Group",Unicorn
+VIPKid,4.5,2016-08-04,China,Beijing,Consumer & Retail,"Sequoia Capital China, Tencent Holdings, Sinovation Ventures",Unicorn
+Socure,4.5,2021-03-16,United States,New York,Financial Services,"Two Sigma Ventures, Flint Capital, Commerce Ventures",Unicorn
+wefox,4.5,2019-03-05,Germany,Berlin,Insurance,"Salesforce Ventures, Seedcamp, OMERS Ventures",Unicorn
+Hugging Face,4.5,2022-05-09,United States,New York,Enterprise Tech,"Betaworks Ventures, Addition, Lux Capital",Unicorn
+Outreach,4.4,2019-04-16,United States,Seattle,Enterprise Tech,"Mayfield Fund, M12, Trinity Ventures",Unicorn
+Lightmatter,4.4,2023-12-19,United States,Mountain View,Enterprise Tech,"Google Ventures, Spark Capital, Matrix Partners",Unicorn
+Alan,4.46,2021-04-19,France,Paris,Healthcare & Life Sciences,"Index Ventures, Temasek, Portag3 Ventures",Unicorn
+Guild Education,4.4,2019-11-13,United States,Denver,Enterprise Tech,"General Atlantic, Blackstone, ICONIQ Growth",Unicorn
+Arctic Wolf Networks,4.3,2020-10-22,United States,Eden Prairie,Enterprise Tech,"Lightspeed Venture Partners, Redpoint Ventures, Viking Global Investors",Unicorn
+Island,5.0,2022-03-23,United States,Dallas,Enterprise Tech,"Insight Partners, Sequoia Capital, Stripes Group",Unicorn
+OutSystems,4.3,2018-06-05,United States,Boston,Enterprise Tech,"KKR, ES Ventures, North Bridge Growth Equity",Unicorn
+Erebor,4.35,2025-12-22,United States,Columbus,Financial Services,"Lux Capital, 8VC",Unicorn
+Sorare,4.3,2021-09-21,France,Paris,Media & Entertainment,"Benchmark, Accel, SoftBank Group",Unicorn
+Zipline,4.2,2019-05-20,United States,South San Francisco,Industrials,"Sequoia Capital, Baillie Gifford & Co., Google Ventures",Unicorn
+Relativity Space,4.2,2020-11-23,United States,Inglewood,Industrials,"Playground Global, Bond, Tribe Capital",Unicorn
+Miaoshou Doctor,4.25,2019-06-27,China,Beijing,Healthcare & Life Sciences,"Sequoia Capital China, Qiming Venture Partners, Tencent Holdings",Unicorn
+ThoughtSpot,4.2,2018-05-08,United States,Sunnyvale,Enterprise Tech,"Lightspeed Venture Partners, Khosla Ventures, Geodesic Capital",Unicorn
+Globalization Partners,4.2,2022-01-24,United States,Boston,Enterprise Tech,"Vista Equity Partners, Wincove, TDR Capital",Unicorn
+dbt Labs,4.2,2021-06-30,United States,Philadelphia,Enterprise Tech,"Andreessen Horowitz, Amplify Partners, Sequoia Capital",Unicorn
+SSENSE,4.15,2021-06-08,Canada,Montreal,Consumer & Retail,Sequoia Capital,Unicorn
+Vanta,4.15,2022-06-07,United States,San Francisco,Enterprise Tech,"Craft Ventures, Sequoia Capital, Verissimo Ventures",Unicorn
+Dataminr,4.1,2018-06-04,United States,New York,Enterprise Tech,"Venrock, Institutional Venture Partners, Goldman Sachs",Unicorn
+BitPanda,4.11,2021-03-16,Austria,Vienna,Financial Services,"Speedinvest, Valar Ventures, Uniqa Ventures",Unicorn
+Weee!,4.1,2021-03-16,United States,Fremont,Consumer & Retail,"Goodwater Capital, iFly, XVC Venture Capital",Unicorn
+Base Power,4.0,2025-10-08,United States,Austin,Industrials,"Addition, 137 Ventures",Unicorn
+Fireworks,4.0,2025-10-28,United States,Redwood City,Enterprise Tech,"Evantic Capital, Index Ventures, Sequoia Capital",Unicorn
+AlphaSense,4.0,2022-06-15,United States,New York,Enterprise Tech,"Viking Global Investors, GS Growth, BlackRock",Unicorn
+Saronic Technologies,4.0,2024-07-19,United States,Austin,Industrials,"8VC, Caffeinated Capital, Andreessen Horowitz",Unicorn
+The Brandtech Group,4.0,2019-11-19,United States,New York,Enterprise Tech,Undisclosed,Unicorn
+EON,4.0,2024-11-26,United States,New York,Enterprise Tech,"Lightspeed Venture Partners, Sequoia Capital, Bond",Unicorn
+Houzz,4.0,2014-09-30,United States,Palo Alto,Consumer & Retail,"New Enterprise Associates, Sequoia Capital, Comcast Ventures",Unicorn
+Luma AI,4.0,2025-11-19,United States,Palo Alto,Enterprise Tech,"Humain, AMD Ventures",Unicorn
+Yello Mobile,4.0,2014-11-11,South Korea,Seoul,Consumer & Retail,Formation 8,Unicorn
+Inflection AI,4.0,2022-05-13,United States,Palo Alto,Enterprise Tech,"Gates Frontier, Greylock Partners, Horizons Ventures",Unicorn
+Fal,4.5,2025-07-31,United States,San Fransisco,Enterprise Tech,"Andreessen Horowitz, Notable Capital, Meritech Capital Partners",Unicorn
+MEGVII,4.0,2017-10-31,China,Beijing,Enterprise Tech,"Ant Financial Services Group, Russia-China Investment Fund, Foxconn Technology Company",Unicorn
+Synthesia,4.0,2023-06-13,United Kingdom,London,Enterprise Tech,"Google Ventures, Kleiner Perkins Caufield & Byers, FirstMark Capital",Unicorn
+MiniMax AI,3.7,2023-06-01,China,Shanghai,Enterprise Tech,"HongShan, IDG Capital",Unicorn
+Greensill,4.0,2018-07-16,United Kingdom,London,Financial Services,"SoftBank Group, General Atlantic",Unicorn
+Impossible Foods,4.0,2019-05-13,United States,Redwood City,Consumer & Retail,"Khosla Ventures, Horizons Ventures, Temasek Holdings",Unicorn
+Radiology Partners,4.0,2018-02-26,United States,El Segundo,Healthcare & Life Sciences,"New Enterprise Associates, Starr Investment Holdings",Unicorn
+Next Insurance,4.0,2019-10-07,United States,Palo Alto,Insurance,"Zeev Ventures, Ribbit Capital, TLV Partners",Unicorn
+PointClickCare,4.0,2021-01-07,Canada,Mississauga,Healthcare & Life Sciences,"Dragoneer Investment Group, Hellman & Friedman, JMI Equity",Unicorn
+Zapier,4.0,2021-01-14,United States,Sunnyvale,Enterprise Tech,"Sequoia Capital, Bessemer Venture Partners, Threshold Ventures",Unicorn
+Clubhouse,4.0,2021-01-24,United States,San Francisco,Media & Entertainment,"Andreessen Horowitz, TQ Ventures",Unicorn
+BrowserStack,4.0,2021-06-16,Ireland,Dublin,Enterprise Tech,"Accel, Insight Partners, Bond Capital",Unicorn
+ClickUp,4.0,2020-12-15,United States,San Diego,Enterprise Tech,"Georgian Partners, Craft Ventures",Unicorn
+Cerebras Systems,4.0,2018-11-14,United States,Los Altos,Enterprise Tech,"Benchmark, Foundation Capital, Sequoia Capital",Unicorn
+Farmers Business Network,4.0,2020-08-03,United States,San Carlos,Industrials,"Blackrock, Kleiner Perkins Caulfield & Byers, Google Ventures",Unicorn
+Branch,4.0,2018-09-10,United States,Redwood City,Enterprise Tech,"New Enterprise Associates, Pear, Cowboy Ventures",Unicorn
+Aurora Solar,4.0,2021-05-24,United States,San Francisco,Industrials,"Fifth Wall Ventures, Energize Ventures, ICONIQ Capital",Unicorn
+Webflow,4.0,2021-01-13,United States,San Francisco,Enterprise Tech,"Accel, Silversmith Capital Partners, capitalG",Unicorn
+Yuga Labs,4.0,2022-03-22,United States,Miami,Media & Entertainment,"Andreessen Horowitz, Thrive Capital, Sound Ventures",Unicorn
+firmus,3.92,2025-06-25,Australia,St Leonards,Enterprise Tech,unknown,Unicorn
+Medlinker,3.92,2018-07-31,China,Chengdu,Healthcare & Life Sciences,"China Health Industry Investment Fund, China Renaissance, and Sequoia Capital China",Unicorn
+StockX,3.8,2019-06-26,United States,Detroit,Consumer & Retail,"Google Ventures, Battery Ventures, DST Global",Unicorn
+MessageBird,3.8,2020-10-08,Netherlands,Amsterdam,Enterprise Tech,"Y Combinator, Atomico, Accel",Unicorn
+Articulate,3.75,2021-07-01,United States,New York,Enterprise Tech,"Blackstone, ICONIQ Growth, General Atlantic",Unicorn
+Dutchie,3.75,2021-03-16,United States,Bend,Consumer & Retail,"Casa Verde Capital, Gron Ventures, Thrity Five Ventures",Unicorn
+Cohesity,3.7,2018-06-11,United States,San Jose,Enterprise Tech,"SoftBank Group, Sequoia Capital, Wing Venture Capital",Unicorn
+Abba Platforms,3.7,2024-10-10,United States,New York,Financial Services,Run4 Capital,Unicorn
+Dataiku,3.7,2019-12-04,United States,New York,Enterprise Tech,"Alven Capital, FirstMark Capital, capitalG",Unicorn
+GOAT,3.7,2020-09-23,United States,Culver City,Consumer & Retail,"Upfront Ventures, Webb Investment Network, D1 Capital Partners",Unicorn
+Noom,3.7,2021-05-24,United States,New York,Healthcare & Life Sciences,"Qualcomm Ventures, Samsung Ventures, Silver Lake",Unicorn
+Papaya Global,3.7,2021-03-04,United States,New York,Enterprise Tech,"Bessemer Venture Partners, Insight Partners, New Era Ventures",Unicorn
+Abogen,3.7,2021-11-29,China,Suzhou,Healthcare & Life Sciences,"Hillhouse Capital Management, SoftBank Group, Qiming Venture Partners",Unicorn
+Harness,5.5,2021-01-14,United States,San Francisco,Enterprise Tech,"Menlo Ventures, Alkeon Capital Management, Citi Ventures",Unicorn
+o9 Solutions,3.7,2020-04-28,United States,Dallas,Enterprise Tech,KKR,Unicorn
+Relativity,3.6,2021-03-18,United States,Chicago,Enterprise Tech,"Silver Lake, ICONIQ Capital",Unicorn
+Whoop,3.6,2020-10-28,United States,Boston,Healthcare & Life Sciences,"NextView Ventures, Promus Ventures, Two Sigma Ventures",Unicorn
+Course Hero,3.6,2020-02-12,United States,Redwood City,Consumer & Retail,"NewView Capital, Maveron, Ridge Ventures",Unicorn
+SpotOn,3.6,2021-05-26,United States,San Francisco,Financial Services,"Dragoneer Investment Group, DST Global, Franklin Templeton",Unicorn
+Otto Bock HealthCare,3.52,2017-06-24,Germany,Duderstadt,Healthcare & Life Sciences,EQT Partners,Unicorn
+Chainguard,3.5,2024-07-25,United States,Kirkland,Enterprise Tech,"Amplify Partners, MANTIS Venture Capital, Sequoia Capital",Unicorn
+Cribl,3.5,2021-08-25,United States,San Francisco,Enterprise Tech,"Institutional Venture Partners, CRV, Sequoia Capital",Unicorn
+Hippocratic AI,3.5,2021-03-16,United States,New York,Healthcare & Life Sciences,"Andreessen Horowitz, General Catalyst, NVentures",Unicorn
+Vultr,3.5,2024-12-18,United States,San Francisco,Enterprise Tech,AMD Ventures,Unicorn
+Indigo Ag,3.5,2017-09-26,United States,Boston,Industrials,"Activant Capital Group, Alaska Permanent Fund, Baillie Gifford & Co.",Unicorn
+HyalRoute,3.5,2020-05-26,Singapore,Singapore,Industrials,Kuang-Chi,Unicorn
+Rec Room,3.5,2021-03-23,United States,Seattle,Media & Entertainment,"First Round Capital, Sequoia Capital, Index Ventures",Unicorn
+Mirakl,3.5,2020-09-22,France,Paris,Consumer & Retail,"Elaia Partners, 83North, Felix Capital",Unicorn
+Tekion,4.0,2020-10-21,United States,San Ramon,Industrials,"Airbus Ventures, Index Ventures, Advent International",Unicorn
+GoStudent,3.5,2021-06-22,Austria,Vienna,Consumer & Retail,"DN Capital, Left Lane Capital, Coatue Management",Unicorn
+Highspot,3.5,2021-02-22,United States,Seattle,Enterprise Tech,"Madrona Venture Group, Shasta Ventures, Salesforce Ventures",Unicorn
+Handshake,3.5,2021-05-12,United States,San Francisco,Enterprise Tech,"Kleiner Perkins Caufield & Byers, Lightspeed Venture Partners, True Ventures",Unicorn
+ChargeBee Technologies,3.5,2021-04-20,United States,San Francisco,Financial Services,"Insight Partners, Tiger Global Management, Accel",Unicorn
+Unacademy,3.44,2020-09-02,India,Bengaluru,Consumer & Retail,"Blume Ventures, Nexus Venture Partners, Sequoia Capital India",Unicorn
+MoonPay,3.4,2021-11-22,United States,Miami,Financial Services,"New Enterprise Associates, Coatue Management, Tiger Global Management",Unicorn
+Upstox,3.4,2021-11-29,India,Mumbai,Financial Services,"Tiger Global Management, Kalaari Capital",Unicorn
+Improbable,3.36,2017-05-11,United Kingdom,London,Media & Entertainment,"Andreessen Horowitz, SoftBank Group, Temasek Holdings",Unicorn
+Youxia Motors,3.35,2018-04-02,China,Shanghai,Industrials,"China Environmental Protection Industry, China Fortune Ocean",Unicorn
+Starburst,3.35,2021-01-06,United States,Boston,Enterprise Tech,"Index Ventures, Coatue Management, Andreessen Horowitz",Unicorn
+Moonshot AI,3.3,2024-02-19,China,Beijing,Consumer & Retail,"HongShan, Jinfu Investment, ZhenFund",Unicorn
+Together AI,3.3,2024-03-13,United States,San Francisco,Enterprise Tech,"Definition Capital, Long Journey Ventures, Lux Capital",Unicorn
+Sila,3.3,2019-04-16,United States,Alameda,Industrials,"Bessemer Venture Partners, Sutter Hill Ventures, Matrix Partners",Unicorn
+Tabby,4.5,2023-11-01,United Arab Emirates,Dubai,Financial Services,"Arbor Ventures, STV, Global Founders Capital",Unicorn
+Komodo Health,3.3,2020-05-22,United States,San Francisco,Healthcare & Life Sciences,"Andreessen Horowitz, IA Ventures, Felicis Ventures",Unicorn
+Kurly,3.3,2021-07-09,South Korea,Seoul,Consumer & Retail,"Sequoia Capital China, DST Global, DST Global",Unicorn
+Cars24,3.3,2020-11-24,India,Gurgaon,Industrials,"Moore Strategic Ventures, DST Global, Sequoia Capital India",Unicorn
+Spring Health,3.3,2021-09-16,United States,New York,Healthcare & Life Sciences,"Rethink Impact, Work-Bench, RRE Ventures",Unicorn
+Judi Health,3.25,2024-03-21,United States,New Jersey,Healthcare & Life Sciences,"General Catalyst, B Capital",Unicorn
+Black Forest Labs,3.25,2025-12-01,United States,Wilmington,Enterprise Tech,"Salesforce Ventures, Andreessen Horowitz, AMP",Unicorn
+BlockDaemon,3.25,2021-09-21,United States,Los Angeles,Financial Services,"BOLDstart Ventures, Lerer Hippeau, Kenetic Capital",Unicorn
+Vercel,3.25,2021-06-23,United States,San Francisco,Enterprise Tech,"CRV, Accel, Google Ventures",Unicorn
+Dadi Cinema,3.24,2016-05-11,China,Shenzhen,Media & Entertainment,Alibaba Pictures Group,Unicorn
+Aiven,3.21,2021-10-18,Finland,Helsinki,Enterprise Tech,"Institutional Venture Partners, Atomico, Earlybird Venture Capital",Unicorn
+Thumbtack,3.2,2015-09-29,United States,San Francisco,Consumer & Retail,"Tiger Global, Sequoia Capital, Google Capital",Unicorn
+Cedar,3.2,2021-03-09,United States,New York,Healthcare & Life Sciences,"Thrive Capital, Founders Fund, Cocnord Health Partners",Unicorn
+Eruditus Executive Education,3.1,2021-08-12,India,Mumbai,Enterprise Tech,"Sequoia Capital India, Softbank, Bertelsmann India Investments",Unicorn
+K2 Space,3.0,2025-12-11,United States,Torrance,Industrials,"Redpoint Ventures, Alpine Space Ventures",Unicorn
+Replit,3.0,2023-04-25,United States,San Francisco,Enterprise Tech,"Andreessen Horowitz, Bloomberg Beta, Reach Capital",Unicorn
+Runway,3.0,2023-05-04,United States,New York,Media & Entertainment,"Lux Capital, Compound, Amplify Partners",Unicorn
+Blockstream,3.2,2021-08-24,Canada,Vancouver,Financial Services,"AME Cloud Ventures, Future Perfect Ventures, Blockchain Capital",Unicorn
+Decart,3.21,2025-08-07,United States,San Francisco,Enterprise Tech,"Sequoia Capital, Zeev Ventures",Unicorn
+Addepar,3.25,2021-06-15,United States,Mountain View,Financial Services,"8VC, D1 Capital Partners, Sway Ventures",Unicorn
+Innovaccer,3.45,2021-02-19,United States,San Francisco,Healthcare & Life Sciences,"M12, WestBridge Capital, Lightspeed Venture Partners",Unicorn
+Ironclad,3.2,2022-01-18,United States,Sacramento,Enterprise Tech,"Accel, Sequoia Capital, Y Combinator",Unicorn
+Eikon Therapeutics,1.85,2022-01-06,United States,Hayward,Healthcare & Life Sciences,"The Column Group, Foresite Capital, Foresite Capital",Unicorn
+Distyl AI,1.8,2025-09-22,United States,San Francisco,Enterprise Tech,Khosla Ventures,Unicorn
+Retool,3.2,2021-12-22,United States,San Francisco,Enterprise Tech,Sequoia Capital,Unicorn
+HighRadius,3.1,2020-01-07,United States,Houston,Financial Services,"Susquehanna Growth Equity, Citi Ventures, ICONIQ Capital",Unicorn
+Nuvemshop,3.1,2021-08-17,Brazil,Sao Paulo,Consumer & Retail,"Kaszek Ventures, Qualcomm Ventures, Accel",Unicorn
+Phantom,3.0,2022-01-31,United States,San Francisco,Financial Services,"Paradigm, Andreessen Horowitz, Jump Capital",Unicorn
+LayerZero Labs,3.0,2022-03-30,United States,New York,Enterprise Tech,"Andreessen Horowitz, FTX Ventures, Tiger Global Management",Unicorn
+Harvey,8.0,2024-07-23,United States,San Francisco,Enterprise Tech,"OpenAI Startup Fund, Kleiner Perkins, Sequoia Capital",Unicorn
+Filevine,3.0,2025-09-23,United States,Salt Lake City,Enterprise Tech,"Accel, Album VC, Signal Peak Ventures",Unicorn
+Poolside,3.0,2024-10-02,France,Paris,Enterprise Tech,"Felicis, Redpoint Ventures, HSBC Venture Capital",Unicorn
+Clio,5.0,2021-04-27,Canada,Burnaby,Enterprise Tech,"OMERS Private Equity, T. Rowe Price, Technology Crossover Ventures",Unicorn
+Zhipu AI,3.0,2023-09-20,China,Beijing,Enterprise Tech,"Qiming Venture Partners, Legend Capital, Jiangmen Venture Capital",Unicorn
+Nord Security,3.0,2022-04-07,Lithuania,Vilnius,Enterprise Tech,"General Catalyst, BaltCap, Novator Partners",Unicorn
+Yixia,3.0,2015-11-24,China,Beijing,Media & Entertainment,"Sequoia Capital China, Sina Weibo, Kleiner Perkins Caufield & Byers, Redpoint Ventures",Unicorn
+Traveloka,3.0,2017-01-01,Indonesia,Jakarta,Consumer & Retail,"Global Founders Capital, East Ventures, Expedia Inc.",Unicorn
+Monad Labs,3.0,2024-04-09,United States,New York,Financial Services,"HTX Ventures, Electric Capital, Coinbase Ventures",Unicorn
+SouChe Holdings,3.0,2017-11-01,China,Hangzhou,Industrials,"Morningside Ventures, Warburg Pincus, CreditEase Fintech Investment Fund",Unicorn
+BGL Group,3.0,2017-11-24,United Kingdom,Peterborough,Insurance,CPP Investment Board,Unicorn
+Circle,3.0,2018-05-15,United States,Boston,Financial Services,"General Catalyst, Digital Currency Group, Accel",Unicorn
+Zuoyebang,3.0,2018-07-18,China,Beijing,Consumer & Retail,"Sequoia Capital China, Xiang He Capital, GGV Capital",Unicorn
+Saviynt,3.0,2025-12-09,United States,El Segundo,Enterprise Tech,KKR,Unicorn
+FlixMobility,3.0,2019-07-18,Germany,Munich,Industrials,"Holtzbrinck Ventures, Unternehmertum Venture Capital, General Atlantic",Unicorn
+Wildlife Studios,3.0,2019-12-05,Brazil,Sao Paulo,Media & Entertainment,"Benchmark, Bessemer Venture Partners",Unicorn
+ApplyBoard,3.2,2020-05-05,Canada,Kitchener,Consumer & Retail,"Artiman Ventures, Plug and Play Ventures, Anthos Capital",Unicorn
+Forter,3.0,2020-11-19,United States,New York,Enterprise Tech,"Sequoia Capital Israel, Scale Venture Partners, Commerce Ventures",Unicorn
+Calendly,3.0,2021-01-26,United States,Atlanta,Enterprise Tech,"ICONIQ Capital, OpenView Venture Partners",Unicorn
+BlockFi,3.0,2021-03-11,United States,Jersey City,Financial Services,"ConsenSys Ventures, Valar Ventures, PUC",Unicorn
+ActiveCampaign,3.0,2021-04-21,United States,Chicago,Enterprise Tech,"Silversmith Capital Partners, Susquehanna Growth Equity, Tiger Global Management",Unicorn
+CMR Surgical,3.0,2019-09-17,United Kingdom,Cambridge,Healthcare & Life Sciences,"Cambridge Innovation Capital, LGT Capital Partners, Escala Capital",Unicorn
+Lucid Software,3.0,2021-06-29,United States,South Jordan,Enterprise Tech,"Spectrum Equity, ICONIQ Capital, Grayhawk Capital",Unicorn
+Age of Learning,3.0,2016-05-03,United States,Glendale,Consumer & Retail,Iconiq Capital,Unicorn
+Zetwerk,3.1,2021-08-20,India,Bengaluru,Industrials,"Peak XV Partners, Greenoaks, Kae Capital",Unicorn
+Carbon Health,3.0,2021-07-21,United States,San Francisco,Healthcare & Life Sciences,"Brookfield Asset Management, Blackstone, Data Collective",Unicorn
+Contentful,3.0,2021-07-28,Germany,Berlin,Enterprise Tech,"Balderton Capital, General Catalyst, Tiger Global Management",Unicorn
+LaunchDarkly,3.0,2021-08-10,United States,Oakland,Enterprise Tech,"Uncork Capital, Threshold Ventures, Bloomberg Beta",Unicorn
+Seismic,3.0,2018-12-18,United States,San Diego,Enterprise Tech,"Jackson Square Ventures, General Atlantic, Lightspeed Venture Partners",Unicorn
+Sky Mavis,3.0,2021-10-04,Vietnam,Ho Chi Minh City,Media & Entertainment,"Fabric Ventures, 500 Global, Standard Crypto",Unicorn
+Outschool,3.0,2021-04-14,United States,San Francisco,Consumer & Retail,"Uniion Square Ventures, Tiger Global Management, Lightspeed Venture Capital",Unicorn
+TradingView,3.0,2021-10-14,United States,Westerville,Financial Services,"Tiger Global Management, Insight Partners, Jump Capital",Unicorn
+Podium,3.0,2020-04-07,United States,Lehi,Consumer & Retail,"Accel, Summit Partners, Google Ventures",Unicorn
+Rokt,3.5,2021-12-16,United States,New York,Consumer & Retail,"Square Peg Capital, TDM Growth Partners, Tiger Global Management",Unicorn
+Via,3.5,2020-03-30,United States,New York,Industrials,"83North, RiverPark Ventures, Pitango Venture Capital",Unicorn
+Anchorage Digital,3.0,2021-12-15,United States,San Francisco,Financial Services,"Andreessen Horowitz, Blockchain Capital, Lux Capital",Unicorn
+Inxeption,3.0,2022-01-13,United States,San Francisco,Industrials,"Coatue Management, BMO Capital, Schonfeld Strategic Advisors",Unicorn
+Lattice,3.0,2021-03-23,United States,San Francisco,Enterprise Tech,"Khosla Ventures, Thrive Capital, Y Combinator",Unicorn
+Flutterwave,3.0,2021-03-09,United States,San Francisco,Financial Services,"Green Visor Capital, CRE Venture Capital, Greycroft",Unicorn
+Cross River Bank,3.0,2022-02-11,United States,Fort Lee,Financial Services,"Battery Ventures, Andreessen Horowitz, Ribbit Capital",Unicorn
+Remote,3.0,2021-07-13,United States,San Francisco,Enterprise Tech,"Index Ventures, Sequoia Capital, General Catalyst",Unicorn
+Sentry,3.0,2021-02-18,United States,San Francisco,Enterprise Tech,"New Enterprise Associates, Accel, Bond",Unicorn
+TERMINUS Technology,2.96,2018-10-25,China,Beijing,Industrials,"China Everbright Limited, IDG Capital, iFLYTEK",Unicorn
+Kraken,2.92,2019-06-25,United States,San Francisco,Financial Services,"Bnk To The Future, Trammell Ventures, SBI Investment",Unicorn
+Workrise,2.9,2019-09-30,United States,Austin,Industrials,"Founders Fund, Quantum Energy Partners, Bedrock Capital",Unicorn
+BharatPe,2.85,2021-07-30,India,New Delhi,Financial Services,"Insight Partners, Sequoia Capital India, BEENEXT",Unicorn
+Gokin Solar,2.88,2022-04-13,China,Zhuhai,Industrials,"IDG Capital, Puluo Capital, Midea Capital",Unicorn
+DriveWealth,2.85,2021-08-20,United States,Chatham,Financial Services,"Point72 Ventures, Route 66 Ventures, Accel",Unicorn
+ICEYE,2.8,2025-12-05,Finland,Espoo,Enterprise Tech,unknown,Unicorn
+Meicai,2.8,2016-06-22,China,Beijing,Consumer & Retail,"Tiger Global Management, Blue Lake Capital, ZhenFund",Unicorn
+Nutrabolt,2.79,2022-12-08,United States,Austin,Consumer & Retail,MidOcean Partners,Unicorn
+Baichuan AI,2.77,2023-10-17,China,Haidian,Enterprise Tech,"Shenzhen Capital Group, Shunwei Capital",Unicorn
+Abridge,2.75,2025-02-23,United States,Pittsburgh,Enterprise Tech,"Institutional Venture Partners, Spark Capital, Lightspeed Venture Partners",Unicorn
+Illumio,2.75,2015-04-14,United States,Sunnyvale,Enterprise Tech,"Data Collective, Formation 8, General Catalyst Partners",Unicorn
+MasterClass,2.75,2021-05-13,United States,San Francisco,Media & Entertainment,"Institutional Venture Partners, New Enterprise Associates, Javelin Venture Partners",Unicorn
+Transmit Security,2.74,2021-06-22,Israel,Tel Aviv,Enterprise Tech,"General Atlantic, Insight Partners, Vintage Investment Partners",Unicorn
+Hozon Auto,3.95,2022-02-22,China,Shanghai,Industrials,"HD Capital, Qihoo 360 Technology, China Fortune Land Development",Unicorn
+Tradeshift,2.7,2018-05-30,United States,San Francisco,Enterprise Tech,"Notion Capital, Scentan Ventures, Kite Ventures",Unicorn
+TravelPerk,2.7,2022-01-12,Spain,Barcelona,Enterprise Tech,"LocalGlobe, Kinnevik, Felix Capital",Unicorn
+Nextiva,2.7,2021-09-14,United States,Scottsdale,Enterprise Tech,Goldman Sachs Asset Management,Unicorn
+Tridge,2.7,2022-08-24,South Korea,Seoul,Industrials,"Forest Partners, Softbank Ventures Asia",Unicorn
+Thought Machine,2.7,2021-11-29,United Kingdom,London,Financial Services,"British Patient Capital, SEB Venture Capital, IQ Capital",Unicorn
+Starling Bank,2.69,2021-03-08,United Kingdom,London,Financial Services,"JTC Group, Qatar Investment Authority, Fidelity Investment",Unicorn
+BackBase,2.66,2022-06-09,Netherlands,Amsterdam,Financial Services,Motive Partners,Unicorn
+ManoMano,2.6,2021-07-05,France,Paris,Consumer & Retail,"General Atlantic, Piton Capital, Partech Partners",Unicorn
+Sourcegraph,2.62,2021-07-13,United States,San Francisco,Enterprise Tech,"Redpoint Ventures, Goldcrest Capital, Insight Partners",Unicorn
+Pendo,2.6,2019-10-17,United States,Raleigh,Enterprise Tech,"Contour Venture Partners, Battery Ventures, Core Capital Partners",Unicorn
+Plume,2.6,2021-02-23,United States,Palo Alto,Industrials,"Insight Partners, Jackson Square Ventures, Liberty Gloval Ventures",Unicorn
+Moglix,2.6,2021-05-17,Singapore,Singapore,Industrials,"Jungle Ventures, Accel, Venture Highway",Unicorn
+Axonius,2.6,2021-03-01,United States,New York,Enterprise Tech,"Vertex Ventures Israel, Bessemer Venture Partners, Emerge",Unicorn
+JumpCloud,2.62,2021-09-13,United States,Louisville,Enterprise Tech,"Foundry Group, General Atlantic, BlackRock",Unicorn
+Unico,2.6,2021-08-03,Brazil,Sao Paulo,Enterprise Tech,"Big Bets, General Atlantic, SOFTBANK Latin America Ventures",Unicorn
+JUST Egg,2.59,2017-11-30,United States,San Francisco,Consumer & Retail,"Khosla Ventures, Horizons Ventures, Founders Fund",Unicorn
+Peregrine,2.5,2025-03-04,United States,San Francisco,Enterprise Tech,"Sequoia Capital, Fifth Down Capital",Unicorn
+n8n,2.5,2025-10-09,Germany,Berlin,Enterprise Tech,"Accel, Evantic Capital, Seqouoia Capital",Unicorn
+Temporal,2.5,2022-02-16,United States,Bellevue,Enterprise Tech,"Amplify Partners, Addition, Madrona Venture Group",Unicorn
+Lambda Labs,2.5,2023-10-05,United States,San Francisco,Enterprise Tech,"1517 Fund, Gradient Ventures, Bloomberg Beta",Unicorn
+Jetti Resources,2.5,2022-10-24,United States,Boulder,Industrials,"BMW i Ventures, BHP Ventures",Unicorn
+Claroty,2.5,2021-06-17,United States,New York,Enterprise Tech,"Bessemer Venture Partners, MoreVC, Team8",Unicorn
+Vista Global,2.5,2017-08-23,United Arab Emirates,Dubai,Industrials,Rhone Capital,Unicorn
+BYTON,2.5,2018-04-20,China,Nanjing,Industrials,"FAW Group, Tencent Holdings, Tus Holdings",Unicorn
+Side,2.5,2021-03-22,United States,San Francisco,Financial Services,"Coatue Managemeny, Trinity Ventures, Matrix Partners",Unicorn
+Infra.Market,2.78,2021-02-25,India,Thane,Industrials,"Accel, Tiger Global Management, Nexus Venture Partners",Unicorn
+Varo Bank,2.5,2021-09-09,United States,San Francisco,Financial Services,"Warburg Pincus, The Rise Fund, HarbourVest Partners",Unicorn
+Cato Networks,3.0,2020-11-17,Israel,Tel Aviv,Enterprise Tech,"Aspect Ventures, SingTel Innov8, Greylock Partners",Unicorn
+Sword Health,3.0,2021-11-22,United States,New York,Healthcare & Life Sciences,"Khosla Ventures, Green Innovations, Founders Fund",Unicorn
+Aura,2.5,2021-06-09,United States,Burlington,Consumer & Retail,"Warburg Pincus, General Catalyst",Unicorn
+TensTorrent,2.6,2021-05-05,Canada,Toronto,Enterprise Tech,"Eclipse Ventures, Fidelity Investments, Moore Capital Management",Unicorn
+Sysdig,2.5,2021-04-28,United States,San Francisco,Enterprise Tech,"Accel, Bain Capital Ventures, Insight Partners",Unicorn
+Uniphore,2.5,2022-02-16,United States,Palo Alto,Enterprise Tech,"Chiratae Ventures, March Capital Partners, National Grid Partners",Unicorn
+Somatus,2.5,2022-02-23,United States,McLean,Healthcare & Life Sciences,"The Blue Venture Fund, Flare Capital Partners, Longitude Capital",Unicorn
+Immutable,2.5,2022-03-07,Australia,Sydney,Media & Entertainment,"Fabric Ventures, AirTree Ventures, Temasek",Unicorn
+SiFive,2.5,2022-03-16,United States,San Mateo,Enterprise Tech,"Sutter Hill Ventures, Osage University Partners, Spark Capital",Unicorn
+Games24x7,2.5,2022-03-30,India,Mumbai,Media & Entertainment,"Tiger Global Management, The Raine Group, Malabar Investments",Unicorn
+Fetch,2.5,2021-03-31,United States,Madison,Consumer & Retail,"Greycroft, Loeb.NYC, DST Global",Unicorn
+DriveNets,2.5,2021-01-27,Israel,Ra'anana,Enterprise Tech,"Bessemer Venture Partners, Pitango Venture Capital, D1 Capital Partners",Unicorn
+Sakana AI,2.64,2024-06-26,Japan,Tokyo,Enterprise Tech,"Lux Capital, Khosla Ventures, New Enterprise Associates",Unicorn
+Suno,2.45,2025-11-19,United States,Cambridge,Enterprise Tech,"Menlo Ventures, Lightspeed Venture Partners, Bessemer Venture Partners",Unicorn
+Hibob,2.45,2021-10-12,Israel,Tel Aviv,Enterprise Tech,"Bessemer Venture Partners, Eight Roads Ventures, Battery Ventures",Unicorn
+Mobile Premier League,2.45,2021-09-15,India,Bengaluru,Media & Entertainment,"Sequoia Capital India, RTP Global, Go-Ventures",Unicorn
+Fractal Analytics,2.44,2022-01-05,India,Mumbai,Enterprise Tech,"TPG Capital, Apax Partners, TA Associates",Unicorn
+insitro,2.44,2021-03-15,United States,South San Francisco,Healthcare & Life Sciences,"Foresite Capital, ARCH Venture Partners, Third Rock Ventures",Unicorn
+Cgtz,2.41,2017-02-21,China,Hangzhou,Financial Services,"Shunwei Capital Partners, China Media Group, Guangzhou Huiyin Aofeng Equity Investment Fund",Unicorn
+Star Charge,2.41,2021-05-19,China,Changzhou,Industrials,"Shunwei Capital Partners, China Media Group, Guangzhou Huiyin Aofeng Equity Investment Fund",Unicorn
+Carbon,2.4,2015-08-20,United States,Redwood City,Industrials,"Google Ventures, Sequoia Capital, Wakefield Group",Unicorn
+Paxos,2.4,2021-04-29,United States,New York,Financial Services,"Liberty City Ventures, RRE Ventures, Mithril Capital Management",Unicorn
+BitSight Technologies,2.4,2021-09-13,United States,Boston,Enterprise Tech,"Menlo Ventures, GGV Capital, Flybridge Capital Partners",Unicorn
+Trumid,2.4,2020-07-15,United States,New York,Financial Services,"T. Rowe Price, Dragoneer Investment Group, BlackRock",Unicorn
+ABL Space Systems,2.4,2021-03-25,United States,El Segundo,Industrials,"T. Rowe Price, Lockheed Martin Ventures, Fidelity Investment",Unicorn
+HoneyBook,2.4,2021-05-04,United States,San Francisco,Enterprise Tech,"Norwest Venture Partners, Hillsven Capital, Aleph",Unicorn
+Project44,2.62,2021-06-01,United States,Chicago,Enterprise Tech,"Emergence Capital Partners, 8VC, Chicago Ventures",Unicorn
+Freenome,2.62,2020-08-26,United States,South San Francisco,Healthcare & Life Sciences,"Andreessen Horowitz, Data Collective, Roche Venture Fund",Unicorn
+ManyPets,2.35,2021-06-01,United Kingdom,London,Insurance,"Octopus Ventures, Munich Re Ventures, CommerzVentures",Unicorn
+Job&Talent,1.46,2021-12-01,Spain,Madrid,Enterprise Tech,"Kibo Ventures, SoftBank Group, Atomico",Unicorn
+WEMAKEPRICE,2.34,2015-09-09,South Korea,Seoul,Consumer & Retail,"IMM Investment, NXC",Unicorn
+Biren Technology,2.32,2020-08-18,China,Shanghai,Enterprise Tech,"V FUND, IDG Capital, Green Pine Capital Partners",Unicorn
+Danggeun Market,2.2,2022-01-11,United States,San Francisco,Healthcare & Life Sciences,"Alta Partners, General Catalyst, Jove Equity Partners",Unicorn
+Aven,2.2,2024-07-17,United States,San Fransisco,Financial Services,"Khosla Ventures, General Catalyst, Founders Fund",Unicorn
+Voodoo,2.31,2020-08-17,France,Paris,Media & Entertainment,"Tencent Holdings, Goldman Sachs",Unicorn
+Kavak,2.2,2020-10-01,Mexico,Lerma de Villada,Industrials,"DST Global, SoftBank Group, Mountain Nazca",Unicorn
+Uptake,2.3,2015-10-27,United States,Chicago,Industrials,"Revolution, New Enterprise Associates, Caterpillar",Unicorn
+Motive,2.85,2019-04-23,United States,San Francisco,Industrials,"Google Ventures, Index Ventures, Scale Venture Partners",Unicorn
+Greenlight,2.3,2020-09-24,United States,Atlanta,Financial Services,"Relay Ventures, TTV Capital, Canapi Ventures",Unicorn
+MoMo,2.27,2021-12-10,Vietnam,Ho Chi Minh City,Financial Services,"Goodwater Capital, Warburg Pincus, GS Growth",Unicorn
+Story Protocol,2.25,2024-08-21,United States,Bellevue,Media & Entertainment,"A16z Crypto, Andreessen Horowitz, Two Small Fish Ventures",Unicorn
+Algolia,2.25,2021-07-28,United States,San Francisco,Enterprise Tech,"Accel, Alven Capital, Storm Ventures",Unicorn
+EliseAI,2.2,2024-08-14,United States,New York,Enterprise Tech,"Navitas Capital, Point72 Ventures, JLL Spark",Unicorn
+NuCom Group,2.2,2018-02-22,Germany,Unterfoehring,Consumer & Retail,General Atlantic,Unicorn
+Skydio,2.2,2021-02-25,United States,Redwood City,Industrials,"Andreessen Horowitz, Andreessen Horowitz, Institutional Venture Partners, Accel",Unicorn
+Uala,2.75,2021-08-13,Argentina,Buenos Aires,Financial Services,"Soros Fund Management, Ribbit Capital, Monashees+",Unicorn
+Current,2.2,2021-04-27,United States,New York,Financial Services,"Expa, QED Investors, Foundation Capital",Unicorn
+Bitso,2.2,2021-05-05,Mexico,Mexico City,Financial Services,"Pantera Capital, QED Investors, Coinbase Ventures",Unicorn
+Gympass,2.4,2019-06-12,United States,New York,Healthcare & Life Sciences,"General Atlantic, SoftBank Group, Atomico",Unicorn
+Dialpad,2.2,2020-10-06,United States,San Francisco,Enterprise Tech,"Andreessen Horowitz, Google Ventures, Section 32",Unicorn
+G7 Networks,2.2,2022-02-15,China,Beijing,Industrials,"Eastern Bell Capital 32, SDIC CMC Investment Management, Trustbridge Partners",Unicorn
+BloomReach,2.2,2022-02-23,United States,Mountain View,Consumer & Retail,"Bain Capital Ventures, Sixth Street Growth, Lightspeed Venture Partners",Unicorn
+Accelerant,2.4,2022-01-12,United Kingdom,Colchester,Insurance,"Deer Park Road, Altamont Capital Partners, Eldridge",Unicorn
+YITU Technology,2.17,2018-03-08,China,Shanghai,Enterprise Tech,"Sequoia Capital China, Banyan Capital",Unicorn
+Inari,2.17,2021-05-12,United States,Cambridge,Industrials,"Flagship Pioneering, Alexandria Venture Investments, Investment Corporation of Dubai",Unicorn
+Qualia,2.17,2020-12-21,United States,San Francisco,Financial Services,"8VC, Menlo Ventures, Tiger Global Management",Unicorn
+CHAOS Industries,2.0,2025-04-30,United States,Los Angeles,Industrials,"Accel, 8VC",Unicorn
+Zeta,2.0,2021-05-24,United States,San Francisco,Financial Services,"Sodexo Ventures, SoftBank Group",Unicorn
+Neo4j,2.0,2021-06-17,United States,San Mateo,Enterprise Tech,"Eight Roads Ventures, One Peak Partners, Creandum",Unicorn
+CloudWalk,2.15,2021-09-08,Brazil,Sao Paulo,Financial Services,"Plug and Play Ventures, Valor Capital Group, DST Global",Unicorn
+Baseten,2.15,2025-09-25,United States,San Francisco,Enterprise Tech,"Bond, Greylock Partners, Institutional Venture Partners",Unicorn
+Xaira Therapeutics,2.15,2024-04-23,United States,San Francisco,Healthcare & Life Sciences,"ARCH Venture Partners, Foresite Capital, Two Sigma Ventures",Unicorn
+CoinDCX,2.45,2021-08-10,India,Maharashtra,Financial Services,"Polychain Capital, Coinbase Ventures, Jump Capital",Unicorn
+Eightfold,2.1,2020-10-27,United States,Santa Clara,Enterprise Tech,"Foundation Capital, Institutional Venture Partners, General Catalyst",Unicorn
+ABLY,2.1,2024-04-29,South Korea,Seoul,Consumer & Retail,"LB Investment, KOLON INVESTMENT, Capstone Partners",Unicorn
+Medable,2.1,2021-10-26,United States,Palo Alto,Healthcare & Life Sciences,"GSR Ventures, Sapphire Ventures, Streamlined Ventures",Unicorn
+Aledade,3.5,2021-01-19,United States,Bethesda,Healthcare & Life Sciences,"Venrock, CVF Capital Partners, ARCH Venture Partners",Unicorn
+A24 Films,3.5,2022-03-09,United States,New York,Media & Entertainment,"Stripes Group, Neuberger Berman",Unicorn
+Gamma,2.1,2025-11-10,United States,San Francisco,Enterprise Tech,"Andreessen Horowitz, Accel, Fellows Fund",Unicorn
+Forto,2.1,2021-06-21,Germany,Berlin,Industrials,"Cherry Ventures, Northzone Ventures, Global Founders Capital",Unicorn
+bolttech,2.1,2021-07-01,Singapore,Singapore,Insurance,"Mundi Ventures, Doqling Capital Partners, Activant Capital",Unicorn
+Jeeves,2.1,2022-03-14,United States,Orlando,Enterprise Tech,"Tencent Holdings, CRV, Clocktower Technology Ventures",Unicorn
+Viva Wallet,2.05,2022-12-17,Greece,Athens,Financial Services,"Breyer Capital, Hedosophia",Unicorn
+Framer,2.0,2025-08-27,Netherlands,Amsterdam,Enterprise Tech,"Atomico, Accel, Foundation Capital",Unicorn
+d-Matrix,2.0,2025-11-12,United States,Santa Clara,Enterprise Tech,"Bullhound Capital, Temasek",Unicorn
+EvenUp,2.0,2024-10-08,United States,San Francisco,Enterprise Tech,"NFX, Lightspeed Venture Partners, Bessemer Venture Partners",Unicorn
+Kin,2.0,2023-09-13,United States,Chicago,Insurance,"QED Investors, Commerce Ventures, Alpha Edison",Unicorn
+FieldAI,2.0,2025-08-20,United States,Mission Viejo,Enterprise Tech,"Bezos Expeditions, Prysm Capital, Khosla Ventures",Unicorn
+Feedzai,2.0,2021-03-24,United States,San Mateo,Financial Services,"Global Founders Capital, Shea Ventures, Greycroft",Unicorn
+Kalshi,2.0,2025-06-25,United States,New York,Enterprise Tech,Sequoia Capital,Unicorn
+MUSINSA,2.0,2019-11-11,South Korea,Seoul,Consumer & Retail,Sequoia Capital,Unicorn
+DeepL,2.0,2023-01-11,Germany,Cologne,Enterprise Tech,"Benchmark, btov Partners, Bessemer Venture Partners",Unicorn
+The Bot Company,2.0,2025-03-22,United States,New York,Industrials,unknown,Unicorn
+CHAOS Industries,2.0,2024-05-04,United States,Cedar Park,Industrials,"Noosphere Ventures, RPM Ventures, SMS Capital Investment",Unicorn
+Firefly Aerospace,2.0,2024-05-04,United States,Cedar Park,Industrials,"Noosphere Ventures, RPM Ventures, SMS Capital Investment",Unicorn
+Babel Finance,2.0,2022-05-25,Hong Kong,Hong Kong,Financial Services,"Dragonfly Capital, BAI Capital, 10T Fund",Unicorn
+Pennylane,2.16,2024-02-08,France,Cherbourg-Octeville,Enterprise Tech,Sequoia Capital,Unicorn
+Trendy Group International,2.0,2012-02-13,Hong Kong,Kowloon,Consumer & Retail,L Capital Partners,Unicorn
+GrubMarket,3.5,2021-09-14,United States,San Francisco,Consumer & Retail,"GGV Capital, BlackRock, ACE & Company",Unicorn
+BeZero,2.0,2022-11-14,United Kingdom,London,Enterprise Tech,"Contrarian Ventures, Molten Ventures, Hitachi Ventures 32",Unicorn
+Cohere,2.0,2023-05-02,Canada,Toronto,Enterprise Tech,"Index Ventures, Salesforce Ventures, Section 32",Unicorn
+GO1,2.0,2021-07-19,Australia,Brisbane,Enterprise Tech,"Y Combinator, M12, SEEK",Unicorn
+Clear Street,2.0,2022-04-29,United States,New York,Financial Services,"NextGen Venture Partners, Prysm Capital, McLaren Strategic Ventures",Unicorn
+Drata,2.0,2021-11-08,United States,San Diego,Enterprise Tech,"Cowboy Ventures, Leaders Fund, GGV Capital",Unicorn
+Mysten Labs,2.0,2022-09-08,United States,San Francisco,Enterprise Tech,"Andreessen Horowitz, Coinbase Ventures, Circle Ventures",Unicorn
+Liquid AI,2.0,2024-12-13,United States,Cambridge,Enterprise Tech,"OSS Capital, Duke Capital Partners, Samsung NEXT",Unicorn
+Avant,2.0,2012-12-17,United States,Chicago,Financial Services,"RRE Ventures, Tiger Global, August Capital",Unicorn
+Tubatu.com,2.0,2015-03-09,China,Shenzhen,Consumer & Retail,"Sequoia Capital China, Matrix Partners China, 58.com",Unicorn
+BlaBlaCar,2.0,2015-09-16,France,Paris,Consumer & Retail,"Accel Partners, Index Ventures, Insight Venture Partners",Unicorn
+HuiMin,2.0,2016-09-05,China,Beijing,Consumer & Retail,"Zheshang Venture Capital, GP Capital, Western Capital Management",Unicorn
+Preferred Networks,2.0,2018-05-17,Japan,Tokyo,Industrials,"Toyota Motor Corporation, Mizuho Financial Group, FANUC",Unicorn
+Formlabs,2.0,2018-08-01,United States,Somerville,Industrials,"Pitango Venture Capital, DFJ Growth Fund, Foundry Group",Unicorn
+Calm,2.0,2019-02-06,United States,San Francisco,Healthcare & Life Sciences,"Insight Venture Partners, TPG Growth, Sound Ventures",Unicorn
+Kaseya,2.0,2019-03-27,United States,Miami,Enterprise Tech,"Insight Partners, TPG Alternative & Renewable Technologies, Ireland Strategic Investment Fund",Unicorn
+Mafengwo,2.0,2019-05-23,China,Beijing,Consumer & Retail,"Qiming Venture Partners, Capital Today, General Atlantic",Unicorn
+Druva,2.0,2019-06-20,United States,Sunnyvale,Enterprise Tech,"Nexus Venture Partners, Tenaya Capital, Sequoia Capital",Unicorn
+Kujiale,2.0,2019-10-25,China,Hangzhou,Consumer & Retail,"GGV Capital, IDG Capital, Linear Venture",Unicorn
+AppsFlyer,2.0,2020-01-21,United States,San Francisco,Enterprise Tech,"Magma Venture Partners, Pitango Venture Capital, Qumra Capital",Unicorn
+Redis,2.0,2020-08-25,United States,Mountain View,Enterprise Tech,"Viola Ventures, Dell Technologies Capital, Bain Capital Ventures",Unicorn
+Xingyun Group,2.0,2020-09-24,China,Shenzhen,Consumer & Retail,"Matrix Partners China, Eastern Bell Capital, Hongtai Capital Holdings",Unicorn
+Unqork,2.0,2020-10-06,United States,New York,Insurance,"Blackrock, capitalG, World Lab Innovation",Unicorn
+Virta Health,2.0,2020-12-02,United States,San Francisco,Healthcare & Life Sciences,"Caffeinated Capital, Obvious Ventures, Venrock",Unicorn
+ISN,2.0,2020-12-17,United States,Dallas,Industrials,Blackstone,Unicorn
+Clearco,2.0,2021-04-20,Canada,Toronto,Financial Services,"Highland Capital Partners, Oak HC/FT Partners, Emergence Capital Partners",Unicorn
+Hive,2.0,2021-04-21,United States,San Francisco,Enterprise Tech,"Tomales Bay Capital, Bain & Company, General Catalyst",Unicorn
+Kry,2.0,2021-04-27,Sweden,Stockholm,Healthcare & Life Sciences,"Index Ventures, Creandum, Accel",Unicorn
+Kajabi,2.0,2021-05-04,United States,Irvine,Media & Entertainment,"Meritech Capital Partners, Tiger Global Management, Spectrum Equity",Unicorn
+Ethos,2.7,2021-05-11,United States,San Francisco,Insurance,"Sequoia Capital, Google Ventures, Accel",Unicorn
+PayFit,2.1,2022-01-06,United Kingdom,London,Enterprise Tech,"Accel, frst, Kima Ventures",Unicorn
+Beisen,2.0,2021-05-11,China,Beijing,Enterprise Tech,"Matrix Partners China, Sequoia Capital China, Genesis Capital",Unicorn
+Pipe,2.0,2021-05-19,United States,Miami,Financial Services,"next47, MaC Venture Capital, FinVC",Unicorn
+Iterable,2.0,2021-06-15,United States,San Francisco,Enterprise Tech,"CRV, Blue Cloud Ventures, Index Ventures",Unicorn
+Astronergy,1.82,2023-07-25,China,Haining,Industrials,unknown,Unicorn
+Legora,1.8,2025-10-30,Sweden,Stockholm,Enterprise Tech,"Redpoint Ventures, Bessemer Venture Partners",Unicorn
+Radiant,1.8,2025-12-17,United States,El Segundo,Industrials,unknown,Unicorn
+Bunq,1.8,2021-06-18,Netherlands,Amsterdam,Financial Services,Undisclosed,Unicorn
+Neko Health,1.8,2025-01-23,Sweden,Stockholm,Healthcare & Life Sciences,"Lightspeed Venture Partners, General Catalyst",Unicorn
+Quest Global,1.8,2023-08-08,Singapore,Singapore,Industrials,unknown,Unicorn
+Clip,2.0,2021-06-10,Mexico,Mexico City,Financial Services,"Alta Ventures Mexico, General Atlantic, SoftBank Group",Unicorn
+Loggi,2.0,2019-06-05,Brazil,Sao Paulo,Industrials,"Qualcomm Ventures, SoftBank Group. Monashees+",Unicorn
+MURAL,2.0,2021-07-20,United States,San Francisco,Enterprise Tech,"Insight Partners, Tiger Global Management, Gradient Ventures",Unicorn
+OCSiAl,2.0,2019-03-04,Luxembourg,Leudelange,Industrials,"A&NN, Rusnano",Unicorn
+Apeel Sciences,2.0,2020-05-26,United States,Goleta,Consumer & Retail,"Upfront Ventures, Tao Capital Partners, Andreessen Horowitz",Unicorn
+Opay,2.0,2021-08-23,Nigeria,Lagos,Financial Services,"Sequoia Capital China, Source Code Capital, Redpoint Ventures China",Unicorn
+Aviatrix,2.0,2021-09-08,United States,Santa Clara,Enterprise Tech,"Ignition Partners, Formation 8, CRV",Unicorn
+SmartNews,2.0,2019-08-05,Japan,Tokyo,Media & Entertainment,"Japan Post Capital, Globis Capital Partners, Atomico",Unicorn
+Misfits Market,2.0,2021-04-21,United States,Pennsauken,Consumer & Retail,"Accel, D1 Capita Partners, Greenoaks Capital Management",Unicorn
+Advance Intelligence Group,2.0,2021-09-23,Singapore,Singapore,Financial Services,"Vision Plus Capital, GSR Ventures, ZhenFund",Unicorn
+Modern Treasury,2.0,2021-10-06,United States,San Francisco,Financial Services,"Benchmark, Altimeter Capital, Quiet Capital",Unicorn
+Magic Leap,2.0,2014-10-21,United States,Plantation,Enterprise Tech,"Obvious Ventures, Qualcomm Ventures, Andreessen Horowitz",Unicorn
+ClickHouse,2.0,2021-10-28,United States,Portola Valley,Enterprise Tech,"Lightspeed Venture Partners, Almaz Capital Partners, Altimeter Capital",Unicorn
+Everlaw,2.0,2020-03-10,United States,Oakland,Enterprise Tech,"K9 Ventures, Menlo Ventures, Andreessen Horowitz",Unicorn
+Zilch,2.0,2021-11-10,United Kingdom,London,Financial Services,"Gauss Ventures, Ventura Capital, dmg ventures",Unicorn
+VerbIT,2.0,2021-06-08,United States,New York,Enterprise Tech,"ClalTech, Vertex Ventures, Oryzn Capital",Unicorn
+StarkWare,8.0,2021-11-17,Israel,Netanya,Enterprise Tech,"Sequoia Capital, Paradigm, Pantera Capital",Unicorn
+Netlify,2.0,2021-11-17,United States,San Francisco,Enterprise Tech,"Andreessen Horowitz, Kleiner Perkins Caufield & Byers, EQT Ventures",Unicorn
+LTK,2.0,2021-11-22,United States,Dallas,Media & Entertainment,"SoftBank Group, Maverick Capital",Unicorn
+Trax,2.0,2019-07-22,Singapore,Singapore,Consumer & Retail,"Hopu Investment Management, Boyu Capital, DC Thomson Ventures",Unicorn
+Exotec,2.0,2022-01-17,France,Croix,Industrials,"Breega Capital, Iris Capital, 360 Capital Partners",Unicorn
+Dremio,2.0,2021-01-06,United States,Santa Clara,Enterprise Tech,"Lightspeed Venture Partners, Redpoint Ventures, Norwest Venture Partners",Unicorn
+Akulaku,2.0,2022-02-15,Indonesia,Jakarta,Financial Services,"DCM Ventures, IDG Capital, Siam Commercial Bank",Unicorn
+Cloudinary,2.0,2022-02-15,United States,Santa Clara,Media & Entertainment,"Blackstone, Bessemer Venture Partners",Unicorn
+Lunar,2.0,2021-07-12,Denmark,Aarhus,Financial Services,"SEED Capital, Greyhound Capital, Socii Capital",Unicorn
+UpGrad,2.25,2021-08-09,India,Mumbai,Consumer & Retail,"Qualcomm Ventures, Accel, Canaan Partners",Unicorn
+Salsify,2.0,2022-04-13,United States,Boston,Consumer & Retail,"Matrix Partners, North Bridge Venture Partners, Venrock",Unicorn
+CertiK,2.0,2022-03-31,United States,New York,Enterprise Tech,"Tiger Global Management, Lightspeed Venture Partners, Hillhouse Capital Management",Unicorn
+ROX Motor,2.0,2022-04-29,China,Shanghai,Industrials,"Sequoia Capital China, IDG Capital, Qiming Venture Partners",Unicorn
+Devo Technology,2.0,2021-10-26,United States,Cambridge,Enterprise Tech,"Insight Partners, Kibo Ventures, Bessemer Venture Partners",Unicorn
+ShiftKey,2.0,2023-01-11,United States,Dallas,Healthcare & Life Sciences,Health Velocity Capital,Unicorn
+Rimac Automobili,2.0,2022-06-01,Croatia,Sveta Nedelja,Industrials,"Porsche, InvestIndustrial, SoftBank Group",Unicorn
+Geek+,2.0,2018-11-21,China,Beijing,Industrials,"Volcanics Ventures, Vertex Ventures China, Warburg Pincus",Unicorn
+Solugen,2.0,2021-09-10,United States,Houston,Industrials,"Fifty Years Fund, Refactor Capital, Temasek",Unicorn
+ZigBang,1.93,2022-06-07,South Korea,Seoul,Financial Services,"Black Pearl Ventures, Stonebridge Ventures, Yuanta Investment Korea",Unicorn
+SemiDrive,1.93,2024-07-14,China,Nanjing,Industrials,"Vinno Capital, Shanghai STVC Group, Guozhong Venture Capital Management",Unicorn
+Ankorstore,1.98,2022-01-10,France,Paris,Consumer & Retail,"Global Founders Capital, Aglae Ventures, Alven Capital",Unicorn
+Writer,1.9,2024-11-12,United States,San Francisco,Enterprise Tech,"Aspect Ventures, Upfront Ventures, Balderton Capital",Unicorn
+eDaili,1.9,2019-02-01,China,Shanghai,Financial Services,"K2VC, Lightspeed China Partners, Sky9 Capital",Unicorn
+commercetools,1.9,2021-09-13,Germany,Munich,Enterprise Tech,"High-Tech Grunderfonds, Bayern Kapital, Accel",Unicorn
+MX,1.9,2021-01-13,United States,Lehi,Financial Services,"Point72 Ventures, Pelion Venture Partners, Commerce Ventures",Unicorn
+CoinSwitch,1.9,2021-10-06,India,Bangalore,Financial Services,"Tiger Global Management, Sequoia Capital India, Ribbit Capital",Unicorn
+Acorns,1.9,2022-03-09,United States,Irvine,Financial Services,"e.ventures, Bain Capital Ventures, Greycroft",Unicorn
+Fever,1.96,2022-01-26,United States,New York,Media & Entertainment,"Accel, 14W, GS Growth",Unicorn
+Roofstock,1.94,2022-03-10,United States,Oakland,Financial Services,"Khosla Ventures, Bain Capital Ventures, Lightspeed Venture Partners",Unicorn
+thatgamecompany,1.94,2022-03-03,United States,Los Angeles,Media & Entertainment,"Benchmark, Sequoia Capital, TPG Capital",Unicorn
+ConcertAI,1.9,2022-03-29,United States,Boston,Healthcare & Life Sciences,"Sixth Street Partners, Declaration Partners, Maverick Ventures Israel",Unicorn
+Material Bank,1.9,2022-05-06,United States,Boca Raton,Industrials,"Bain Capital Ventures, SoftBank Group, Fifth Wall Ventures",Unicorn
+OLIPOP,1.85,2025-02-12,United States,Oakland,Consumer & Retail,Rocana Venture Partners,Unicorn
+ENOVATE,1.85,2019-04-15,China,Shanghai,Industrials,Automobile Industry Guidance Fund,Unicorn
+MEGAZONE,1.83,2022-08-16,South Korea,Seoul,Enterprise Tech,"Salesforce Ventures, ATP Investment, kt investment",Unicorn
+CFGI,1.85,2021-09-15,United States,Boston,Financial Services,"The Carlyle Group, CVC Capital Partners",Unicorn
+ZocDoc,1.8,2015-08-20,United States,New York,Healthcare & Life Sciences,"Founders Fund, Khosla Ventures, Goldman Sachs",Unicorn
+ID.me,1.8,2021-03-19,United States,McLean,Consumer & Retail,"Moonshots Capital, BoxGroup, Blu Venture Investors",Unicorn
+Scroll,1.8,2023-03-14,Seychelles,Seychelles,Financial Services,"OKX Ventures, Sequoia Capital China, IOSG",Unicorn
+Diamond Foundry,1.8,2021-03-29,United States,San Francisco,Industrials,"Fashion Tech Lab, Fidelity Investments, Vast Ventures",Unicorn
+Quantexa,2.6,2023-04-03,United Kingdom,London,Enterprise Tech,"AlbionVC, Dawn Capital, HSBC Venture Capital",Unicorn
+FullStory,1.8,2021-08-04,United States,Atlanta,Enterprise Tech,"Google Ventures, Kleiner Perkins Caufield & Byers, Stripes Group",Unicorn
+Lightricks,1.8,2019-07-31,Israel,Jerusalem,Media & Entertainment,"Viola Ventures, Insight Partners, ClalTech, Goldman Sachs",Unicorn
+Opentrons,1.8,2021-09-23,United States,New York,Healthcare & Life Sciences,"SOSV, Khosla Ventures, Lerer Hippeau",Unicorn
+Kindbody,1.8,2023-03-02,United States,Kindbody,Healthcare & Life Sciences,"RRE Ventures, Google Ventures, Bramalea Partners",Unicorn
+Slice,1.8,2021-11-28,India,Bengaluru,Financial Services,"Gunosy Capital, Blume Ventures, Das Capital",Unicorn
+Cambrian BioPharma,1.79,2021-10-26,United States,Brooklyn,Healthcare & Life Sciences,"Future Ventures, Apeiron Investment Group, Moore Capital Management",Unicorn
+Trulioo,1.75,2021-06-07,Canada,Vancouver,Financial Services,"Blumberg Capital, American Express Ventures, BDC Venture Capital",Unicorn
+Creditas,3.3,2020-12-18,Brazil,Sao Paulo,Financial Services,"Kaszek Ventures, Amadeus Capital Partners, Quona Capital",Unicorn
+BitGo,1.75,2023-08-16,United States,Palo Alto,Financial Services,"Redpoint Ventures, Craft Ventures, Bridgescale Partners",Unicorn
+Spinny,1.8,2021-11-24,India,Gurugram,Industrials,"General Catalyst, Eleation Capital, Avenir Growth Capital",Unicorn
+Orca Security,1.8,2021-03-23,United States,Portland,Enterprise Tech,"YL Ventures, Redpoint Ventures, GGV Capital",Unicorn
+Apus Group,1.73,2015-01-16,China,Beijing,Consumer & Retail,"Redpoint Ventures, QiMing Venture Partners, Chengwei Capital",Unicorn
+Flatpay,1.74,2015-01-16,Denmark,Herlev,Enterprise Tech,"Atlantic Vantage Point, Dawn Capital",Unicorn
+Razor,1.7,2021-11-08,Germany,Berlin,Consumer & Retail,"Global Founders Capital, 468 Capital, Redalpine Venture Partners",Unicorn
+Micro Connect,1.7,2023-08-02,Hong Kong,Hong Kong,Financial Services,"HongShan, Horizons Ventures, Lenovo Capital and Incubator Group",Unicorn
+DailyPay,1.7,2021-05-18,United States,New York,Financial Services,"RPM Ventures, Inspiration Ventures, Carrick Capital Partners",Unicorn
+Udaan,1.8,2018-09-04,India,Bengaluru,Consumer & Retail,"DST Global, Lightspeed Venture Partners, Microsoft ScaleUp",Unicorn
+Harry's,1.7,2018-02-16,United States,New York,Consumer & Retail,"Thrive Capital, Tiger Global Management, Temasek",Unicorn
+PAX,1.7,2018-10-22,United States,San Francisco,Consumer & Retail,"Tao Capital Partners, Global Asset Capital, Tiger Global Management",Unicorn
+DispatchHealth,1.7,2021-03-03,United States,Denver,Healthcare & Life Sciences,"Alta Partners, Questa Capital, Echo Health Ventures",Unicorn
+Pax8,1.7,2022-04-11,United States,Greenwood Village,Enterprise Tech,"Liberty Global Ventures, Sageview Capital, Blue Cloud Ventures",Unicorn
+Multiverse,1.7,2022-06-08,United Kingdom,London,Enterprise Tech,"Lightspeed Venture Partners, Google Ventures, General Catalyst",Unicorn
+Front,1.7,2022-06-28,United States,San Francisco,Enterprise Tech,"Sequoia Capital, Uncork Capital, Salesforce Ventures",Unicorn
+Redesign Health,1.7,2022-09-13,United States,New York,Healthcare & Life Sciences,"General Catalyst, Samsung NEXT, CVS Health Partners",Unicorn
+Tessera Therapeutics,1.69,2022-04-19,United States,Cambridge,Healthcare & Life Sciences,"Altitude Life Science Ventures, SoftBank Group, Alaska Permanent Fund",Unicorn
+SafetyCulture,1.67,2021-05-03,Australia,Sydney,Industrials,"Blackbird Ventures, IndexVentures, Tiger Global Management",Unicorn
+Ascend Elements,1.67,2023-09-06,United States,Westborough,Industrials,"At One Ventures, Hitachi Ventures, Trumpf Venture",Unicorn
+Uniswap,1.66,2022-10-13,United States,New York,Financial Services,"A16z Crypto, Variant Fund, Paradigm",Unicorn
+Kredivo Holdings,1.66,2022-08-15,Singapore,Singapore,Financial Services,"Jungle Ventures, Square Peg Capital, OpenSpace Ventures",Unicorn
+Pathos,1.6,2025-05-01,United States,Chicago,Healthcare & Life Sciences,New Enterprise Associates,Unicorn
+Unite Us,1.6,2024-01-09,United States,Palo Alto,Healthcare & Life Sciences,"Insight Partners, Sequoia Capital, Index Ventures",Unicorn
+CircleCI,1.7,2021-05-11,United States,San Francisco,Enterprise Tech,"Threshold Ventures, Baseline Ventures, Harrison Metal",Unicorn
+Wave,1.7,2021-09-07,Senegal,Dakar,Financial Services,"Stripe, Founders Fund, Partech Partners",Unicorn
+Dragos,1.7,2021-10-28,United States,Hanover,Industrials,"DataTribe, Energy Impact Partners, AllegisCyber Capital",Unicorn
+Reltio,1.7,2021-11-04,United States,Redwood City,Enterprise Tech,"Crosslink Capital, .406 Ventures, Sapphire Ventures",Unicorn
+H2O.ai,1.7,2021-11-07,United States,Mountain View,Enterprise Tech,"Nexus Venture Partners, Transamerica Ventures, Crane Venture Partners",Unicorn
+ZenBusiness,1.7,2021-11-09,United States,Austin,Enterprise Tech,"Greycroft, Lerer Hippeau, Geekdom Fund",Unicorn
+Carsome,1.7,2021-07-12,Malaysia,Selangor,Industrials,"Gobi Partners, 500 Startups, Ondine Capital",Unicorn
+Productboard,1.73,2022-02-02,United States,San Francisco,Enterprise Tech,"Index Ventures, Kleiner Perkins Caufield & Byers, Bessemer Venture Partners",Unicorn
+Spotter,1.7,2022-02-16,United States,Los Angeles,Financial Services,"SoftBank Group, Access Industries, Crossbeam Venture Partners",Unicorn
+Optimism,1.65,2022-03-17,United States,San Francisco,Enterprise Tech,"Paradigm, Huobi Ventures, Andreessen Horowitz",Unicorn
+Dexterity,1.65,2021-10-13,United States,Redwood City,Industrials,"Lightspeed Venture Partners, Kleiner Perkins",Unicorn
+Incredible Health,1.65,2022-08-17,United States,San Francisco,Healthcare & Life Sciences,"Obvious Ventures, Andreessen Horowitz, NFX",Unicorn
+Modular AI,1.6,2025-09-24,United States,Palo Alto,Enterprise Tech,"US Innovative Technology Fund, General Catalyst, Google Ventures",Unicorn
+NewLimit,1.62,2025-10-20,United States,South San Francisco,Healthcare & Life Sciences,"Abstract, Boost VC, Kleiner Perkins",Unicorn
+Jusfoun Big Data,1.62,2018-07-09,China,Beijing,Enterprise Tech,"Boxin Capital, DT Capital Partners, IDG Capital",Unicorn
+FloQast,1.6,2021-07-21,United States,Los Angeles,Financial Services,"Polaris Partners, Insight Partners, Norwest Venture Partners",Unicorn
+Weka,1.6,2024-05-15,United States,Campbell,Enterprise Tech,"Qualcomm Ventures, Hitachi Ventures, MoreTech Ventures",Unicorn
+DealShare,1.7,2022-01-27,India,Bengaluru,Consumer & Retail,"Alpha Wave Global, Matrix Partners India, Tiger Global Management",Unicorn
+Zhubajie,1.61,2015-06-16,China,Chongqing,Enterprise Tech,"Cybernaut Growth Fund, IDG Capital",Unicorn
+Solaris,1.6,2021-07-13,Germany,Berlin,Financial Services,"Yabeo Capital, SBI Investment, Vulcan Capital",Unicorn
+Apollo,1.6,2023-08-29,United States,Covina,Enterprise Tech,"Nexus Venture Partners, Sequoia Capital, Bain Capital Ventures",Unicorn
+Cao Cao Mobility,1.6,2018-01-17,China,Hangzhou,Industrials,"People Electrical Appliance Group China, Zhongrong International Trust",Unicorn
+cult.fit,1.6,2021-11-10,India,Bengaluru,Healthcare & Life Sciences,"Chiratae Ventures, Accel, Kalaari Capital",Unicorn
+Clari,2.6,2021-03-03,United States,Sunnyvale,Enterprise Tech,"Sequoia Capital, Bain Capital Ventures, enaya Capital",Unicorn
+Monte Carlo,1.6,2022-05-24,United States,San Francisco,Enterprise Tech,"GGV Capital, Accel, Redpoint Ventures",Unicorn
+Cresta,1.6,2022-03-17,United States,San Francisco,Enterprise Tech,"Andreessen Horowitz, Greylock Partners, Sequoia Capital",Unicorn
+Extend,1.36,2021-05-18,United States,San Francisco,Insurance,"GreatPoint Ventures, Meritech Capital Partners, PayPal Ventures",Unicorn
+Employment Hero,1.37,2023-10-18,Australia,Sydney,Enterprise Tech,"OneVentures, AirTree Ventures, AMP New Ventures",Unicorn
+Generate Biomedicines,1.36,2021-11-18,United States,Cambridge,Healthcare & Life Sciences,"Altitude Life Science Ventures. T. Rowe Price, Morningside Venture Partners",Unicorn
+Nirvana,1.5,2025-12-18,United States,San Francisco,Financial Services,"Lightspeed Venture Partners, General Catalyst",Unicorn
+Cognite,1.5,2021-05-19,Norway,Lysaker,Industrials,"Technology Crossover Ventures, Accel, Aker",Unicorn
+ShopMy,1.5,2025-10-22,United States,Worcester,Enterprise Tech,"Bain Capital Ventures, Bessemer Venture Partners",Unicorn
+Chapter,1.5,2025-04-16,United States,New York,Healthcare & Life Sciences,Coatue,Unicorn
+Tide,1.5,2025-09-21,United Kingdom,London,Financial Services,TPG,Unicorn
+Plata,3.1,2025-03-12,Mexico,Mexico City,Financial Services,Coatue,Unicorn
+Altruist,1.9,2024-04-16,United States,Culver City,Financial Services,"Venrock, Endeavor, Adams Street Partners",Unicorn
+ASAPP,1.6,2021-05-19,United States,New York,Enterprise Tech,"March Capital Partners, HOF Capital, Emergence Capital Partners",Unicorn
+SmartHR,1.6,2021-06-08,Japan,Tokyo,Enterprise Tech,"BEENEXT, World Innovation Lab, Light Street Capital",Unicorn
+Mercury,3.5,2021-07-03,United States,San Francisco,Financial Services,"Andreessen Horowitz, Coatue Management, Clocktower Technology Ventures",Unicorn
+HomeLight,1.7,2021-09-02,United States,San Francisco,Financial Services,"Zeev Ventures, Menlo Ventures,Crosslink Capital",Unicorn
+ezCater,1.6,2019-04-02,United States,Boston,Consumer & Retail,"Insight Venture Partners, ICONIQ Capital, Launchpad Venture Group",Unicorn
+Wayflyer,1.6,2022-02-01,Ireland,Dublin,Financial Services,"QED Investors, DST Global, Left Lane Capital",Unicorn
+Capitolis,1.6,2022-03-22,United States,New York,Financial Services,"Sequoia Capital, Index Ventures, S Capital",Unicorn
+Magic Eden,1.6,2022-06-21,United States,San Francisco,Media & Entertainment,"Sequoia Capital, Lightspeed Venture Partners, Paradigm",Unicorn
+Pave,1.6,2022-06-28,United States,San Francisco,Enterprise Tech,"Y Combinator, Andreessen Horowitz, Bessemer Venture Partners",Unicorn
+Promasidor Holdings,1.59,2016-11-08,South Africa,Bryanston,Consumer & Retail,"IFC, Ajinomoto",Unicorn
+GalaxySpace,1.58,2020-11-17,China,Beijing,Industrials,"Shunwei Capital Partners, 5Y Capital, Legend Capital",Unicorn
+Icon,1.57,2022-02-18,United States,Austin,Industrials,"Moderne Ventures, Oakhouse Partners, Bjarke Ingels Group",Unicorn
+Fresh Life Style Supply Chain Management,1.57,2022-03-11,China,Chengdu,Consumer & Retail,"Guiyang Venture Capital, Longfor Capital, CAOGENZHIBEN GROUP",Unicorn
+Alloy,1.55,2021-09-30,United States,New York,Financial Services,"Bessemer Venture Partners, Eniac Ventures, Canapi Ventures",Unicorn
+Huntress,1.55,2024-06-18,United States,Ellicott City,Enterprise Tech,"ForgePoint Capital, Sapphire Ventures, Gula Tech Adventures",Unicorn
+Iluvatar CoreX,1.55,2021-03-01,China,Shanghai,Enterprise Tech,"Centurium Capital, Cedarlake Capital, Unicom Innovation Venture Capital",Unicorn
+Wenheyou,1.55,2021-04-17,China,Hunan,Consumer & Retail,"Sequoia Capital China, Warburg Pincus, IDG Capital",Unicorn
+Kitopi,1.55,2021-07-01,United Arab Emirates,Dubai,Consumer & Retail,"CE-Ventures, BECO Capital, Nordstar",Unicorn
+Ximalaya FM,1.52,2017-09-22,China,Shanghai,Media & Entertainment,"China Creation Ventures, Sierra Ventures, Xingwang Investment Management",Unicorn
+Carzone,1.52,2019-03-01,China,Jiangsu,Industrials,"Alibaba Group,Co-Stone Venture Capital, Buhuo Venture Capital",Unicorn
+Pump,1.5,2025-03-30,Ireland,Limerick,Enterprise Tech,6MV,Unicorn
+Anaconda,1.5,2025-07-31,United States,Austin,Enterprise Tech,"General Catalyst, Silicon Valley Bank, Morningside Venture Partners",Unicorn
+Lighter,1.5,2025-11-11,United States,Miami,Enterprise Tech,"Founders Fund, Ribbit Capital, Craft Ventures",Unicorn
+Skild AI,1.5,2024-07-09,United States,Pittsburgh,Industrials,"CRV, General Catalyst, Menlo Ventures",Unicorn
+You.com,1.5,2025-09-03,United States,Palo Alto,Enterprise Tech,"Day One Ventures, Salesforce Ventures, Radical Ventures",Unicorn
+Sigma Computing,1.5,2024-05-16,United States,San Francisco,Enterprise Tech,"Sutter Hill Ventures, Snowflake Ventures, NewView Capital",Unicorn
+Ninja,1.5,2025-07-21,Saudi Arabia,Dhahran,Consumer & Retail,Bunat Ventures,Unicorn
+OpenWeb,1.5,2021-11-09,United States,New York,Media & Entertainment,"Insight Partners, AltaIR Capital, Norma Investments",Unicorn
+SpreeAI,1.5,2025-05-06,United States,Incline Village,Consumer & Retail,unknown,Unicorn
+Mu Sigma,1.5,2013-02-07,United States,Northbrook,Enterprise Tech,"Sequoia Capital, General Atlantic",Unicorn
+Kushki,1.5,2022-06-07,Ecuador,Quito,Financial Services,"Clocktower Technology Ventures, DILA Capital, Kaszek Ventures",Unicorn
+Jasper,1.5,2022-10-17,United States,Austin,Enterprise Tech,"Foundation Capital, Institutional Venture Partners, Founders Capital",Unicorn
+Orna Therapeutics,1.5,2022-08-16,United States,Cambridge,Healthcare & Life Sciences,"MPM Capital, Astellas Venture Management, F2 Ventures",Unicorn
+TuJia,1.5,2015-06-17,China,Beijing,Consumer & Retail,"GGV Capital, QiMing Venture Partnersl",Unicorn
+Mofang Living,1.5,2016-04-13,China,Shanghai,Consumer & Retail,"Warburg Pincus, Aviation Industry Corporation of China",Unicorn
+DT Dream,1.5,2017-06-08,China,Hangzhou,Enterprise Tech,"Alibaba Group, China Everbright Investment Management, Yinxinggu Capital",Unicorn
+Changingedu,1.5,2017-10-30,China,Shanghai,Consumer & Retail,"Trustbridge Partners, IDG Capital, Sequoia Capital China",Unicorn
+XiaoZhu,1.5,2017-11-01,China,Beijing,Consumer & Retail,"Morningside Ventures, Capital Today, JOY Capital",Unicorn
+JOLLY Information Technology,1.5,2018-05-29,China,Hangzhou,Consumer & Retail,"Legend Capital, CDH Investments, Sequoia Capital China",Unicorn
+Yijiupi,1.5,2018-09-20,China,Beijing,Consumer & Retail,"Source Code Capital, Meituan Dianping, Tencent Holdings",Unicorn
+Cambridge Mobile Telematics,1.5,2018-12-19,United States,Cambridge,Insurance,SoftBank Group,Unicorn
+Collective Health,1.5,2019-06-17,United States,San Francisco,Healthcare & Life Sciences,"New Enterprise Associates, Founders Fund, Google Ventures",Unicorn
+Zenoti,1.5,2020-12-15,United States,Bellevue,Consumer & Retail,"Norwest Venture Partners, Accel, Tiger Global Management",Unicorn
+Uplight,1.5,2021-03-03,United States,Boulder,Industrials,"Rubicon Technology Partners, Max Ventures, Inclusive Capital Partners",Unicorn
+Snapdocs,1.5,2021-05-25,United States,San Francisco,Financial Services,"Sequoia Capital, Y Combinator, F-Prime Capital",Unicorn
+Chipper Cash,2.0,2021-05-31,United States,San Francisco,Financial Services,"Deciens Capital, Bezos Expeditions, 500 Startups",Unicorn
+Ledger,1.47,2021-06-10,France,Paris,Financial Services,"Digital Currency Group, Draper Esprit, Korelya Capital",Unicorn
+Next Silicon,1.5,2021-06-14,Israel,Tel Aviv,Enterprise Tech,"Amiti Ventures, Playground Global, Aleph",Unicorn
+YQNlink,1.5,2021-06-29,China,Shanghai,Industrials,"Source Code Capital, Coatue Management, DCM Ventures",Unicorn
+impact.com,1.5,2021-07-13,United States,Santa Barbara,Enterprise Tech,"Redpoint Ventures, Providence Equity Partners, Silversmith Capital Partners",Unicorn
+NotCo,1.5,2021-07-26,Chile,Santiago,Consumer & Retail,"Kaszek Ventures, SOSV, Tiger Global Management",Unicorn
+Culture Amp,1.5,2021-07-29,Australia,Richmond,Enterprise Tech,"Felicis Ventures, Index Ventures, Blackbird Ventures",Unicorn
+TaxBit,1.5,2021-08-04,United States,Draper,Financial Services,"Insight Partners, Coinbase Ventures, PayPal Ventures",Unicorn
+Pacaso,1.5,2021-03-24,United States,Cincinnati,Financial Services,"Global Founders Capital, Shea Ventures, Greycroft",Unicorn
+1047 Games,1.5,2021-09-14,United States,Zephyr Cove,Media & Entertainment,"VGames, Lakestar, Galaxy Interactive",Unicorn
+Matillion,1.5,2021-09-15,United Kingdom,Altrincham,Enterprise Tech,"Scale Venture Partners, Sapphire Ventures, Battery Ventures",Unicorn
+Persona,1.5,2021-09-15,United States,San Francisco,Enterprise Tech,"Coatue Management, Index Ventures, Founders Fund",Unicorn
+Ascend Money,1.5,2021-09-27,Thailand,Bangkok,Financial Services,"Ant Group, Charoen Pokphand Group, Bow Wave Capital",Unicorn
+Andela,1.5,2021-09-29,United States,New York,Enterprise Tech,"Spark Capital, Google Ventures, CRE Venture Capital",Unicorn
+Built,1.5,2021-09-30,United States,Nashville,Financial Services,"Nyca Partners, Index Ventures, Technology Crossover Ventures",Unicorn
+CoinList,1.5,2021-10-15,United States,San Francisco,Financial Services,"Accomplice, Polychain Capital, GoldenTree Asset Management",Unicorn
+Lusha,1.5,2021-11-10,United States,New York,Enterprise Tech,"PSG, ION Crossover Partners",Unicorn
+Olist,1.5,2021-12-15,Brazil,Curitiba,Consumer & Retail,"Redpoint e.ventures, Valor Capital Group, SoftBank Latin America Fund",Unicorn
+Airbyte,1.5,2021-12-17,United States,San Francisco,Enterprise Tech,"Accel, Benchmark, SV Angel",Unicorn
+StoreDot,1.5,2022-01-04,Israel,Herzliya,Industrials,"Samsung Ventures, SingulariTeam, BP Ventures",Unicorn
+Spendesk,1.5,2022-01-18,France,Paris,Enterprise Tech,"Index Ventures, Eight Roads Ventures, General Atlantic",Unicorn
+Veriff,1.5,2022-01-26,Estonia,Tallinn,Enterprise Tech,"Accel, Institutional Venture Partners, Tiger Global Management",Unicorn
+ElasticRun,1.5,2022-02-07,India,Pune,Industrials,"Kalaari Capital, Norwest Venture Partners, Prosus Ventures",Unicorn
+Veho,1.5,2021-12-21,United States,Boulder,Consumer & Retail,"General Catalyst, Origin Ventures, Fontinalis Partners",Unicorn
+Fabric,1.5,2022-02-24,United States,Bellevue,Consumer & Retail,"Redpoint Ventures, Norwest Venture Partners, Sierra Ventures",Unicorn
+Boba,1.5,2022-04-05,United States,San Francisco,Enterprise Tech,"DeFi Technologies, Hypersphere Ventures, M13",Unicorn
+Upside,1.5,2022-04-26,United States,DC,Consumer & Retail,"Bessemer Venture Partners, Builders VC, General Catalyst",Unicorn
+Mashgin,1.5,2022-05-09,United States,Palo Alto,Consumer & Retail,"New Enterprise Associates, Matrix Partmers, Susa Ventures",Unicorn
+Dock,1.5,2022-05-12,Brazil,Sao Paulo,Financial Services,"Viking Global Investors, Riverwood Capital, Lightrock",Unicorn
+Prometheus,1.5,2021-09-23,United States,Santa Cruz,Industrials,"BMW i Ventures, Metaplanet, Maersk Growth",Unicorn
+5ire,1.5,2022-07-15,United Kingdom,London,Enterprise Tech,"Global Emerging Markets, Sram & Mram Group, Marshland Capital",Unicorn
+Yipin Shengxian,1.49,2019-03-11,China,Hefei,Consumer & Retail,"Eastern Bell Capital, Capital Today, Longzhu Capital",Unicorn
+Agibank,1.49,2024-12-24,Brazil,Campinas,Financial Services,unknown,Unicorn
+Bordrin Motors,1.48,2019-06-03,China,Shanghai,Industrials,"China Grand Prosperity Investment, CSC Group",Unicorn
+Arcadia,1.48,2022-05-10,United States,DC,Enterprise Tech,"BoxGroup, Energy Impact Partners, Camber Creek",Unicorn
+VTS,1.47,2019-05-07,United States,New York,Financial Services,"Trinity Ventures, Fifth Wall Ventures, OpenView Venture Partners",Unicorn
+Shukun Technology,1.46,2021-08-16,China,Beijing,Healthcare & Life Sciences,"Marathon Venture Partners, Huagai Capital, China Creation Ventures",Unicorn
+Huasun,1.46,2023-01-19,China,Xuancheng,Industrials,"Hongtai Capital Holdings, Jintou Zhiyuan",Unicorn
+Loft,1.46,2020-01-03,Brazil,Sao Paulo,Financial Services,"Monashees+, Andreessen Horowitz, QED Investors",Unicorn
+Tailscale,1.45,2025-04-08,Canada,Toronto,Enterprise Tech,Accel,Unicorn
+Harmonic,1.45,2025-11-25,United States,Palo Alto,Enterprise Tech,"Ribbit Capital, Kleiner Perkins",Unicorn
+Coocaa,1.45,2018-03-16,China,Shenzhen,Media & Entertainment,"Baidu, Tencent Holdings",Unicorn
+Placer.ai,1.45,2022-01-12,United States,Los Altos,Consumer & Retail,"Fifth Wall Ventures, JBV Capital, Array Ventures",Unicorn
+Juma Peisong,1.45,2018-11-26,China,Chengdu,Industrials,"Ding Xiang Capital, New Hope Fund, Sino-Ocean Capital",Unicorn
+Ouyeel,1.45,2019-06-27,China,Shanghai,Industrials,Taigang Venture Capital,Unicorn
+Gymshark,1.45,2020-08-14,United Kingdom,Solihull,Consumer & Retail,General Atlantic,Unicorn
+M1,1.45,2021-07-14,United States,Chicago,Financial Services,"Left Lane Capital, Clocktower Technology Ventures, Jump Capital",Unicorn
+Aleo,1.45,2022-02-07,United States,San Francisco,Enterprise Tech,"Slow Ventures, Andreessen Horowitz, SoftBank Group",Unicorn
+Einride,1.0,2021-12-31,Sweden,Stockholm,Industrials,"Temasek, BUILD Capital Partners, Northzone Ventures",Unicorn
+Justworks,1.43,2020-01-28,United States,New York,Enterprise Tech,"Index Ventures, Thrive Capital, Bain Capital Ventures",Unicorn
+Valgen Medtech,1.43,2021-05-06,China,Hangzhou,Healthcare & Life Sciences,"Sequoia Capital China, China Life Investment Holding Company, Qiming Venture Partners",Unicorn
+SonderMind,1.42,2021-07-28,United States,Denver,Healthcare & Life Sciences,"Kickstart Fund, General Catalyst, Drive Capital",Unicorn
+Zhiyuan Robot,1.4,2025-05-30,China,Pudong,Industrials,"Tencent Venture Capital, BlueRun Ventures",Unicorn
+Rebellions,1.4,2025-07-28,South Korea,Seoul,Industrials,"WAED Ventures, Kakao Ventures, Samsung Ventures",Unicorn
+Route,1.4,2022-01-21,United States,Lehi,Enterprise Tech,"Album VC, Madrona Venture Group, Craft Ventures",Unicorn
+NIUM,1.4,2021-07-13,Singapore,Singapore,Financial Services,"Vertex Ventures SE Asia, Global Founders Capital, Visa Ventures",Unicorn
+Fox Ess,1.4,2025-01-13,China,Wenzhou,Industrials,"Sparkedge Capital, Guotai Ruichengde Asset Management",Unicorn
+Aragen,1.4,2025-01-13,India,Hyderabad,Healthcare & Life Sciences,unknown,Unicorn
+Amagi,1.4,2022-03-16,India,Bengaluru,Media & Entertainment,"Mayfield, Accel, Norwest Venture Partners",Unicorn
+Liquid Death,1.4,2024-03-11,United States,Santa Monica,Consumer & Retail,"Science Media, Live Nation Labs, Velvet Sea Ventures",Unicorn
+Papa,1.4,2021-11-04,United States,Miami,Healthcare & Life Sciences,"Initialized Capital, Canaan Partners, Sound Ventures",Unicorn
+Xpressbees,1.4,2022-02-09,India,Pune,Consumer & Retail,"Norwest Venture Partners, Investcorp, Blackstone",Unicorn
+Figment,1.4,2021-12-20,Canada,Toronto,Financial Services,"Bonfire Ventures, Two Sigma Ventures, FJ Labs",Unicorn
+Envoy,1.4,2022-01-11,United States,San Francisco,Enterprise Tech,"Andreessen Horowitz, Initialized Capital, TriplePoint Capital",Unicorn
+Deliverect,1.4,2022-01-24,Belgium,Ghent,Consumer & Retail,"Newion Partners, SmartFin Capital, OMERS Ventures",Unicorn
+SparkCognition,1.4,2022-01-25,United States,Austin,Enterprise Tech,"March Capital Partners, Temasek, Doha Venture Capital",Unicorn
+Liquidity,1.4,2023-02-20,Israel,Tel Aviv,Financial Services,"MUFG Innovation Partners, Spark Capital",Unicorn
+Firebolt,1.4,2022-01-26,Israel,Tel Aviv,Enterprise Tech,"TLV Partners, Zeev Ventures, Bessemer Venture Partners",Unicorn
+AI21 Labs,1.4,2023-08-30,Israel,Tel Aviv,Enterprise Tech,"Walden Catalyst Ventures, Pitango Venture Capital, TPY Capital",Unicorn
+Koudai,1.4,2014-10-23,China,Beijing,Consumer & Retail,"New Enterprise Associates, Tiger Global Management, Tencent",Unicorn
+Symphony,1.4,2017-05-16,United States,New York,Financial Services,"BNP Paribas, Goldman Sachs, Google",Unicorn
+Yidian Zixun,1.4,2017-10-17,China,Beijing,Media & Entertainment,"Phoenix New Media, Tianjin Haihe Industry Fund",Unicorn
+Cabify,1.4,2018-01-22,Spain,Madrid,Industrials,"Seaya Ventures, Otter Rock Capital, Rakuten",Unicorn
+Hive Box,1.4,2018-01-23,China,Shenzhen,Consumer & Retail,"Eastern Bell Capital, SF Holding Co, STO Express",Unicorn
+Away,1.4,2019-05-15,United States,New York,Consumer & Retail,"Global Founders Capital, Comcast Ventures, Forerunner Ventures",Unicorn
+Kong,2.0,2020-12-31,United States,San Francisco,Enterprise Tech,"New Enterprise Associates, CRV, Index Ventures",Unicorn
+Epidemic Sound,1.4,2021-03-11,Sweden,Stockholm,Media & Entertainment,"EQT Partners, Blackstone",Unicorn
+Yotpo,1.4,2021-03-18,United States,New York,Consumer & Retail,"Bessemer Venture Partners, Vintage Investment Partners, Blumberg Capital",Unicorn
+Rebel Foods,1.4,2021-10-07,India,Pune,Consumer & Retail,"Sequoia Capital India, Lightbox Ventures, Coatue Management",Unicorn
+Stash,1.4,2021-02-03,United States,New York,Financial Services,"Goodwater Capital, Entree Capital, Valar Ventures",Unicorn
+Rad Power Bikes,1.4,2021-10-28,United States,Seattle,Industrials,"Durable Capital Partners, Cercano Management, T. Rowe Price",Unicorn
+Clarify Health,1.4,2022-04-05,United States,San Francisco,Healthcare & Life Sciences,"KKR, Aspenwood Ventures, Spark Capital",Unicorn
+Bucketplace,1.4,2022-05-09,South Korea,Seoul,Consumer & Retail,"IMM Investment, Mirae Asset Capital, BOND",Unicorn
+Paddle,1.4,2022-05-09,United Kingdom,London,Enterprise Tech,"Notion Capital, Kindred Capital, BGF Ventures",Unicorn
+OneCard,1.4,2022-07-13,India,Pune,Financial Services,"Sequoia Capital India, Hummingbird Ventures, Matrix Partners India",Unicorn
+boAT,1.4,2022-10-28,India,Mumbai,Consumer & Retail,"Qualcomm Ventures, Fireside Ventures",Unicorn
+Phenom People,1.4,2021-04-07,United States,Ambler,Enterprise Tech,"Sierra Ventures, AXA Venture Partners, Sigma Prime Ventures",Unicorn
+GupShup,1.4,2021-04-08,United States,San Francisco,Enterprise Tech,"Helion Venture Partners, Tiger Global management, CRV",Unicorn
+Degreed,1.4,2021-04-13,United States,Pleasanton,Enterprise Tech,"Signal Peak Ventures, Owl Ventures, Jump Capital",Unicorn
+Scalable Capital,1.4,2021-06-08,Germany,Munich,Financial Services,"BlackRock, Tengelmann Ventures, Holtzbrinck Ventures",Unicorn
+VideoAmp,1.4,2021-10-21,United States,Los Angeles,Enterprise Tech,"Simon Equity Partners, Wavemaker Partners, Anthem Venture Partners",Unicorn
+Panther Labs,1.4,2021-12-02,United States,San Francisco,Enterprise Tech,"Innovation Endeavors, s28 Capital, Lightspeed Venture Partners",Unicorn
+Salt Security,1.4,2022-02-10,United States,Palo Alto,Enterprise Tech,"Y Combinator, S Capital, Tenaya Capital",Unicorn
+Tripledot,2.0,2022-02-14,United Kingdom,London,Media & Entertainment,"Lightspeed Venture Partners, Access Industries, Eldridge",Unicorn
+Nimble Rx,1.4,2022-06-14,United States,Redwood City,Healthcare & Life Sciences,"Sequoia Capital, Four Rivers Group, DAG Ventures",Unicorn
+Veepee,1.38,2007-07-02,France,La Plaine Saint-Denis,Consumer & Retail,"Summit Partners, Qatar Holding",Unicorn
+Neon,1.38,2022-02-14,Brazil,Sao Paulo,Financial Services,"Propel Venture Partners, Monashees+, BBVA",Unicorn
+Patreon,1.35,2020-09-02,United States,San Francisco,Media & Entertainment,"Index Ventures, Thrive Capital, CRV",Unicorn
+Xpanceo,1.35,2025-07-08,United Arab Emirates,Dubai,Enterprise Tech,Opportunity Venture,Unicorn
+DeepBlue Technology,1.35,2018-04-16,China,Shanghai,Consumer & Retail,"DESUN Capital, Yunfeng Capital, Meridian Capital",Unicorn
+UltraGreen,1.35,2018-08-07,Singapore,Singapore,Industrials,"65 Equity Partners, Vitruvian Partners",Unicorn
+Klook,1.35,2018-08-07,Hong Kong,Central,Consumer & Retail,"Sequoia Capital China, Goldman Sachs, Matrix Partners China",Unicorn
+Epirus,1.35,2022-02-14,United States,Hawthorne,Industrials,"8VC, Bedrock Capital, Broom Ventures",Unicorn
+Netradyne,1.34,2025-01-16,United States,San Diego,Industrials,"Point72 Ventures, SVB, Qualcomm Ventures",Unicorn
+Signifyd,1.34,2021-04-15,United States,San Jose,Consumer & Retail,"Menlo Ventures, Resolute Ventures, IA Ventures",Unicorn
+Jaguar Microsystems,1.34,2022-06-23,China,Shenzhen,Industrials,"Tencent Holdings, Glory Ventures, Shenzhen Capital Group",Unicorn
+Tekever,1.33,2025-05-06,Portugal,Lisbon,Industrials,"Ventura Capital, Iberis Capital",Unicorn
+Motorway,1.33,2021-11-29,United Kingdom,London,Industrials,"Marchmont Ventures, BMW i Ventures, Index Ventures",Unicorn
+Human Interest,1.33,2021-08-04,United States,San Francisco,Financial Services,"Wing Venture Capital, Slow Ventures, Uncork Capital",Unicorn
+RIDI,1.33,2022-01-24,South Korea,Seoul,Media & Entertainment,"Atinum Investment, Company K Partners, GIC",Unicorn
+Lyten,1.33,2023-09-12,United States,San Jose,Industrials,"Honeywell Ventures, Prime Movers Lab, Footprint Coalition Ventures",Unicorn
+Flipboard,1.32,2015-07-22,United States,Palo Alto,Media & Entertainment,"Kleiner Perkins Caufield & Byers, Comcast Ventures, Insight Partners",Unicorn
+GPclub,1.32,2018-10-22,South Korea,Seoul,Consumer & Retail,Goldman Sachs,Unicorn
+Tongdun Technology,1.32,2019-04-25,China,Hangzhou,Enterprise Tech,"Advantech Capital, Temasek Holdings Ltd., Tiantu Capital Co.",Unicorn
+Athletic Greens,1.32,2022-01-25,United States,New York,Healthcare & Life Sciences,"SC.Holdings, Not Boring Capital, Bolt Ventures",Unicorn
+Unisound,1.31,2018-07-19,China,Beijing,Enterprise Tech,"Qiming Venture Partners, China Internet Investment Fund, Qualcomm Ventures",Unicorn
+Alzheon,1.31,2020-09-30,United States,Framingham,Healthcare & Life Sciences,"ARCH Venture Partners, Ally Bridge Group",Unicorn
+Chai Discovery,1.3,2025-12-15,United States,San Francisco,Enterprise Tech,unknown,Unicorn
+Unitree Robotics,1.3,2025-06-20,China,Hangzhou,Industrials,unknown,Unicorn
+MasterControl,1.3,2022-12-15,United States,Salt Lake City,Healthcare & Life Sciences,InnoVentures Capital Partners,Unicorn
+24M Technology,1.3,2024-09-05,United States,Cambridge,Industrials,"North Bridge Venture Partners, CRV, Shumway Capital",Unicorn
+Scribe,1.3,2025-11-10,United States,San Francisco,Enterprise Tech,"Redpoint Ventures, Morado Venture Partners, New York Life Ventures",Unicorn
+eFishery,1.3,2023-05-25,Indonesia,Bandung,Industrials,"Aqua-Spark, Wavemaker Partners, Peak XV Partners",Unicorn
+Purplle,1.3,2022-06-09,India,Mumbai,Consumer & Retail,"Blume Ventures, JSW Ventures, IvyCap Ventures",Unicorn
+Zum,1.3,2024-01-31,United States,Redwood City,Industrials,"Sequoia Capital, BMW i Ventures, Spark Capital",Unicorn
+HeartFlow,1.3,2017-12-04,United States,Redwood City,Healthcare & Life Sciences,"BlueCross BlueShield Venture Partners, US Venture Partners",Unicorn
+Shiprocket,1.21,2022-08-16,India,New Delhi,Consumer & Retail,"Bertelsmann India Investments, March Capital Partners, Tribe Capital, Nirvana Venture Advisors",Unicorn
+Everly Health,1.3,2020-12-03,United States,Austin,Healthcare & Life Sciences,"Highland Capital Partners, Next Coast Ventures, SoGal Ventures",Unicorn
+Nothing,1.3,2025-09-15,United Kingdom,London,Consumer & Retail,"Tiger Global Management, C Ventures, EQT Ventures",Unicorn
+Manner,1.3,2020-12-24,China,Shanghai,Consumer & Retail,"Coatue Management, H Capital, Capital Today",Unicorn
+DistroKid,1.3,2021-08-16,United States,New York,Media & Entertainment,"Insight Partners, Silversmith Capital Partners, Spotify",Unicorn
+Konfio,1.3,2021-09-29,Mexico,Mexico City,Financial Services,"Kaszek Ventures, QED Investors, International Finance Corporation",Unicorn
+Betterment,1.3,2021-09-29,United States,New York,Financial Services,"Bessemer Venture Partners, Menlo Ventures, Anthermis",Unicorn
+Flock Freight,1.3,2021-10-20,United States,Encinitas,Industrials,"SignalFire, GLP Capital Partners, Google Ventures",Unicorn
+YugaByte,1.3,2021-10-28,United States,Sunnyvale,Enterprise Tech,"Lightspeed Venture Partners, Dell Technologies Capital, Wipro Ventures",Unicorn
+Lukka,1.3,2022-01-14,United States,New York,Financial Services,"Liberty City Ventures, Soros Fund Management, Summer Capital",Unicorn
+iTrustCapital,1.3,2022-01-11,United States,Long Beach,Financial Services,"Left Lane Capital, Walden Venture Capital",Unicorn
+Domestika,1.3,2022-01-27,United States,Berkeley,Media & Entertainment,"Zeev Ventures, GSV Ventures",Unicorn
+CoinTracker,1.3,2022-01-27,United States,San Francisco,Financial Services,"Initialized Capital, General Catalyst, Kraken Ventures",Unicorn
+Loadsmart,1.3,2022-02-01,United States,New York,Industrials,"Chromo Invest, Maersk Growth, BlackRock",Unicorn
+TUNGEE,1.3,2021-12-15,China,Guangzhou,Enterprise Tech,"UNITY VENTURES, Qiming Venture Partners, GGV Capital",Unicorn
+Yubi,1.5,2022-03-07,India,Chennai,Financial Services,"Insight Partners, B Capital Group, Lightspeed Venture Partners",Unicorn
+LinkTree,1.3,2022-03-16,Australia,Melbourne,Media & Entertainment,"AirTree Ventures, Insight Partners, Index Ventures",Unicorn
+Clipboard Health,1.3,2022-02-01,United States,San Francisco,Healthcare & Life Sciences,"Caffeinated Capital, Initialized Capital, Y Combinator",Unicorn
+STORD,1.5,2021-09-13,United States,Atlanta,Industrials,"Dynamo VC, Susa Ventures, Founders Fund",Unicorn
+Optibus,1.3,2022-05-16,Israel,Tel Aviv,Industrials,"Bessemer Venture Partners, Insight Partners, Pitango Venture Capital",Unicorn
+Keyfactor,1.3,2023-10-24,United States,Independence,Enterprise Tech,"GM Ventures, Plymouth Growth Partners, Insight Partners",Unicorn
+Equashield,1.3,2022-10-06,United States,Port Washington,Healthcare & Life Sciences,Nordic Capital,Unicorn
+Intercom,1.28,2018-03-27,United States,San Francisco,Enterprise Tech,"FirstMark Capital, Tiger Global Management",Unicorn
+OVO Energy,1.28,2019-02-14,United Kingdom,Bristol,Industrials,"Mitsubishi Corporation, Mayfair Equity Partners",Unicorn
+Huisuanzhang,1.28,2021-05-24,China,Beijing,Financial Services,"IDG Capital, Gaocheng Capital, Chuanrong Capital",Unicorn
+Curative,1.27,2025-12-02,United States,Curative,Financial Services,"Soma Capital, DCVC",Unicorn
+WTOIP,1.27,2018-04-08,China,Guangzhou,Enterprise Tech,"Dark Horse Technology Group, Hopu Investment Management, Kefa Capital",Unicorn
+PeopleCert,1.27,2021-06-23,Greece,Athens,Enterprise Tech,FTV Capital,Unicorn
+Greater Bay Technology,1.26,2022-04-02,China,Guangzhou,Industrials,"Tencent Holdings, Utrust Venture Capital, GF Xinde Investment Management Co.",Unicorn
+JMGO,1.26,2022-03-15,China,Shenzhen,Industrials,"IDG Capital, Yuanda Venture Investment, Primitive Forest Holdings Group",Unicorn
+MGT,1.25,2025-12-03,United States,Tampa,Financial Services,unknown,Unicorn
+MainFunc,1.25,2025-11-20,United States,Palo Alto,Enterprise Tech,Lanchi Ventures,Unicorn
+Vantaca,1.25,2025-10-15,United States,Wilmington,Enterprise Tech,unknown,Unicorn
+Linear,1.25,2025-06-10,United States,San Francisco,Enterprise Tech,Accel,Unicorn
+Gecko Robotics,1.25,2025-06-12,United States,Pittsburgh,Industrials,"Founders Fund, Drive Capital, US Innovative Technology Fund",Unicorn
+Clay,1.25,2020-12-16,United States,New York,Enterprise Tech,"Sequoia Capital, First Round Capital",Unicorn
+BigID,1.25,2020-12-16,United States,New York,Enterprise Tech,"BOLDstart Ventures, SAP.iO Fund, Scale Venture Partners",Unicorn
+Polyhedra Network,1.25,2024-03-14,United States,San Francisco,Enterprise Tech,"MH Ventures, Symbolic Capital, UOB Venture Management",Unicorn
+Kuaikan Manhua,1.25,2017-12-01,China,Beijing,Media & Entertainment,"Sequoia Capital China, CMC Capital Partners, Tencent Holdings",Unicorn
+Marshmallow,2.0,2021-09-08,United Kingdom,London,Insurance,"Passion Capital, Hedosophia, Outrun Ventures",Unicorn
+Honor Technology,1.25,2021-10-05,United States,San Francisco,Healthcare & Life Sciences,"Andreessen Horowitz, Prosus Ventures, Thrive Capital",Unicorn
+QI Tech,1.0,2023-10-31,Brazil,Sao Paulo,Financial Services,General Atlantic,Unicorn
+Mythical Games,1.0,2021-11-04,United States,Sherman Oaks,Media & Entertainment,"Javelin Venture Partners, Struck Capital, Alumni Ventures Group",Unicorn
+Incode Technologies,1.25,2021-12-07,United States,San Francisco,Enterprise Tech,"Dila Capital, Framework Ventures, 3L",Unicorn
+Flipdish,1.25,2022-01-13,Ireland,Dublin,Consumer & Retail,"Tencent Holdings, Tiger Global Management, Global Founders Capital",Unicorn
+CaptivateIQ,1.25,2022-01-26,United States,San Francisco,Enterprise Tech,"Sequoia Capital, Y Combinator, Accel",Unicorn
+Talos,1.25,2022-05-10,United States,New York,Financial Services,"Castle Island Ventures, PayPal Ventures, Andreessen Horowitz",Unicorn
+airSlate,1.25,2022-06-16,United States,Brookline,Enterprise Tech,"G Squared, UiPath Ventures, General Catalyst",Unicorn
+ClassDojo,1.25,2022-07-21,United States,San Francisco,Consumer & Retail,"General Catalyst, Unkork Capital, Tencent Holdings",Unicorn
+Teamworks,1.24,2025-06-18,United States,Durham,Enterprise Tech,unknown,Unicorn
+BrewDog,1.24,2017-04-10,United Kingdom,Aberdeen,Consumer & Retail,"TSG Consumer Partners, Crowdcube",Unicorn
+Enflame,1.24,2021-01-05,China,Shanghai,Enterprise Tech,"Tencent Holdings, Delta Capital, Redpoint Ventures China",Unicorn
+Shulan Health,1.24,2021-03-01,China,Hangzhou,Healthcare & Life Sciences,Qiming Venture Partners,Unicorn
+SeatGeek,1.24,2022-08-31,United States,New York,Media & Entertainment,"Accel, Founder Collective, Brainchild Holdings",Unicorn
+Lila Sciences,1.3,2021-02-01,United States,Mountain View,Healthcare & Life Sciences,"Collective Global, Ada Ventures, Flagship Pioneering",Unicorn
+InDrive,1.23,2025-09-15,United States,Cambridge,Industrials,"Leta Capital, Insight Partners, General Catalyst",Unicorn
+Imprint,1.2,2025-12-17,United States,New York,Financial Services,"Khosla Ventures, Kleiner Perkins",Unicorn
+Spiber,1.22,2021-09-08,Japan,Tsuruoka,Industrials,"Cool Japan Fund, JAFCO, The Carlyle Group",Unicorn
+Insider,2.0,2022-02-28,Turkey,Istanbul,Enterprise Tech,"Wamda Capital, Endeavor, Riverwood Capital",Unicorn
+Kallyope,1.22,2022-02-15,United States,New York,Healthcare & Life Sciences,"The Column Group, Alexandria Venture Investments, Lux Capital",Unicorn
+Strava,2.2,2020-11-16,United States,San Francisco,Healthcare & Life Sciences,"Jackson Square Ventures, Madrone Capital Partners, Sequoia Capital",Unicorn
+Zip,2.2,2022-05-25,United States,San Francisco,Enterprise Tech,"CRV, Tiger Global Management, Y Combinator",Unicorn
+Cart.com,1.2,2023-06-27,United States,Austin,Consumer & Retail,"Mercury Fund, Bearing Ventures, Moonshots Capital",Unicorn
+Hailo,1.2,2021-10-12,Israel,Tel Aviv,Enterprise Tech,"Glory Ventures, Maniv Mobility",Unicorn
+MoneyView,1.2,2024-09-12,India,Bengaluru,Financial Services,"Accel, Nexus Ventures, Nippon Life Global Investors America",Unicorn
+Mews,1.2,2024-03-04,Netherlands,Amsterdam,Enterprise Tech,"Notion Capital, Revaia, Battery Ventures",Unicorn
+Tala Health,1.2,2025-07-15,United States,United States,Healthcare & Life Sciences,Sofreh Capital,Unicorn
+Raise Financial Services,1.2,2025-10-06,India,Maharashtra,Enterprise Tech,unknown,Unicorn
+Seekr,1.2,2025-06-18,United States,Vienna,Enterprise Tech,AMD Ventures,Unicorn
+Nerdio,1.2,2025-03-18,United States,Chicago,Enterprise Tech,"General Atlantic, Lead Edge Capital, MK Capital",Unicorn
+Creatio,1.2,2024-06-25,United States,Boston,Enterprise Tech,Sapphire Ventures,Unicorn
+Our Next Energy,1.2,2023-02-01,United States,Novi,Industrials,"BMW i Ventures, Breakthrough Energy Ventures, Volta Energy Technologies",Unicorn
+Astronomer,1.2,2022-03-23,United States,New York,Enterprise Tech,"Insight Partners, Bain Capital Ventures, Sierra Ventures",Unicorn
+Castore,1.2,2023-11-29,United Kingdom,Manchester,Consumer & Retail,"Felix Capital, Hanaco Ventures, Redrice Ventures",Unicorn
+Oyster,1.2,2022-04-20,United States,Wilmington,Enterprise Tech,"Emergence Capital, Slack Fund, PayPal Ventures",Unicorn
+Glossier,1.65,2019-03-19,United States,New York,Consumer & Retail,"Forerunner Ventures, Institutional Venture Partners, Thrive Capital",Unicorn
+Workhuman,1.2,2020-06-23,Ireland,Dublin,Enterprise Tech,ICG,Unicorn
+Qumulo,1.2,2020-07-16,United States,Seattle,Enterprise Tech,"Madrona Venture Group, Kleiner Perkins Caufield & Byers, Highland Capital Partners",Unicorn
+Hightouch,1.2,2025-02-18,United States,San Francisco,Enterprise Tech,"Sapphire Ventures, Bain Capital Ventures, Amplify Partners",Unicorn
+Tealium,1.2,2021-02-03,United States,San Diego,Enterprise Tech,"Georgian Partners, Silver Lake, Presidio Ventures",Unicorn
+Public,1.2,2021-02-17,United States,New York,Financial Services,"Accel, Greycroft, Advancit Capital",Unicorn
+Pipa Coding,1.2,2021-03-25,China,Beijing,Consumer & Retail,"Source Code Capital, XVC Venture Capital, Hillhouse Capital Management",Unicorn
+Pilot,1.2,2021-03-26,United States,San Francisco,Financial Services,"Index Ventures, Sequoia Capital, Bezos Expeditions",Unicorn
+Aibee,1.2,2021-04-13,China,Beijing,Enterprise Tech,"Sequoia Capital China, Lenovo Capital and Incubator, Group GSR Ventures",Unicorn
+Vectra Networks,1.2,2021-04-29,United States,San Jose,Enterprise Tech,"IA Ventures, Khosla Ventures, AME Cloud Ventures",Unicorn
+Ada,1.2,2021-05-07,Canada,Toronto,Enterprise Tech,"Version One Ventures, Bessemer Venture Partners, FirstMark Capital",Unicorn
+SmartMore,1.2,2021-06-24,China,Shenzhen,Industrials,"IDG Capital, ZhenFund, Sequoia Capital China",Unicorn
+Rohlik Group,1.2,2021-07-01,Czech Republic,Prague,Consumer & Retail,"Partech Partners, Index Ventures, Quadrille Capital",Unicorn
+MindTickle,1.2,2021-08-03,United States,San Francisco,Enterprise Tech,"Qualcomm Ventures, Accel, Canaan Partners",Unicorn
+Offchain Labs,1.2,2021-08-31,United States,Princeton,Enterprise Tech,"Pantera Capital, Polychain Capital, Lightspeed Venture Partners",Unicorn
+Copado,1.2,2021-09-13,United States,Chicago,Enterprise Tech,"Insight Partners, Salesforce Ventures, Perpetual Investors",Unicorn
+Gem,1.2,2021-09-28,United States,San Francisco,Enterprise Tech,"Accel, Greylock Partners, Meritech Capital Partners",Unicorn
+EGYM,1.2,2024-09-24,EGYM,Munich,Healthcare & Life Sciences,"Bayern Kapital, NGP Capital, High-Tech Grunderfonds",Unicorn
+CarDekho,1.2,2021-10-13,India,Jaipur,Industrials,"Sequoia Capital India, Hillhouse Capital Management, Sunley House Capital Management",Unicorn
+The Good Glamm Group,1.2,2021-11-10,India,Mumbai,Consumer & Retail,"L'Occitane, Trifecta Capital, Bessemer Venture Partners",Unicorn
+AgentSync,1.2,2021-12-07,United States,Denver,Insurance,"Craft Ventures, Caffeinated Capital, Operator Collective",Unicorn
+Pristyn Care,1.4,2021-12-07,India,Gurugram,Healthcare & Life Sciences,"Sequoia Capital India, Hummingbird Ventures, Epiq Capital",Unicorn
+Merama,1.2,2021-12-09,Mexico,Mexico City,Consumer & Retail,"SoftBank Latin America Fund, Advent International, Balderton Capital",Unicorn
+SeekOut,1.2,2022-01-12,United States,Bellevue,Enterprise Tech,"Mayfield, Madrona Venture Group, Tiger Global Management",Unicorn
+BigPanda,1.2,2022-01-12,United States,Mountain View,Enterprise Tech,"Advent International, Battery Ventures, Sequoia Capital Israel",Unicorn
+LivSpace,1.2,2022-02-08,India,Bengaluru,Consumer & Retail,"Jungle Ventures, Helion Venture Partners, INGKA Investments",Unicorn
+Nova Labs,1.2,2022-02-22,United States,San Francisco,Enterprise Tech,"FirstMark Capital, Tiger Global Management, FTX Venture",Unicorn
+Choco,1.2,2022-04-12,Germany,Berlin,Consumer & Retail,"Bessemer Venture Partners, G Squared, Insight Partners",Unicorn
+Viz.ai,1.2,2022-04-07,United States,San Francisco,Healthcare & Life Sciences,"Kleiner Perkins Caufield & Byers, CRV, Threshold Ventures",Unicorn
+Unit,1.2,2022-05-17,United States,New York,Financial Services,"Accel, Better Tomorrow Ventures, Flourish Ventures",Unicorn
+stori,1.2,2022-07-15,Mexico,Juarez,Financial Services,"Vision Plus Capital, Source Code Capital, Lightspeed Venture Partners",Unicorn
+Spectrum Medical,1.2,2022-07-18,United Kingdom,Gloucester,Healthcare & Life Sciences,CVC Capital Partners,Unicorn
+Celestial AI,2.5,2024-03-27,United States,Santa Clara,Enterprise Tech,"The Engine Accelerator, M Ventures, Tyche Partners",Unicorn
+Swiftly,1.2,2022-09-19,United States,Seattle,Consumer & Retail,"Mendacre, BRV Capital Management, Liquid 2 Ventures",Unicorn
+CloudBees,1.15,2021-12-09,United States,San Jose,Enterprise Tech,"Matrix Partners, Lightspeed Venture Partners, Verizon Ventures",Unicorn
+DevRev,1.15,2024-07-25,United States,Palo Alto,Enterprise Tech,"Khosla Ventures, Mayfield, Alumni Ventures",Unicorn
+Flink,1.07,2021-12-01,Germany,Berlin,Consumer & Retail,"Mubadala Capital, Bond, Prosus Ventures",Unicorn
+L&P Cosmetic,1.19,2016-01-01,South Korea,Seoul,Consumer & Retail,CDIB Capital,Unicorn
+Vestiaire Collective,1.18,2021-03-01,France,Paris,Consumer & Retail,"Eurazeo, IDInvest Partners, Balderton Capital",Unicorn
+Luoji Siwei,1.18,2017-07-20,China,Beijing,Media & Entertainment,"Sequoia Capital China, Qiming Venture Partners, Tencent Holdings",Unicorn
+Yimidida,1.17,2019-01-14,China,Shanghai,Industrials,"Source Code Capital, Global Logistic Properties, K2VC",Unicorn
+Modern Health,1.17,2021-02-11,United States,San Francisco,Healthcare & Life Sciences,"Kleiner Perkins Caufield & Byers, Afore Capital, Founders Fund",Unicorn
+Uzum,1.5,2024-03-26,Uzbekistan,Tashkent,Financial Services,FinSight Ventures,Unicorn
+SOURCE Global,1.16,2022-04-29,United States,Scottsdale,Industrials,"Breakthrough Energy Ventures, Material Impact, 3x5 Special Opportunity Partners",Unicorn
+LifeMiles,1.15,2015-07-13,Colombia,Bogota,Consumer & Retail,Advent International,Unicorn
+Rebellion Defense,1.15,2021-09-16,United States,Washington DC,Industrials,"Venrock, Innovation Endeavors, Insights Partners",Unicorn
+Elemy,1.15,2021-10-06,United States,San Francisco,Healthcare & Life Sciences,"General Catalyst, Bling Capital, Felicis Ventures",Unicorn
+TELD,1.12,2019-12-16,China,Qingdao,Industrials,"China Reform Fund, Gaopeng Capital, Jinhui Xingye",Unicorn
+Enable,1.12,2023-11-07,United States,San Francisco,Enterprise Tech,"Menlo Ventures, Norwest Venture Partners, Sierra Ventures",Unicorn
+Coralogix,1.12,2025-06-17,Israel,Ramat Gan,Enterprise Tech,"NewView Capital, Brighton Park Capital, Aleph",Unicorn
+DANA,1.13,2022-08-10,Indonesia,Jakarta,Financial Services,"Ant Group, Lazada, Sinar Mas Indonesia",Unicorn
+Tines,1.13,2025-02-11,Ireland,Dublin,Enterprise Tech,"Accel, Addition, Index Ventures",Unicorn
+At-Bay,1.12,2021-07-27,United States,Mountain View,Insurance,"Lightspeed Venture Partners, Khosla Ventures, Munich Re Ventures",Unicorn
+Visby Medical,1.12,2022-03-01,United States,San Jose,Healthcare & Life Sciences,"Artiman Ventures, Pitango Venture Capital, Valo Ventures",Unicorn
+Invoca,1.1,2022-06-14,United States,Santa Barbara,Enterprise Tech,"Upfront Ventures, Accel, Industry Ventures",Unicorn
+Dream Security,1.1,2025-02-17,Israel,Tel Aviv,Enterprise Tech,"Bain Capital Ventures, Aleph",Unicorn
+LangChain,1.25,2025-07-10,United States,San Francisco,Enterprise Tech,"Institutional Venture Partners, Sequoia Capital",Unicorn
+TalkingData,1.1,2021-01-06,China,Beijing,Enterprise Tech,"N5 Capital, CR Capital Mgmt, JD Digits",Unicorn
+Onebrief,1.1,2024-07-29,United States,Honolulu,Enterprise Tech,"Battery Ventures, General Catalyst, Human Capital",Unicorn
+Rapido,1.1,2024-07-29,India,Madhapur,Industrials,"Nexus Venture Partners, Astarc Ventures, Shell Ventures",Unicorn
+Wasabi,1.1,2022-09-27,United States,Boston,Enterprise Tech,"Forestay Capital, Alumni Ventures, NTT DoCoMo Ventures",Unicorn
+Halan,1.0,2023-02-01,Egypt,Cairo,Financial Services,"Middle East Venture Partners, Endeavor, Algebra Ventures",Unicorn
+Rokid,1.0,2023-11-20,United States,Redwood City,Media & Entertainment,"IDG Capital, MFund, Linear Venture",Unicorn
+Krutrim,1.0,2024-01-26,India,Bengaluru,Enterprise Tech,Matrix Partners India,Unicorn
+Headway,1.0,2023-10-05,United States,Orlando,Healthcare & Life Sciences,"Accel, Thrive Capital, Andreessen Horowitz",Unicorn
+Thyme Care,1.0,2025-09-25,United States,Nashville,Healthcare & Life Sciences,"Concord Health Partners, Foresite Capital, Andreessen Horowitz",Unicorn
+Flexe,1.0,2022-04-21,United States,Seattle,Industrials,"Redpoint Ventures, Prologis Ventures, Madrona Venture Group",Unicorn
+TangoMe,1.1,2014-03-20,United States,Mountain View,Media & Entertainment,"Draper Fisher Jurtson, Qualcomm Ventures, Alibaba Group",Unicorn
+AppDirect,1.1,2015-10-07,United States,San Francisco,Enterprise Tech,"Mithril, iNovia Capital, Foundry Group",Unicorn
+Juanpi,1.1,2016-04-14,China,Wuhan,Consumer & Retail,"Tiantu Capital, SAIF Partners China, Newsion Venture Capital",Unicorn
+OVH,1.1,2016-08-15,France,Roubaix,Enterprise Tech,"KKR, TowerBrook Capital Partners",Unicorn
+GetYourGuide,2.0,2019-05-16,Germany,Berlin,Consumer & Retail,"Spark Capital, Highland Europe, Sunstone Capital",Unicorn
+Ivalua,1.1,2019-05-21,United States,Redwood City,Enterprise Tech,"Ardian, Tiger Global Management, KKR",Unicorn
+Sisense,1.1,2020-01-09,United States,New York,Enterprise Tech,"Opus Capital, Genesis Partners, Battery Ventures",Unicorn
+Pharmapacks,1.1,2020-11-12,United States,Islandia,Consumer & Retail,The Carlyle Group,Unicorn
+Sennder,1.1,2021-01-14,Germany,Berlin,Industrials,"Accelm Scania Growth Capital, Lakestar",Unicorn
+Nexthink,1.1,2021-02-08,Switzerland,Prilly,Enterprise Tech,"Auriga, Galeo Ventures, Highland Europe",Unicorn
+Zego,1.1,2021-03-09,United Kingdom,London,Insurance,"LocalGlobe, Balderton Capital, Target Global",Unicorn
+Sunbit,1.1,2021-05-20,United States,Los Angeles,Financial Services,"Zeev Ventures, Group11, Chicago Ventures",Unicorn
+Qingting FM,1.1,2021-06-02,China,Shanghai,Media & Entertainment,"China Culture Industrial Investment Fund, We Capital, China Minsheng Investment Group",Unicorn
+G2,1.1,2021-06-22,United States,Chicago,Enterprise Tech,"Pritzker Group Venture Capital, Accel, Hyde Park Venture Partners",Unicorn
+Caribou,1.1,2022-05-23,United States,Denver,Insurance,"CMFG Ventures, Accomplice, Moderne Ventures",Unicorn
+Nowports,1.1,2022-05-24,Mexico,Monterrey,Industrials,"Monashees+, Foundation Capital, Base10 Partners",Unicorn
+People.ai,1.1,2021-08-11,United States,San Francisco,Enterprise Tech,"GGV Capital, Lightspeed Venture Partners, ICONIQ Capital",Unicorn
+Carousell,1.1,2021-09-15,Singapore,Singapore,Consumer & Retail,"500 Global, Rakuten Ventures, Golden Gate Ventures",Unicorn
+apna,1.1,2021-09-15,India,Bengaluru,Enterprise Tech,"Sequoia Capital India, Rocketship.vc, Lightspeed India Partners",Unicorn
+Karat,1.1,2021-10-13,United States,Seattle,Enterprise Tech,"8VC, Norwest Venture Partners, Tiger Global Management",Unicorn
+Enpal,1.1,2021-10-18,Germany,Berlin,Industrials,"HV Capital, Softbank Group, BlackRock",Unicorn
+Acko General Insurance,1.1,2021-10-28,India,Bengaluru,Insurance,"Intact Ventures, Munich Re Ventures, General Atlantic",Unicorn
+The Bank of London,1.1,2021-11-30,United Kingdom,London,Financial Services,"Mangrove Capital Partners,14W. ForgeLight",Unicorn
+Fundbox,1.1,2021-11-30,United States,San Francisco,Financial Services,"Khosla Ventures, General Catalyst, Blumberg Capital",Unicorn
+Turing,2.2,2021-12-20,United States,Palo Alto,Enterprise Tech,"Foundation Capital, Frontier Ventures, AltaIR Capital",Unicorn
+LEAD,1.1,2022-01-13,India,Andheri,Consumer & Retail,"WestBridge Capital, GSV Ventures, Elevar Equity",Unicorn
+eSentire,1.1,2022-02-22,Canada,Waterloo,Enterprise Tech,"Edison Partners, Georgian Partners, VentureLink",Unicorn
+Beyond Identity,1.1,2022-02-22,United States,New York,Enterprise Tech,"New Enterprise Associates, Koch Disruptive Technologies, Evolution Equity Partners",Unicorn
+Staffbase,1.1,2022-03-15,Germany,Chemnitz,Enterprise Tech,"Insight Partners, e.ventures, General Atlantic",Unicorn
+Chief,1.1,2022-03-31,United States,New York,Consumer & Retail,"General Catalyst, Inspired Capital, Flybridge Capital Partners",Unicorn
+IntelyCare,1.1,2022-04-06,United States,Quincy,Healthcare & Life Sciences,"Kaiser Permanente Ventures, Endeavour Vision, LRVHealth",Unicorn
+Teleport,1.1,2022-05-03,United States,Oakland,Enterprise Tech,"Kleiner Perkins Caufield & Byers, s28 Capital, Insight Partners",Unicorn
+Imply Data,1.1,2022-05-17,United States,Burlingame,Enterprise Tech,"Andreessen Horowitz, Bessemer Venture Partners, Khosla Ventures,",Unicorn
+Material Security,1.1,2022-05-11,United States,Redwood City,Enterprise Tech,"Andreessen Horowitz, Founders Fund",Unicorn
+Recover,1.1,2022-06-09,Spain,Banyeres de Mariola,Industrials,"Goldman Sachs Asset Management, STORY3 Capital Partners",Unicorn
+CAIS,1.1,2022-01-11,United States,New York,Financial Services,"Franklin Templeton, Motive Partners. Apollo Global Management",Unicorn
+Nxin,1.08,2018-09-18,China,Beijing,Industrials,"Beijing Juneng Hesheng Industry Investment Fund, Beijing Shuju Xinrong Fund",Unicorn
+UISEE Technology,1.08,2021-01-25,China,Beijing,Industrials,"Shenzhen Capital Group, Robert Bosch Venture Capital, SeptWolves Ventures",Unicorn
+56PINGTAI,1.08,2021-01-25,China,Shanghai,Industrials,"QF Capital, QC Capital, Unicom Innovation Venture Capital",Unicorn
+Cirkul,1.07,2022-06-13,United States,Sarasota,Consumer & Retail,"AF Ventures, Siddhi Capital, SC.Holdings",Unicorn
+Radius Payment Solutions,1.07,2017-11-27,United Kingdom,Crewe,Industrials,Inflexion Private Equity,Unicorn
+InCred,1.05,2023-11-09,India,Mumbai,Financial Services,unknown,Unicorn
+0x,1.05,2022-04-26,United States,San Francisco,Financial Services,"Jump Capital, Pantera Capital, Greylock Partners",Unicorn
+Jiuxian,1.05,2015-07-30,China,Beijing,Consumer & Retail,"Sequoia Capital China, Rich Land Capital, Merrysunny Wealth",Unicorn
+Instabase,1.24,2019-10-21,United States,San Francisco,Enterprise Tech,"New Enterprise Associates, Greylock Partners, Andreessen Horowitz",Unicorn
+Sendbird,1.05,2021-04-06,United States,San Mateo,Enterprise Tech,"FundersClub, Y Combinator, Tiger Global Management",Unicorn
+Density,1.05,2021-11-10,United States,San Francisco,Enterprise Tech,"Founders Fund, Upfront Ventures, 01 Advisors",Unicorn
+Mixpanel,1.05,2021-11-15,United States,San Francisco,Enterprise Tech,"Bain Capital Tech Opportunities, Andreessen Horowitz, Sequoia Capital",Unicorn
+Branch,1.05,2022-03-01,United States,Columbus,Insurance,"American Family Ventures, Greycroft, SignalFire",Unicorn
+OrCam Technologies,1.03,2018-02-20,Israel,Jerusalem,Healthcare & Life Sciences,"Intel Capital, Aviv Venture Capital",Unicorn
+Juniper Square,1.02,2025-05-09,United States,San Francisco,Financial Services,"Ribbit Capital, Redpoint Ventures, CSC Upshot Ventures",Unicorn
+B&C Chemical,1.02,2023-04-19,China,Pizhou,Industrials,"Suzhou International Development Venture Capital Holding, GP Capital",Unicorn
+Ample,1.02,2021-11-11,United States,San Francisco,Industrials,"Shell Ventures, Blackstone, Moore Strategic Ventures",Unicorn
+Beacon,1.0,2025-11-04,Canada,Toronto,Financial Services,"D1 Capital Partners, General Catalyst",Unicorn
+Substrate,1.0,2025-10-28,United States,San Francisco,Industrials,"Founders Fund, General Catalyst",Unicorn
+Reka AI,1.0,2025-07-22,United States,Sunnyvale,Enterprise Tech,Radical Ventures,Unicorn
+Cyberhaven,1.0,2022-01-19,United States,Palo Alto,Enterprise Tech,Adams Street Partners,Unicorn
+Wheel,1.01,2022-01-19,United States,Austin,Healthcare & Life Sciences,"Silverton Partners, Tusk Ventures, CRV",Unicorn
+Meter,1.0,2025-06-12,United States,San Francisco,Enterprise Tech,General Catalyst,Unicorn
+Periodic Labs,1.0,2025-08-08,United States,Menlo Park,Industrials,Andreessen Horowitz,Unicorn
+Apex,1.0,2025-09-12,United States,Culver City,Industrials,"Interlagos, 8VC, Point72 Ventures",Unicorn
+Enveda,1.0,2025-09-04,United States,Boulder,Enterprise Tech,"FPV Ventures, Kinnevik",Unicorn
+Eve,1.0,2025-09-30,United States,San Mateo,Enterprise Tech,"Spark Capital, Lightspeed Venture Partners, Andreessen Horowitz",Unicorn
+Ambience,1.0,2025-07-28,United States,San Francisco,Enterprise Tech,"Andreessen Horowitz, Kleiner Perkins",Unicorn
+Zama,1.0,2025-06-25,France,Paris,Enterprise Tech,Mulitcoin Capital,Unicorn
+Porter,1.2,2024-05-16,India,Mumbai,Enterprise Tech,"Kedaara Capital, Vitruvian Partners",Unicorn
+Govini,1.0,2025-10-09,United States,Brooklyn,Enterprise Tech,"1789 Capital, Charles River Ventures, Sequoia Capital",Unicorn
+Zyphra,1.0,2025-06-09,United States,Palo Alto,Enterprise Tech,"Bison Ventures, Future Ventures, Intel Capital",Unicorn
+Zero Hash,1.0,2025-07-14,United States,Chicago,Financial Services,"Liberty City Ventures, PEAK6, Point72 Ventures",Unicorn
+SheMed,1.0,2025-10-23,United Kingdom,London,Healthcare & Life Sciences,unknown,Unicorn
+Awardco,1.0,2025-05-20,United States,Lindon,Enterprise Tech,unknown,Unicorn
+Endless,1.0,2025-02-26,United States,United States,Enterprise Tech,Foresight Ventures,Unicorn
+The Open Platform,1.0,2025-07-03,United Arab Emirates,United Arab Emirates,Enterprise Tech,Ribbit Capital,Unicorn
+Owner,1.0,2025-05-13,United States,Palo Alto,Consumer & Retail,unknown,Unicorn
+JSW One Platforms,1.0,2025-05-13,India,Mumbai,Industrials,unknown,Unicorn
+Randpanda,1.0,2025-04-03,United States,San Francisco,Enterprise Tech,"Google Ventures, Lightspeed Ventures",Unicorn
+BuildOps,1.0,2025-03-21,United States,Santa Monica,Industrials,"Meritech Capital Partners, Fika Ventures, 1984 Ventures",Unicorn
+Nourish,1.0,2025-04-23,United States,Austin,Healthcare & Life Sciences,Index Ventures,Unicorn
+Parloa,1.0,2025-05-06,Germany,Berlin,Enterprise Tech,Altimeter Capital,Unicorn
+MUBI,1.0,2025-05-31,United Kingdom,London,Media & Entertainment,"Sequoia Capital, C4 Ventures",Unicorn
+Assured,1.0,2025-03-05,United States,Palo Alto,Insurance,"ICONIQ Capital, Kleiner Perkins, Costanoa Ventures",Unicorn
+Truveta,1.0,2024-01-13,United States,Bellevue,Healthcare & Life Sciences,unknown,Unicorn
+Halter,1.0,2025-06-23,New Zealand,Auckland,Enterprise Tech,"Bessemer Venture Partners, Blackbird Ventures",Unicorn
+Kiteworks,1.0,2024-08-14,United States,Palo Alto,Enterprise Tech,unknown,Unicorn
+Airalo,1.0,2025-07-10,Singapore,Singapore,Consumer & Retail,"CVC Capital Partners, Peak XV Partners",Unicorn
+Ayar Labs,1.0,2024-12-11,United States,San Jose,Industrials,"Intel Capital, Founders Fund, Playground Global",Unicorn
+QuEra Computing,1.0,2025-02-11,United States,Boston,Enterprise Tech,"QVT, Day One Ventures, Sabanci Ventures",Unicorn
+Rentberry,1.0,2024-09-06,United States,San Francisco,Financial Services,"369 Growth Partners, GTM Capital, Berkeley Hills Capital",Unicorn
+Vestwell,1.0,2023-12-21,United States,New York,Financial Services,"Fin Capital, Primary Venture Partners, Lightspeed Venture Partners",Unicorn
+Lighthouse,1.0,2024-11-24,United Kingdom,London,Enterprise Tech,"F-Prime Capital, Eight Roads Ventures",Unicorn
+Moniepoint,1.0,2024-10-29,Nigeria,Lagos,Financial Services,"Lightrock, Novastar Ventures, QED Investors",Unicorn
+Speak,1.0,2024-12-10,United States,San Francisco,Enterprise Tech,"Khosla Ventures, OpenAI Startup Fund, Founders Fund",Unicorn
+Flo Health,1.0,2024-07-30,United Kingdom,London,Healthcare & Life Sciences,"Flint Capital, Target Global, Vostok New Ventures",Unicorn
+Just Salad,1.0,2025-02-24,United States,New York,Consumer & Retail,D1 Capital Partners,Unicorn
+Nimble,1.0,2024-10-23,United States,San Francisco,Industrials,"GSR Ventures, Breyer Capital, Accel",Unicorn
+Halcyon,1.0,2024-11-25,United States,Austin,Enterprise Tech,"Bain Capital Ventures, SYN Ventures, Evolution Equity Partners",Unicorn
+VectorBuilder,1.0,2022-10-10,United States,Chicago,Healthcare & Life Sciences,Legend Capital,Unicorn
+The Row,1.0,2024-09-12,United States,New York,Consumer & Retail,unknown,Unicorn
+Cosm,1.0,2024-07-31,United States,Los Angeles,Media & Entertainment,Bolt Ventures,Unicorn
+The Sandbox,1.0,2024-06-06,Malta,St. Julians,Media & Entertainment,"LG Technology Ventures, True Global Ventures, 1kx",Unicorn
+Minute Media,1.0,2024-01-30,United States,New York,Media & Entertainment,"Dawn Capital, Battery Ventures, Gemini Israel Ventures",Unicorn
+World Labs,1.0,2024-07-17,United States,Stanford,Enterprise Tech,"Andreessen Horowitz, Radical Ventures, New Enterprise Associates",Unicorn
+Merkle Manufactory,1.0,2024-03-30,United States,Los Angeles,Media & Entertainment,"Standard Crypto, Andreessen Horowitz, Union Square Ventures",Unicorn
+Perfios,1.0,2024-03-13,India,Mumbai,Financial Services,"Bessemer Venture Partners, Teachers' Venture Growth",Unicorn
+Tamara,1.0,2023-12-18,Saudi Arabia,Riyadh,Financial Services,unknown,Unicorn
+Semperis,1.0,2024-06-20,United States,Hoboken,Enterprise Tech,"Tech Pioneers Fund, Ten Eleven Ventures, Hudson Ventures",Unicorn
+Xreal,1.0,2024-01-29,China,Beijing,Media & Entertainment,"Hongtai Capital Holdings, Shunwei Capital, GP Capital",Unicorn
+Silverfort,1.0,2024-01-23,Israel,Tel Aviv,Enterprise Tech,"SingTel Innov8, Citi Ventures, Maor Investments",Unicorn
+Pigment,1.0,2024-04-03,France,Paris,Enterprise Tech,"FirstMark Capital, Meritech Capital Partners, Institutional Venture Partners",Unicorn
+Huma,1.0,2024-07-16,United Kingdom,London,Healthcare & Life Sciences,"Leaps by Bayer, Hitachi Ventures, Unilever Ventures",Unicorn
+IntraBio,1.0,2024-03-23,United Kingdom,Oxfordshire,Healthcare & Life Sciences,unknown,Unicorn
+Andalusia Labs,1.0,2023-12-13,United Arab Emirates,Abu Dhabi,Enterprise Tech,"Framework Ventures, Bain Capital Ventures, Dale Ventures",Unicorn
+EmployerDirect Healthcare,1.0,2023-12-19,United States,Dallas,Healthcare & Life Sciences,"Insight Partners, Texo Ventures",Unicorn
+Electric Hydrogen,1.0,2023-10-03,United States,Natick,Industrials,"Prelude Ventures, Breakthrough Energy Ventures, Fifth Wall",Unicorn
+TechMet,1.0,2023-12-07,Ireland,Dublin,Industrials,"S2G Ventures, Dale Ventures",Unicorn
+Altana AI,1.0,2024-07-29,United States,New York,Enterprise Tech,"Google Ventures, Amadeus Capital Partners, Activate Capital",Unicorn
+MaintainX,1.0,2023-12-06,United States,San Fransisco,Enterprise Tech,"August Capital, Ridge Ventures, Amity Ventures",Unicorn
+01.AI,1.0,2023-11-05,China,Beijing,Enterprise Tech,unknown,Unicorn
+MindMaze,1.0,2022-02-17,Switzerland,Lausanne,Healthcare & Life Sciences,Hambro Perks,Unicorn
+Avenue One,1.0,2023-05-15,United States,New York,Financial Services,unknown,Unicorn
+DataSnipper,1.0,2024-02-01,Netherlands,Amsterdam,Enterprise Tech,Index Ventures,Unicorn
+Flashbots,1.0,2023-07-21,Cayman Islands,Grand Cayman,Enterprise Tech,"Paradigm, Fabric Ventures",Unicorn
+Typeface,1.0,2023-06-29,United States,Los Altos,Enterprise Tech,"Google Ventures, Salesforce Ventures, Menlo Ventures",Unicorn
+Imbue,1.0,2023-09-07,United States,San Francisco,Enterprise Tech,unknown,Unicorn
+Restaurant365,1.0,2023-05-19,United States,Irvine,Consumer & Retail,Bessemer Venture Partners,Unicorn
+KoBold Metals,1.0,2023-06-20,United States,Berkeley,Industrials,"Andreessen Horowitz, Breakthrough Energy Ventures, Apollo Projects",Unicorn
+Go,1.0,2023-05-24,Japan,Tokyo,Industrials,Mirai Creation Fund,Unicorn
+Percent,1.0,2018-11-30,China,Beijing,Enterprise Tech,IDG Capital,Unicorn
+1Komma5,1.08,2023-06-23,Germany,Hamburg,Industrials,"Porsche Ventures, G2VP, b2venture",Unicorn
+Gradiant,1.0,2023-05-17,United States,Woburn,Industrials,"Safar Partners, WAVE Equity Partners, Cranberry Capital",Unicorn
+Palmetto,1.0,2022-02-24,United States,Charleston,Industrials,"Greycroft, Lerer Hippeau, ArcTern Ventures",Unicorn
+Humanity Protocol,1.0,2024-02-28,Hong Kong,Hong Kong,Financial Services,"Shima Capital, CMCC Global, MH Ventures",Unicorn
+Prove Identity,1.0,2020-06-18,United States,New York,Enterprise Tech,"Opus Capital, RRE Ventures, Relay Ventures",Unicorn
+Character.AI,1.0,2023-03-03,United States,Menlo Park,Media & Entertainment,Andreessen Horowitz,Unicorn
+Atmosphere,1.0,2023-02-07,United States,Austin,Media & Entertainment,S3 Ventures,Unicorn
+Adept,1.0,2023-03-14,United States,San Francisco,Enterprise Tech,"Greylock Partners, Addition, M12",Unicorn
+Beamery,1.0,2022-12-13,United Kingdom,London,Enterprise Tech,"Index Ventures, EQT Ventures, Workday Ventures",Unicorn
+Flow,2.5,2022-08-15,United States,New York,Financial Services,Andreessen Horowitz,Unicorn
+Xanadu,1.0,2022-11-09,Canada,Toronto,Enterprise Tech,"BDC Capital, Georgian, Bessemer Venture Partners",Unicorn
+Celestia,1.0,2022-10-19,Liechtenstein,Vaduz,Enterprise Tech,"Placeholder Capital, Coinbase Ventures, Binance Ventures",Unicorn
+Stability AI,1.0,2022-10-05,United Kingdom,London,Enterprise Tech,"Lightspeed Venture Partners, Coatue Management",Unicorn
+Satispay,1.0,2022-09-28,Italy,Milan,Financial Services,"Lightrock, Greyhound Capital, Endeavor",Unicorn
+Paystand,1.0,2022-08-02,United States,Scotts Valley,Financial Services,"BlueRun Ventures, LEAP Global Partners, Cervin Ventures",Unicorn
+Turntide Technologies,1.0,2022-06-15,United States,Sunnyvale,Industrials,"Meson Capital Partners, Fifth Wall Ventures, OGCI Climate Investments",Unicorn
+EcoVadis,1.0,2022-06-14,France,Paris,Enterprise Tech,"Astorg Partners, Princeville Global, Beyond Net Zero",Unicorn
+TransferMate,1.0,2022-05-22,Ireland,Kilkenny,Financial Services,Railway Pension Trustee Co. Ltd.,Unicorn
+Lookout,1.0,2013-10-10,United States,San Francisco,Enterprise Tech,"Accel Partners, Greylock Partners, Lowercase Capital",Unicorn
+Snapdeal,1.0,2014-05-21,India,New Delhi,Consumer & Retail,"SoftBankGroup, Blackrock, Alibaba Group",Unicorn
+TechStyle Fashion Group,1.0,2014-08-29,United States,El Segundo,Consumer & Retail,"Matrix Partners, Passport Capital, Rho Ventures",Unicorn
+Zebec,1.0,2022-08-29,United States,San Francisco,Financial Services,"Resolute Ventures, Shima Capital, Circle Ventures",Unicorn
+InMobi,1.0,2014-12-02,India,Bengaluru,Enterprise Tech,"Kleiner Perkins Caufield & Byers, Softbank Corp., Sherpalo Ventures",Unicorn
+LinkSure Network,1.0,2015-01-01,China,Shanghai,Industrials,unknown,Unicorn
+Red Ventures,1.0,2015-01-07,United States,Fort Mill,Media & Entertainment,"Silver Lake Partners, General Atlantic",Unicorn
+BeiBei,1.0,2015-01-22,China,Hangzhou,Consumer & Retail,"Banyan Capital, New Horizon Capital, IDG Capital Partners",Unicorn
+Lamabang,1.0,2015-03-06,China,Shenzhen,Consumer & Retail,"5Y Capital, Matrix Partners China, K2VC",Unicorn
+Jimu,1.0,2015-04-21,China,Beijing,Financial Services,"Matrix Partners China, Ventech China, Shunwei Capital Partners",Unicorn
+ShareCRM,1.0,2015-07-02,China,Beijing,Enterprise Tech,"IDG Capital, Northern Light Venture Capital, DCM Ventures",Unicorn
+Mia.com,1.0,2015-09-08,China,Beijing,Consumer & Retail,"Sequoia Capital China, ZhenFund, K2 Ventures",Unicorn
+58 Daojia,1.0,2015-10-12,China,Beijing,Consumer & Retail,"KKR, Alibaba Group, Ping An Insurance",Unicorn
+Womai,1.0,2015-10-12,China,Beijing,Consumer & Retail,"SAIF Partners China, Baidu, IDG Capital",Unicorn
+HuJiang,1.0,2015-10-29,China,Shanghai,Consumer & Retail,"China Minsheng Investment, Baidu, Wanxin Media",Unicorn
+iCarbonX,1.0,2016-04-12,China,Shenzhen,Healthcare & Life Sciences,"Tencent, Vcanbio",Unicorn
+Kendra Scott,1.0,2016-12-21,United States,Austin,Consumer & Retail,"Berkshire Partners, Norwest Venture Partners",Unicorn
+Zhuan Zhuan,1.0,2017-04-18,China,Beijing,Consumer & Retail,"58.com, Tencent Holdings",Unicorn
+DianRong,1.0,2017-08-02,China,Shanghai,Financial Services,"Standard Chartered, FinSight Ventures, Affirma Capital",Unicorn
+YH Global,1.0,2017-09-21,China,Shenzhen,Industrials,"Co-Energy Finance, Grandland",Unicorn
+Revolution Precrafted,1.0,2017-10-23,Philippines,Manila,Industrials,"K2 Global, 500 Startups",Unicorn
+WeLab,1.0,2017-11-08,Hong Kong,Hong Kong,Financial Services,"Sequoia Capital China, ING, Alibaba Entrepreneurs Fund",Unicorn
+Maimai,1.0,2017-11-15,China,Beijing,Media & Entertainment,"Morningside Venture Capital, IDG Capital, DCM Ventures",Unicorn
+Dxy.cn,1.0,2018-04-10,China,Hangzhou,Healthcare & Life Sciences,"Tencent Holdings, DCM Ventures",Unicorn
+HMD Global,1.0,2018-05-21,Finland,Espoo,Industrials,Ginko Ventures,Unicorn
+Huike Group,1.0,2018-05-24,China,Beijing,Enterprise Tech,"Fosun RZ Capital, Oceanwide Holdings, Shenzhen Qianhe Capital Management Co.",Unicorn
+ChinaC.com,1.0,2018-06-11,China,Wuxi,Enterprise Tech,"V Star Capital, GF Xinde Investment Management Co., Haitong Leading Capital Management",Unicorn
+LinkDoc Technology,1.0,2018-07-05,China,Beijing,Healthcare & Life Sciences,"China Investment Corporation, New Enterprise Associates",Unicorn
+Movile,1.0,2018-07-12,Brazil,Sao Paulo,Consumer & Retail,"Innova Capital - FIP, 3G Capital Management, Prosus Ventures",Unicorn
+Pat McGrath Labs,1.0,2018-07-16,United States,New York,Consumer & Retail,"One Luxury Group, Eurazeo",Unicorn
+Wacai,1.0,2018-07-18,China,Hangzhou,Financial Services,"Qiming Venture Partners, China Broadband Capital, CDH Investments",Unicorn
+FlashEx,1.0,2018-08-27,China,Beijing,Industrials,"Prometheus Capital, Matrix Partners China, JD Capital Management",Unicorn
+Banma Network Technologies,1.0,2018-09-13,China,Shanghai,Industrials,"Yunfeng Capital, SDIC Innovation Investment Management, Shang Qi Capital",Unicorn
+Tresata,1.0,2018-10-10,United States,Charlotte,Financial Services,GCP Capital Partners,Unicorn
+Momenta,1.0,2018-10-17,China,Beijing,Industrials,"Sinovation Ventures, Tencent Holdings, Sequoia Capital China",Unicorn
+Hosjoy,1.0,2018-10-18,China,Nanjing,Consumer & Retail,"U.S.-China Green Fund, Founder H Fund, Richland Equities",Unicorn
+Omio,1.0,2018-10-23,Germany,Berlin,Consumer & Retail,"Lakestar, Battery Ventures, New Enterprise Associates",Unicorn
+BitFury,1.0,2018-11-06,Netherlands,Amsterdam,Enterprise Tech,"Georgian Co-Investment Fund, iTech Capital, Galaxy Digital",Unicorn
+REEF Technology,1.0,2018-12-10,United States,Miami,Industrials,"Target Global, UBS Asset Management, Mubadala Capital",Unicorn
+Globality,1.0,2019-01-22,United States,Menlo Park,Enterprise Tech,SoftBank Group,Unicorn
+Ynsect,1.0,2019-02-21,France,Evry,Industrials,"Astanor Ventures, Upfront Ventures, IDInvest Partners",Unicorn
+Poizon,1.0,2019-04-29,China,Shanghai,Consumer & Retail,"DST Global, Sequoia Capital China, Gaorong Capital",Unicorn
+SITECH DEV,1.0,2019-05-16,China,Guiyang,Industrials,China Prosperity Capital,Unicorn
+KnowBox,1.0,2019-05-30,China,Beijing,Consumer & Retail,"TAL Education Group, Legend Star, Alibaba Group",Unicorn
+Meero,1.0,2019-06-18,France,Paris,Media & Entertainment,"Aglae Ventures, Global Founders Capital, Alven Capital",Unicorn
+C2FO,1.0,2019-08-07,United States,Leawood,Financial Services,"Union Square Ventures, Summerhill Venture Partners, Mithril Capital Management",Unicorn
+Numbrs,1.0,2019-08-22,Switzerland,Zurich,Financial Services,"Investment Corporation of Dubai, Centralway",Unicorn
+EBANX,1.0,2019-10-16,Brazil,Curitiba,Financial Services,"FTV Capital, Endeavor",Unicorn
+KK Group,3.0,2019-10-23,China,Dongguan,Consumer & Retail,"Matrix Partners China, Bright Venture Capita, Shenzhen Capital Group",Unicorn
+Hotmart,1.0,2020-03-17,Netherlands,Amsterdam,Consumer & Retail,"Technology Crossover Ventures, Alkeon Capital Management, General Atlantic",Unicorn
+Dubizzle Group,1.0,2020-04-28,United Arab Emirates,Dubai,Consumer & Retail,"OLX Group, KCK Group, EXOR Seeds",Unicorn
+Quizlet,1.0,2020-05-13,United States,San Francisco,Consumer & Retail,"Union Square Ventures, Altos Ventures, Costanoa Ventures",Unicorn
+Orca Bio,1.0,2020-06-17,United States,Menlo Park,Healthcare & Life Sciences,"Lightspeed Venture Partners, Data Collective, 8VC",Unicorn
+Infobip,1.0,2020-07-30,Croatia,Vodnjan,Enterprise Tech,One Equity Partners,Unicorn
+Zwift,1.0,2020-09-16,United States,Long Beach,Healthcare & Life Sciences,"Novator Partners, True, Causeway Media Partners",Unicorn
+Playco,1.0,2020-09-21,Japan,Tokyo,Media & Entertainment,"Sozo Ventures, Caffeinated Capital, Sequoia Capital",Unicorn
+Gousto,1.7,2020-11-03,United Kingdom,London,Consumer & Retail,"MMC Ventures, BGF Ventures, Unilever Ventures",Unicorn
+Alation,1.7,2021-06-03,United States,Redwood City,Enterprise Tech,"Costanoa Ventures, Data Collective, Salesforce Ventures",Unicorn
+Boom,1.5,2020-12-16,United States,Englewood,Industrials,"WRVI Capital, Caffeinated Capital, Y Combinator",Unicorn
+Quantum Metric,1.0,2021-01-07,United States,Colorado Springs,Enterprise Tech,"Insight Partners, Bain Capital Ventures",Unicorn
+News Break,1.0,2021-01-07,United States,Mountain View,Media & Entertainment,"IDG Capital, Francisco Partners, ZhenFund",Unicorn
+MadeiraMadeira,1.0,2021-01-07,Brazil,Parana,Consumer & Retail,"Flybridge Capital Partners, SoftBank Group, Monashees+",Unicorn
+PPRO,1.0,2021-01-19,United Kingdom,London,Financial Services,"Wellington Management, Eurazeo, Citi Ventures",Unicorn
+Splashtop,1.0,2021-01-27,United States,San Jose,Enterprise Tech,"Storm Ventures, DFJ DragonFund, New Enterprise Associates",Unicorn
+Axiom Space,1.0,2021-02-16,United States,Houston,Industrials,"C5 Capital, Hemisphere Ventures, The Venture Collective",Unicorn
+Locus Robotics,1.0,2021-02-17,United States,Wilmington,Industrials,"Scale Venture Partners, Bond, Tiger Global Management",Unicorn
+Standard AI,1.0,2021-02-17,United States,San Francisco,Consumer & Retail,"CRV, Y Combinator, Initialized Capital",Unicorn
+Newsela,1.0,2021-02-25,United States,New York,Consumer & Retail,"Owl Ventures, Technology Crossover Ventures, Tao Capital Partners",Unicorn
+Aqua Security,1.0,2021-03-10,Israel,Ramat Gan,Enterprise Tech,"TLV Partners, Lightspeed Venture Partners, M12",Unicorn
+PatSnap,1.0,2021-03-16,Singapore,Singapore,Enterprise Tech,"Sequoia Capital China, Shunwei Capital Partners, Qualgro",Unicorn
+Evidation,1.0,2021-03-22,United States,San Mateo,Healthcare & Life Sciences,"B Capital Group,, GE Ventures, McKesson Ventures",Unicorn
+Cameo,1.0,2021-03-30,United States,Chicago,Media & Entertainment,"Lightspeed Venture Partners, Kleiner Perkins Caufield & Byers, Origin Ventures",Unicorn
+Hyperchain,1.0,2021-04-11,China,Hangzhou,Enterprise Tech,"Yinhong Equity Investment Fund, E Fund, Ideal International",Unicorn
+The Zebra,1.0,2021-04-12,United States,Austin,Insurance,"Silverton Partners, Accel, Ballast Point Ventures",Unicorn
+Fiture,1.0,2021-04-14,China,Chengdu,Healthcare & Life Sciences,"Bertelsmann Asia Investments, Sequoia Capital China, NIO Capital",Unicorn
+Injective,1.0,2021-04-20,United States,New York,Financial Services,"Pantera Capital, Cadenza Ventures, BlockTower Capital",Unicorn
+Sift,1.0,2021-04-22,United States,San Francisco,Enterprise Tech,"Union Square Ventures, Insight Partners, Spark Capital",Unicorn
+Teya,1.0,2021-04-09,United Kingdom,London,Financial Services,"Tiger Global Management, Hedosophia",Unicorn
+Capsule,1.0,2021-04-28,United States,New York,Healthcare & Life Sciences,"Thrive Capital, Durable Capital Partners, G Squared",Unicorn
+MOLOCO,1.5,2021-04-29,United States,Redwood City,Enterprise Tech,"Smilegate Investment, DSC Investments, KTB Ventures",Unicorn
+Mux,1.0,2021-04-30,United States,San Francisco,Media & Entertainment,"Accel, Cobalt Capital, Andreessen Horowitz",Unicorn
+XForcePlus,1.0,2021-06-01,China,Shanghai,Enterprise Tech,"Eastern Bell Capital, Danhua Capital, MSA Capital",Unicorn
+Augustinus Bader,1.0,2022-11-09,United Kingdom,London,Consumer & Retail,General Atlantic,Unicorn
+Shift,1.0,2021-05-06,France,Paris,Insurance,"Griffin Gaming Partners, Andreessen Horowitz, Battery Ventures",Unicorn
+Zihaiguo,1.0,2021-05-06,China,Chongqing,Consumer & Retail,"Xingwang Investment Management, China Capital Investment Group, Matrix Partners China",Unicorn
+Forte Labs,1.73,2021-05-12,United States,San Francisco,Media & Entertainment,"Iris Capital, Accel, Elaia Partners",Unicorn
+Axtria,1.0,2021-05-13,United States,Berkeley Heights,Enterprise Tech,"Helion Venture Partners, Bain Capital Tech Opportunities, Sequoia Capital India",Unicorn
+Vise,1.0,2021-05-18,United States,New York,Financial Services,"Sequoia Capital, Founders Fund, Bling Capital",Unicorn
+Printful,1.0,2021-05-24,United States,Charlotte,Consumer & Retail,Bregal Sagemount,Unicorn
+Matrixport,1.05,2021-06-01,Singapore,Singapore,Financial Services,"Dragonfly Captial, Qiming Venture Partners, DST Global",Unicorn
+Shippo,1.0,2021-06-02,United States,San Francisco,Industrials,"Version One Ventures, Uncork Capital, Bessemer Venture Partners",Unicorn
+LetsGetChecked,1.0,2021-06-07,Ireland,Dublin,Healthcare & Life Sciences,"Optum Ventures, Qiming Venture Partners, Transformation Capital",Unicorn
+EcoFlow,1.0,2021-06-10,China,Shenzhen,Industrials,"Delian Capital, China International Capital Corporation, Sequoia Capital China",Unicorn
+Carro,1.0,2021-06-14,Singapore,Singapore,Industrials,"SingTel Innov8, Alpha JWC Ventures, Golden Gate Ventures",Unicorn
+Tractable,1.0,2021-06-16,United Kingdom,London,Insurance,"Insight Partners, Ignition Partners, Georgian Partners",Unicorn
+Xiaoe Tech,1.0,2021-06-15,China,Shenzhen,Enterprise Tech,"GGV Capital, Hillhouse Capital Management, IDG Capital",Unicorn
+Bringg,1.0,2021-06-16,Israel,Tel Aviv,Enterprise Tech,"Salesforce Ventures, next47, Pereg Ventures",Unicorn
+Simply,1.0,2021-06-21,Israel,Tel Aviv,Media & Entertainment,"Genesis Partners, Aleph, Insight Partners",Unicorn
+Worldcoin,1.0,2021-06-29,United States,San Francisco,Financial Services,"Day One Ventures, Coinbase Ventures, Andreessen Horowitz",Unicorn
+SmartAsset,1.0,2021-06-24,United States,New York,Financial Services,"Javelin Venture Partners, TTV Capital, Peterson Ventures",Unicorn
+Morning Consult,1.0,2021-06-08,United States,Washington DC,Enterprise Tech,"Advance Venture Partners, Susquehanna Growth Equity, Lupa Systems",Unicorn
+Visier,1.0,2021-06-29,Canada,Vancouver,Enterprise Tech,"Foundation Capital, Summit Partners, Adams Street Partners",Unicorn
+ShipBob,1.0,2021-06-29,United States,Chicago,Consumer & Retail,"Hyde Park Venture Partners, FundersClub. Bain Capital Ventures",Unicorn
+MobileCoin,1.06,2021-07-07,United States,San Francisco,Financial Services,"General Catalyst, Future Ventures, AU21",Unicorn
+Amperity,1.0,2021-07-13,United States,Seattle,Enterprise Tech,"Madrona Venture Group, Tiger Global Management, Madera Technology Partners",Unicorn
+Pantheon Systems,1.0,2021-07-13,United States,San Francisco,Enterprise Tech,"Foundry Group, Scale Venture Partners, SoftBank Group",Unicorn
+Xiaoice,1.0,2021-07-12,China,Beijing,Media & Entertainment,"NetEase Capital, Northern Light Venture Capital, Microsoft",Unicorn
+Caidya,1.0,2021-07-12,China,Shanghai,Healthcare & Life Sciences,"Qiming Venture Partners, Vivo Capital, Sequoia Capital China",Unicorn
+Carson Group,1.0,2021-07-14,United States,Lincoln,Financial Services,Bain Capital,Unicorn
+Bluecore,1.0,2021-08-05,United States,New York,Consumer & Retail,"FirstMark Capital, Georgian Partners, Norwest Venture Partners",Unicorn
+Freshbooks,1.0,2021-08-10,Canada,Toronto,Enterprise Tech,"Accomplice, Oak Investment Partners, Georgian Partners",Unicorn
+Gelato,1.0,2021-08-16,Norway,Oslo,Consumer & Retail,"Greylock Partners, Google Ventures, BlackRock",Unicorn
+Maven,1.7,2021-08-17,United States,New York,Healthcare & Life Sciences,"Female Founders Fund, Oak HC/FT Partners, Sequoia Capital",Unicorn
+PicsArt,1.0,2021-08-26,United States,San Francisco,Media & Entertainment,"Sequoia Capital, DCM Ventures, Insight Partners",Unicorn
+1KMXC,1.0,2021-08-30,China,Hangzhou,Industrials,"Goldman Sachs Asset Management, SDP Investment, Alibaba Group",Unicorn
+Cider,1.0,2021-09-02,Hong Kong,Hong Kong,Consumer & Retail,"Andreessen Horowitz, DST Global, IDG Capital",Unicorn
+Berlin Brands Group,1.0,2021-09-01,Germany,Berlin,Consumer & Retail,"Ardian, Bain Capital",Unicorn
+Agile Robots,1.0,2021-09-09,Germany,Munich,Industrials,"Hillhouse Capital Management, Sequoia Capital China, Linear Venture",Unicorn
+Mammoth Biosciences,1.0,2021-09-09,United States,Brisbane,Healthcare & Life Sciences,"NFX, Plum Alley, Mayfield",Unicorn
+Orchard,1.0,2021-09-09,United States,New York,Financial Services,"Accomplice, Juxtapose, FirstMark Capital",Unicorn
+Xendit,1.0,2021-09-14,Indonesia,Jakarta,Financial Services,"Accel, Y Combinator, Amasia",Unicorn
+TrueLayer,1.0,2021-09-21,United Kingdom,London,Financial Services,"Anthemis, Connect Ventures, Northzone Ventures",Unicorn
+Assembly,1.0,2021-09-21,United States,Culver City,Consumer & Retail,"Advent International, PSG, Providence Equity Partners",Unicorn
+PandaDoc,1.0,2021-09-22,United States,San Francisco,Enterprise Tech,"Rembrandt Venture Partners, M12, Altos Ventures",Unicorn
+Keenon Robotics,1.0,2021-09-15,China,Shanghai,Industrials,"Yunqi Partners, SoftBank Group, iVision Ventures",Unicorn
+HAYDON,1.0,2021-09-24,China,Shanghai,Consumer & Retail,"Tencent Holdings, Hillhouse Capital Management",Unicorn
+Ninja Van,1.0,2021-09-27,Singapore,Singapore,Consumer & Retail,"B Capital Group, Monk's Hill Ventures, Dynamic Parcel Distribution",Unicorn
+Vedantu,1.0,2021-09-29,India,Bengaluru,Consumer & Retail,"Accel, Tiger Global Management, Omidyar Network",Unicorn
+Formation Bio,1.0,2021-09-30,United States,New York,Healthcare & Life Sciences,"Sequoia Capital, Thrive Capital, Sound Ventures",Unicorn
+Ajaib,1.0,2021-10-04,Indonesia,Jakarta,Financial Services,"Softbank Ventures Asia, Alpha JWC Ventures, Insignia Ventures Partners",Unicorn
+Licious,1.0,2021-10-05,India,Bengaluru,Consumer & Retail,"3one4 Capital Partners, Bertelsmann India Investments, Vertex Ventures SE Asia",Unicorn
+Masterworks,1.0,2021-10-05,United States,New York,Financial Services,"Left Lane Capital, Galaxy Interactive, Tru Arrow Partners",Unicorn
+Solo.io,1.0,2021-10-07,United States,Cambridge,Enterprise Tech,"True Ventures, Altimeter Capital, Redpoint Ventures",Unicorn
+Savage X Fenty,1.0,2021-02-10,United States,El Segundo,Consumer & Retail,"Speedinvest, Valar Ventures, Uniqa Ventures",Unicorn
+Swile,1.0,2021-10-11,France,Montpellier,Enterprise Tech,"Index Ventures, IDInvest Partners, Daphni",Unicorn
+Zopa,1.0,2021-10-19,United Kingdom,London,Financial Services,"IAG Capital Partners, Augmentum Fintech, Northzone Ventures",Unicorn
+Dental Monitoring,1.0,2021-10-21,France,Paris,Healthcare & Life Sciences,"Vitruvian Partners, Merieux Equity Partners, Straumann",Unicorn
+CargoX,1.0,2021-10-21,Brazil,Sao Paulo,Industrials,"Valor Capital Group, Lightrock, Softbank Group",Unicorn
+Fabric,1.0,2021-10-26,United States,New York,Consumer & Retail,"Innovation Endeavors, Aleph, Temasek",Unicorn
+Augury,1.0,2021-10-26,United States,New York,Industrials,"Lerer Hippeau, Munich Re Ventures, Eclipse Ventures",Unicorn
+Moka,1.0,2021-11-02,China,Beijing,Enterprise Tech,"GGV Capital, GSR Ventures, FreesFund",Unicorn
+Tezign,1.0,2021-11-02,China,Shanghai,Enterprise Tech,"Sequoia Capital China, Linear Venture, Hearst Ventures",Unicorn
+Vagaro,1.0,2021-11-03,United States,Dublin,Consumer & Retail,FTV Capital,Unicorn
+IGAWorks,1.0,2021-11-08,South Korea,Seoul,Enterprise Tech,"Korea Investment Private Equity, Atinum Investment, Korea Investment Partners",Unicorn
+Contrast Security,1.0,2021-11-09,United States,Los Altos,Enterprise Tech,"Acero Capital, General Catalyst, M12",Unicorn
+Wrapbook,1.0,2021-11-10,United States,New York,Media & Entertainment,"Equal Ventures, Uncork Capital, Andreessen Horowitz",Unicorn
+Gaussian Robotics,1.1,2021-11-10,China,Shanghai,Industrials,"BlueRun Ventures, Grand Flight Investment, Meituan Dianping",Unicorn
+Substack,1.1,2025-07-17,United States,San Francisco,Enterprise Tech,"Bond, Andreessen Horowitz, J17 Capital",Unicorn
+Mensa Brands,1.0,2021-11-16,India,Bengaluru,Consumer & Retail,"Accel, Falcon Edge Capital, Norwest Venture Partners",Unicorn
+PLACE,1.0,2021-11-17,United States,Bellingham,Financial Services,"Goldman Sachs Asset Management, 3L",Unicorn
+Owkin,1.0,2021-11-18,United States,New York,Healthcare & Life Sciences,"Google Ventures, Cathay Innovation, NJF Capital",Unicorn
+Expel,1.0,2021-11-18,United States,Herndon,Enterprise Tech,"Paladin Capital Group, Greycroft, Scale Venture Partners",Unicorn
+NoBroker,1.0,2021-11-23,India,Bengaluru,Financial Services,"General Atlantic, Elevation Capital, BEENEXT",Unicorn
+Lessen,1.0,2021-11-30,United States,Scottsdale,Financial Services,"Khosla Ventures, General Catalyst, Navitas Capital",Unicorn
+Clara,1.0,2021-12-06,Mexico,Mexico City,Financial Services,"DST Global, General Catalyst, Monashees+",Unicorn
+YipitData,1.0,2021-12-06,United States,New York,Enterprise Tech,"RRE Ventures+, Highland Capital Partners, The Carlyle Group",Unicorn
+Anyscale,1.0,2021-12-07,United States,Berkeley,Enterprise Tech,"Andreessen Horowitz, Intel Capital, Foundation Capital",Unicorn
+Quantum Systems,3.48,2025-05-06,Germany,Gilching,Industrials,"Notion Capital, Bayern Kapital",Unicorn
+ReliaQuest,3.4,2021-12-01,United States,Tampa,Enterprise Tech,"KKR, FTV Capital, Ten Eleven Ventures",Unicorn
+Pet Circle,1.0,2021-12-06,Australia,Alexandria,Consumer & Retail,"Prysm Capital, Baillie Gifford & Co., TDM Growth Partners",Unicorn
+Nature's Fynd,1.0,2021-07-19,United States,Chicago,Consumer & Retail,"Danone Manifesto Ventures, 1955 Capital, Breakthrough Energy Ventures",Unicorn
+Lydia,1.0,2021-12-08,France,Paris,Financial Services,"NewAlpha, XAnge Private Equity, Tencent Holdings",Unicorn
+SellerX,1.0,2021-12-09,Germany,Berlin,Consumer & Retail,"Cherry Ventures, Felix Capital, 83North",Unicorn
+SnapLogic,1.0,2021-12-13,United States,San Mateo,Enterprise Tech,"Andreessen Horowitz, Triangle Peak Partners, Ignition Partners",Unicorn
+Cadence,1.0,2021-12-14,United States,New York,Healthcare & Life Sciences,"Thrive Capital, General Catalyst, Coatue Management",Unicorn
+Rothy's,1.0,2021-12-21,United States,San Francisco,Consumer & Retail,"Alpargatas, GS Growth, Lightspeed Venture Partners",Unicorn
+VOI,1.0,2021-12-21,Sweden,Stockholm,Industrials,"Vostok New Ventures, The Raine Group, Balderton Capital",Unicorn
+Haomo.AI,1.0,2021-12-22,China,Beijing,Industrials,"Qualcomm Ventures, Nine Intelligence Capital, Hillhouse Capital Management",Unicorn
+Kopi Kenangan,1.0,2021-12-27,Indonesia,Jakarta,Consumer & Retail,"Horizons Ventures, Sequoia Capital India, Alpha JWC Ventures",Unicorn
+InFarm,1.0,2021-12-16,Germany,Berlin,Industrials,"Atomico, Hanaco Venture Capital, TriplePoint Capital",Unicorn
+ONE,1.35,2021-12-08,Singapore,Singapore,Media & Entertainment,"Temasek, Guggenheim Investments, Qatar Investment Authority",Unicorn
+Pentera,1.0,2022-01-11,Israel,Petah Tikva,Enterprise Tech,"AWZ Ventures, Blackstone, Insight Partners",Unicorn
+Darwinbox,1.0,2022-01-25,India,Hyderabad,Enterprise Tech,"Lightspeed India Partners, Sequoia Capital India, Endiya Partners",Unicorn
+Minio,1.0,2022-01-26,United States,Palo Alto,Enterprise Tech,"General Catalyst, Nexus Venture Partners, Dell Technologies Capital",Unicorn
+Esusu,1.2,2022-01-27,United States,New York,Financial Services,"Next Play Ventures, Zeal Capital Partners, SoftBank Group",Unicorn
+Betterfly,1.0,2022-02-01,Chile,Santiago,Enterprise Tech,"QED Investors, DST Global, Endeavor",Unicorn
+Dune Analytics,1.0,2022-02-02,Norway,Oslo,Enterprise Tech,"Multicoin Capital, Coatue Management, Dragonfly Capital Partners",Unicorn
+Scandit,1.0,2022-02-09,Switzerland,Zurich,Enterprise Tech,"Atomico, NGP Capital, Google Ventures",Unicorn
+Payhawk,1.0,2022-02-14,United Kingdom,London,Enterprise Tech,"Earlybird Venture Capital, Eleven Ventures, QED Investors",Unicorn
+Watershed,1.0,2022-02-08,United States,San Francisco,Enterprise Tech,"Kleiner Perkins Caufield & Byers, Sequoia Capital",Unicorn
+Axelar,1.0,2022-02-15,Canada,Waterloo,Enterprise Tech,"Lemniscap VC, North Island Ventures, Polychain Capital",Unicorn
+CHEQ,1.0,2022-02-22,United States,New York,Enterprise Tech,"Battery Ventures, Tiger Global Management, Hanaco Ventures",Unicorn
+Hasura,1.0,2022-02-22,India,Bengaluru,Enterprise Tech,"Nexus Venture Partners, Vertex Ventures, STRIVE",Unicorn
+Timescale,1.0,2022-02-22,United States,New York,Enterprise Tech,"New Enterprise Associates, Benchmark, Two Sigma Ventures",Unicorn
+Scalapay,1.0,2022-02-23,Italy,Milan,Financial Services,"Fasanara Capital, Tiger Global Management, Baleen Capital",Unicorn
+Omada Health,1.0,2022-02-23,United States,San Francisco,Healthcare & Life Sciences,"U.S. Venture Partners, dRx Capital, Andreessen Horowitz",Unicorn
+BlueVoyant,1.0,2022-02-23,United States,New York,Enterprise Tech,"8VC, Liberty Strategic Capital, Eden Global Partners",Unicorn
+Vendr,1.0,2022-02-24,United States,Boston,Enterprise Tech,"Craft Ventures, F-Prime Capital, Sound Ventures",Unicorn
+Gauntlet Networks,1.0,2022-03-07,United States,New York,Financial Services,"Polychain Capital, Paradigm, Ribbit Capital",Unicorn
+Aptos,1.0,2022-03-15,United States,Palo Alto,Enterprise Tech,"Andreessen Horowitz, Coinbase Ventures, Tiger Global Management",Unicorn
+Glia,1.0,2022-03-21,United States,New York,Enterprise Tech,"Wildcat Capital Management, Insight Partners, Tola Capital",Unicorn
+CommerceIQ,1.0,2022-03-21,United States,Palo Alto,Consumer & Retail,"Trinity Ventures, Madrona Venture Group, Shasta Ventures",Unicorn
+Tarana Wireless,1.0,2022-03-23,United States,Milpitas,Industrials,"Prime Movers Lab, Khosla Ventures, I Squared Capital",Unicorn
+FLASH,1.0,2022-03-16,United States,Austin,Industrials,"L Catterton, Trellis Partners, Vista Equity Partners",Unicorn
+Electric,1.0,2022-03-29,United States,New York,Enterprise Tech,"Primary Venture Partners, Bessemer Venture Partners, Harmonic Growth Partners",Unicorn
+BostonGene,1.0,2022-04-06,United States,Waltham,Healthcare & Life Sciences,"Japan Industrial Partners, Impact Investment Capital, NEC",Unicorn
+Grover,1.0,2022-04-07,Germany,Berlin,Consumer & Retail,"Varengold Bank, Circularity Capital, Coparion",Unicorn
+Genies,1.0,2022-04-12,United States,Venice,Media & Entertainment,"New Enterprise Associates, Tull Investment Group, Silver Lake",Unicorn
+NexHealth,1.0,2022-04-21,United States,San Francisco,Healthcare & Life Sciences,"iSeed Ventures, Point Nine Capital, Buckley Ventures",Unicorn
+UPSIDE Foods,1.0,2022-04-21,United States,Berkeley,Consumer & Retail,"Battery Ventures, Adams Street Partners, Coatue Management",Unicorn
+Factorial,1.0,2022-10-11,Spain,Barcelona,Enterprise Tech,"K Fund, Creandum, CRV",Unicorn
+Divergent 3D,2.3,2022-04-25,United States,Torrance,Industrials,"Hedosophia, Horizons Ventures, Alumni Ventures Group",Unicorn
+Taxfix,1.0,2022-04-28,Germany,Berlin,Financial Services,"Valar Ventures, Index Ventures, Creandum",Unicorn
+Open,1.0,2022-05-02,India,Bengaluru,Financial Services,"3one4 Capital Partners, Tiger Global Management, Temasek",Unicorn
+Opn,1.0,2022-05-09,Japan,Tokyo,Financial Services,"Sinar Mas Digital Ventures, JIC Venture Growth Investments, Golden Gate Ventures",Unicorn
+Remarkable,1.0,2022-05-10,Norway,Oslo,Consumer & Retail,Spark Capital,Unicorn
+Habi,1.0,2022-05-11,Colombia,Bogota,Financial Services,"Homebrew, Inspired Capital, Tiger Global Management",Unicorn
+CareBridge,1.0,2022-06-08,United States,Nashville,Healthcare & Life Sciences,"Bain Capital Ventures, Splunk Ventures, Cisco Investments",Unicorn
+Immuta,1.0,2022-06-08,United States,Boston,Enterprise Tech,"DFJ Growth Fund, Dell Technologies Capital, Ten Eleven Ventures",Unicorn
+JupiterOne,1.0,2022-06-02,United States,Morrisville,Enterprise Tech,"Bain Capital Ventures, Splunk Ventures, Cisco Investments",Unicorn
+Vayyar,1.0,2022-06-06,Israel,Yehud,Industrials,"Battery Ventures, Bessemer Venture Partners, MoreVC",Unicorn
+LeadSquared,1.0,2022-06-21,India,Bengaluru,Enterprise Tech,"Gaja Capital Partners, Stakeboat Capital, WestBridge Capital",Unicorn
+FourKites,1.0,2022-06-21,United States,Chicago,Enterprise Tech,"Hyde Park Venture Partners, Bain Capital Ventures, Hyde Park Angels",Unicorn
+VulcanForms,1.0,2022-07-05,United States,Burlington,Industrials,"Eclipse Ventures, D1 Capital Partners, Industry Ventures",Unicorn
+SingleStore,1.0,2022-07-12,United States,San Francisco,Enterprise Tech,"Google Ventures, Accel, Data Collective",Unicorn
+Unstoppable Domains,1.0,2022-07-27,United States,Las Vegas,Media & Entertainment,"Boost VC, Draper Associates, Gaingels",Unicorn
